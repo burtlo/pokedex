@@ -1,0 +1,201 @@
+{
+  "index": 568,
+  "name": "Trubbish",
+  "image_url": "http://serebii.net/xy/pokemon/568.png",
+  "types": [
+    "poison"
+  ],
+  "evolves_to": [
+    568,
+    569
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "—",
+      "name": "Poison Gas",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A cloud of poison gas is sprayed in the face of opposing Pokémon. It may poison those hit."
+    },
+    {
+      "level": "3",
+      "name": "Recycle",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user recycles a held item that has been used in battle so it can be used again."
+    },
+    {
+      "level": "7",
+      "name": "Toxic Spikes",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of poison spikes at the opponent's feet. They poison opponents that switch into battle."
+    },
+    {
+      "level": "12",
+      "name": "Acid Spray",
+      "type": "poison",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user spits fluid that works to melt the target. This harshly reduces the target's Sp. Def stat."
+    },
+    {
+      "level": "14",
+      "name": "Double Slap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is slapped repeatedly, back and forth, two to five times in a row."
+    },
+    {
+      "level": "18",
+      "name": "Sludge",
+      "type": "poison",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "Unsanitary sludge is hurled at the target. It may also poison the target."
+    },
+    {
+      "level": "23",
+      "name": "Stockpile",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user charges up power and raises both its Defense and Sp. Def. The move can be used three times."
+    },
+    {
+      "level": "23",
+      "name": "Swallow",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP."
+    },
+    {
+      "level": "25",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "29",
+      "name": "Sludge Bomb",
+      "type": "poison",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "Unsanitary sludge is hurled at the target. It may also poison the target."
+    },
+    {
+      "level": "34",
+      "name": "Clear Smog",
+      "type": "poison",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks by throwing a clump of special mud. All status changes are returned to normal."
+    },
+    {
+      "level": "36",
+      "name": "Toxic",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A move that leaves the target badly poisoned. Its poison damage worsens every turn."
+    },
+    {
+      "level": "40",
+      "name": "Amnesia",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat."
+    },
+    {
+      "level": "42",
+      "name": "Belch",
+      "type": "poison",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets out a damaging belch on the target. The user must eat a Berry to use this move."
+    },
+    {
+      "level": "45",
+      "name": "Gunk Shot",
+      "type": "poison",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "The user shoots filthy garbage at the target to attack. It may also poison the target."
+    },
+    {
+      "level": "47",
+      "name": "Explosion",
+      "type": "normal",
+      "category": "physical",
+      "attack": "250",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user explodes to inflict damage on those around it. The user faints upon using this move."
+    }
+  ]
+}

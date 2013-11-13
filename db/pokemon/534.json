@@ -1,0 +1,213 @@
+{
+  "index": 534,
+  "name": "Conkeldurr",
+  "image_url": "http://serebii.net/xy/pokemon/534.png",
+  "types": [
+    "fighting"
+  ],
+  "evolves_to": [
+    532,
+    533,
+    534
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "—",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "4",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "8",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "12",
+      "name": "Low Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A powerful low kick that makes the target fall over. It inflicts greater damage on heavier targets."
+    },
+    {
+      "level": "16",
+      "name": "Rock Throw",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user picks up and throws a small rock at the target to attack."
+    },
+    {
+      "level": "20",
+      "name": "Wake-Up Slap",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack inflicts big damage on a sleeping target. It also wakes the target up, however."
+    },
+    {
+      "level": "24",
+      "name": "Chip Away",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Looking for an opening, the user strikes continually. The target's stat changes don't affect this attack's damage."
+    },
+    {
+      "level": "29",
+      "name": "Bulk Up",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats."
+    },
+    {
+      "level": "33",
+      "name": "Rock Slide",
+      "type": "rock",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "Large boulders are hurled at the opposing team to inflict damage. It may also make the targets flinch."
+    },
+    {
+      "level": "37",
+      "name": "Dynamic Punch",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "50",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user punches the target with full, concentrated power. It confuses the target if it hits."
+    },
+    {
+      "level": "41",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "45",
+      "name": "Hammer Arm",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however."
+    },
+    {
+      "level": "49",
+      "name": "Stone Edge",
+      "type": "rock",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio."
+    },
+    {
+      "level": "53",
+      "name": "Focus Punch",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used."
+    },
+    {
+      "level": "57",
+      "name": "Superpower",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user attacks the target with great power. However, it also lowers the user's Attack and Defense."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "index": 447,
+  "name": "Riolu",
+  "image_url": "http://serebii.net/xy/pokemon/447.png",
+  "types": [
+    "fighting"
+  ],
+  "evolves_to": [
+    447,
+    448,
+    448
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Foresight",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "—",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "—",
+      "name": "Endure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "6",
+      "name": "Counter",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A retaliation move that counters any physical attack, inflicting double the damage taken."
+    },
+    {
+      "level": "11",
+      "name": "Feint",
+      "type": "normal",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack that hits a target using Protect or Detect. It also lifts the effects of those moves."
+    },
+    {
+      "level": "15",
+      "name": "Force Palm",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The target is attacked with a shock wave. It may also leave the target with paralysis."
+    },
+    {
+      "level": "19",
+      "name": "Copycat",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user mimics the move used immediately before it. The move fails if no other move has been used yet."
+    },
+    {
+      "level": "24",
+      "name": "Screech",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "An earsplitting screech harshly reduces the target's Defense stat."
+    },
+    {
+      "level": "29",
+      "name": "Reversal",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "An all-out attack that becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "47",
+      "name": "Nasty Plot",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk."
+    },
+    {
+      "level": "50",
+      "name": "Final Gambit",
+      "type": "fighting",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user risks everything to attack its target. The user faints but does damage equal to the user's HP."
+    }
+  ]
+}

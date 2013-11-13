@@ -1,0 +1,15 @@
+{
+  "index": 523,
+  "name": "Zebstrika",
+  "image_url": "http://serebii.net/xy/pokemon/523.png",
+  "types": [
+    "electric"
+  ],
+  "evolves_to": [
+    522,
+    523
+  ],
+  "moves": [
+
+  ]
+}

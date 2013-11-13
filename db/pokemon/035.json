@@ -1,0 +1,280 @@
+{
+  "index": 35,
+  "name": "Clefairy",
+  "image_url": "http://serebii.net/xy/pokemon/035.png",
+  "types": [
+    "fairy"
+  ],
+  "evolves_to": [
+    173,
+    35,
+    0,
+    36
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "After You",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user helps the target and makes it use its move right after the user."
+    },
+    {
+      "level": "—",
+      "name": "Healing Wish",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user faints. In return, the Pokémon taking its place will have its HP restored and status cured."
+    },
+    {
+      "level": "—",
+      "name": "Disarming Voice",
+      "type": "fairy",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses."
+    },
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "7",
+      "name": "Sing",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A soothing lullaby is sung in a calming voice that puts the target into a deep slumber."
+    },
+    {
+      "level": "10",
+      "name": "Double Slap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is slapped repeatedly, back and forth, two to five times in a row."
+    },
+    {
+      "level": "13",
+      "name": "Defense Curl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user curls up to conceal weak spots and raise its Defense stat."
+    },
+    {
+      "level": "16",
+      "name": "Follow Me",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user draws attention to itself, making all targets take aim only at the user."
+    },
+    {
+      "level": "19",
+      "name": "Bestow",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user passes its held item to the target when the target isn't holding an item."
+    },
+    {
+      "level": "22",
+      "name": "Wake-Up Slap",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack inflicts big damage on a sleeping target. It also wakes the target up, however."
+    },
+    {
+      "level": "25",
+      "name": "Minimize",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user compresses its body to make itself look smaller, which sharply raises its evasiveness."
+    },
+    {
+      "level": "28",
+      "name": "Stored Power",
+      "type": "psychic",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks the target with stored power. The more the user's stats are raised, the greater the damage."
+    },
+    {
+      "level": "31",
+      "name": "Metronome",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user waggles a finger and stimulates its brain into randomly using nearly any move."
+    },
+    {
+      "level": "34",
+      "name": "Cosmic Power",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user absorbs a mystical power from space to raise its Defense and Sp. Def stats."
+    },
+    {
+      "level": "37",
+      "name": "Lucky Chant",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits."
+    },
+    {
+      "level": "40",
+      "name": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user drops onto the target with its full body weight. It may also leave the target with paralysis."
+    },
+    {
+      "level": "43",
+      "name": "Moonlight",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "46",
+      "name": "Moonblast",
+      "type": "fairy",
+      "category": "special",
+      "attack": "95",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat."
+    },
+    {
+      "level": "49",
+      "name": "Gravity",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "Gravity is intensified for five turns, making moves involving flying unusable and negating Levitate."
+    },
+    {
+      "level": "50",
+      "name": "Meteor Mash",
+      "type": "steel",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "20",
+      "description": "The target is hit with a hard punch fired like a meteor. It may also raise the user's Attack."
+    },
+    {
+      "level": "55",
+      "name": "Healing Wish",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user faints. In return, the Pokémon taking its place will have its HP restored and status cured."
+    },
+    {
+      "level": "58",
+      "name": "After You",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user helps the target and makes it use its move right after the user."
+    }
+  ]
+}

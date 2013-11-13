@@ -1,0 +1,223 @@
+{
+  "index": 114,
+  "name": "Tangela",
+  "image_url": "http://serebii.net/xy/pokemon/114.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    114,
+    465
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Ingrain",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays roots that restore its HP on every turn. Because it is rooted, it can't switch out."
+    },
+    {
+      "level": "—",
+      "name": "Constrict",
+      "type": "normal",
+      "category": "physical",
+      "attack": "10",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "10",
+      "description": "The target is attacked with long, creeping tentacles or vines. It may also lower the target's Speed stat."
+    },
+    {
+      "level": "4",
+      "name": "Sleep Powder",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user scatters a big cloud of sleep-inducing dust around the target."
+    },
+    {
+      "level": "7",
+      "name": "Vine Whip",
+      "type": "grass",
+      "category": "physical",
+      "attack": "45",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is struck with slender, whiplike vines to inflict damage."
+    },
+    {
+      "level": "10",
+      "name": "Absorb",
+      "type": "grass",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "14",
+      "name": "Poison Powder",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of poisonous dust on the target. It may poison the target."
+    },
+    {
+      "level": "17",
+      "name": "Bind",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns."
+    },
+    {
+      "level": "20",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "23",
+      "name": "Mega Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "27",
+      "name": "Knock Off",
+      "type": "dark",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user slaps down the target's held item, preventing that item from being used in the battle."
+    },
+    {
+      "level": "30",
+      "name": "Stun Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of paralyzing powder. It may leave the target with paralysis."
+    },
+    {
+      "level": "33",
+      "name": "Natural Gift",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power."
+    },
+    {
+      "level": "36",
+      "name": "Giga Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "38",
+      "name": "Ancient Power",
+      "type": "rock",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The user attacks with a prehistoric power. It may also raise all the user's stats at once."
+    },
+    {
+      "level": "41",
+      "name": "Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "75",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slammed with a long tail, vines, etc., to inflict damage."
+    },
+    {
+      "level": "44",
+      "name": "Tickle",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tickles the target into laughing, reducing its Attack and Defense stats."
+    },
+    {
+      "level": "46",
+      "name": "Wring Out",
+      "type": "normal",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user powerfully wrings the target. The more HP the target has, the greater this attack's power."
+    },
+    {
+      "level": "48",
+      "name": "Grassy Terrain",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user turns the ground under everyone's feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn."
+    },
+    {
+      "level": "50",
+      "name": "Power Whip",
+      "type": "grass",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user violently whirls its vines or tentacles to harshly lash the target."
+    }
+  ]
+}

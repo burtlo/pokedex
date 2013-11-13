@@ -1,0 +1,16 @@
+{
+  "index": 535,
+  "name": "Tympole",
+  "image_url": "http://serebii.net/xy/pokemon/535.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    535,
+    536,
+    537
+  ],
+  "moves": [
+
+  ]
+}

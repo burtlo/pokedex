@@ -1,0 +1,15 @@
+{
+  "index": 431,
+  "name": "Glameow",
+  "image_url": "http://serebii.net/xy/pokemon/431.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    431,
+    432
+  ],
+  "moves": [
+
+  ]
+}

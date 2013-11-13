@@ -1,0 +1,192 @@
+{
+  "index": 215,
+  "name": "Sneasel",
+  "image_url": "http://serebii.net/xy/pokemon/215.png",
+  "types": [
+    "dark",
+    "ice"
+  ],
+  "evolves_to": [
+    215,
+    0,
+    461
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Scratch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "Hard, pointed, and sharp claws rake the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "8",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "10",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "14",
+      "name": "Icy Wind",
+      "type": "ice",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user attacks with a gust of chilled air. It also reduces the targets' Speed stat."
+    },
+    {
+      "level": "16",
+      "name": "Fury Swipes",
+      "type": "normal",
+      "category": "physical",
+      "attack": "18",
+      "accuracy": "80",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The target is raked with sharp claws or scythes for two to five times in quick succession."
+    },
+    {
+      "level": "20",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "22",
+      "name": "Metal Claw",
+      "type": "steel",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "95",
+      "pp": "35",
+      "effect_percent": "10",
+      "description": "The target is raked with steel claws. It may also raise the user's Attack stat."
+    },
+    {
+      "level": "25",
+      "name": "Hone Claws",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user sharpens its claws to boost its Attack stat and accuracy."
+    },
+    {
+      "level": "28",
+      "name": "Beat Up",
+      "type": "dark",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks."
+    },
+    {
+      "level": "32",
+      "name": "Screech",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "An earsplitting screech harshly reduces the target's Defense stat."
+    },
+    {
+      "level": "35",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "40",
+      "name": "Snatch",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user steals the effects of any healing or stat-changing move the opponent attempts to use."
+    },
+    {
+      "level": "44",
+      "name": "Punishment",
+      "type": "dark",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This attack's power increases the more the target has powered up with stat changes."
+    },
+    {
+      "level": "47",
+      "name": "Ice Shard",
+      "type": "ice",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user flash freezes chunks of ice and hurls them at the target. This move always goes first."
+    }
+  ]
+}

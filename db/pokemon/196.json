@@ -1,0 +1,172 @@
+{
+  "index": 196,
+  "name": "Espeon",
+  "image_url": "http://serebii.net/xy/pokemon/196.png",
+  "types": [
+    "psychic"
+  ],
+  "evolves_to": [
+    133,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Helping Hand",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user assists an ally by boosting the power of its attack."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "5",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "9",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "13",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "17",
+      "name": "Swift",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Star-shaped rays are shot at the opposing team. This attack never misses."
+    },
+    {
+      "level": "21",
+      "name": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is attacked with a peculiar ray. It may also cause confusion."
+    },
+    {
+      "level": "25",
+      "name": "Future Sight",
+      "type": "psychic",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Two turns after this move is used, a hunk of psychic energy attacks the target."
+    },
+    {
+      "level": "29",
+      "name": "Psych Up",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hypnotizes itself into copying any stat change made by the target."
+    },
+    {
+      "level": "33",
+      "name": "Morning Sun",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "37",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "41",
+      "name": "Last Resort",
+      "type": "normal",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move can be used only after the user has used all the other moves it knows in the battle."
+    },
+    {
+      "level": "45",
+      "name": "Power Swap",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to switch changes to its Attack and Sp. Atk with the target."
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "index": 416,
+  "name": "Vespiquen",
+  "image_url": "http://serebii.net/xy/pokemon/416.png",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "evolves_to": [
+    415,
+    416
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Fell Stinger",
+      "type": "bug",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "When the user knocks out a target with this move, the user's Attack stat rises sharply."
+    },
+    {
+      "level": "—",
+      "name": "Destiny Bond",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints."
+    },
+    {
+      "level": "—",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "—",
+      "name": "Gust",
+      "type": "flying",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A gust of wind is whipped up by wings and launched at the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Poison Sting",
+      "type": "poison",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "30",
+      "description": "The user stabs the target with a poisonous stinger. This may also poison the target."
+    },
+    {
+      "level": "—",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "5",
+      "name": "Fury Cutter",
+      "type": "bug",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slashed with scythes or claws. Its power increases if it hits in succession."
+    },
+    {
+      "level": "9",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "13",
+      "name": "Fury Swipes",
+      "type": "normal",
+      "category": "physical",
+      "attack": "18",
+      "accuracy": "80",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The target is raked with sharp claws or scythes for two to five times in quick succession."
+    },
+    {
+      "level": "17",
+      "name": "Defend Order",
+      "type": "bug",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats."
+    },
+    {
+      "level": "21",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "25",
+      "name": "Power Gem",
+      "type": "rock",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user attacks with a ray of light that sparkles as if it were made of gemstones."
+    },
+    {
+      "level": "29",
+      "name": "Heal Order",
+      "type": "bug",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user calls out its underlings to heal it. The user regains up to half of its max HP."
+    },
+    {
+      "level": "33",
+      "name": "Toxic",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A move that leaves the target badly poisoned. Its poison damage worsens every turn."
+    },
+    {
+      "level": "37",
+      "name": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch."
+    },
+    {
+      "level": "41",
+      "name": "Captivate",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "If it is the opposite gender of the user, the target is charmed into harshly lowering its Sp. Atk stat."
+    },
+    {
+      "level": "45",
+      "name": "Attack Order",
+      "type": "bug",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user calls out its underlings to pummel the target. Critical hits land more easily."
+    },
+    {
+      "level": "49",
+      "name": "Swagger",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user enrages and confuses the target. However, it also sharply raises the target's Attack stat."
+    },
+    {
+      "level": "53",
+      "name": "Destiny Bond",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints."
+    },
+    {
+      "level": "57",
+      "name": "Fell Stinger",
+      "type": "bug",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "When the user knocks out a target with this move, the user's Attack stat rises sharply."
+    }
+  ]
+}

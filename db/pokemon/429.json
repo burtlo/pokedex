@@ -1,0 +1,16 @@
+{
+  "index": 429,
+  "name": "Mismagius",
+  "image_url": "http://serebii.net/xy/pokemon/429.png",
+  "types": [
+    "ghost"
+  ],
+  "evolves_to": [
+    200,
+    0,
+    429
+  ],
+  "moves": [
+
+  ]
+}

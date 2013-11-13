@@ -1,0 +1,191 @@
+{
+  "index": 668,
+  "name": "Pyroar",
+  "image_url": "http://serebii.net/xy/pokemon/668.png",
+  "types": [
+    "fire",
+    "normal"
+  ],
+  "evolves_to": [
+    667,
+    668
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "5",
+      "name": "Ember",
+      "type": "fire",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is attacked with small flames. It may also leave the target with a burn."
+    },
+    {
+      "level": "8",
+      "name": "Work Up",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user is roused, and its Attack and Sp. Atk stats increase."
+    },
+    {
+      "level": "11",
+      "name": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user sticks out its head and attacks by charging straight into the target. It may also make the target flinch."
+    },
+    {
+      "level": "15",
+      "name": "Noble Roar",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats."
+    },
+    {
+      "level": "20",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "23",
+      "name": "Fire Fang",
+      "type": "fire",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned."
+    },
+    {
+      "level": "28",
+      "name": "Endeavor",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "An attack move that cuts down the target's HP to equal the user's HP."
+    },
+    {
+      "level": "33",
+      "name": "Echoed Voice",
+      "type": "normal",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage."
+    },
+    {
+      "level": "38",
+      "name": "Flamethrower",
+      "type": "fire",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is scorched with an intense blast of fire. It may also leave the target with a burn."
+    },
+    {
+      "level": "42",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "48",
+      "name": "Hyper Voice",
+      "type": "normal",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a horribly echoing shout with the power to inflict damage."
+    },
+    {
+      "level": "51",
+      "name": "Incinerate",
+      "type": "fire",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with fire. If the target is holding a Berry, the Berry becomes burnt up and unusable."
+    },
+    {
+      "level": "57",
+      "name": "Overheat",
+      "type": "fire",
+      "category": "special",
+      "attack": "130",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user attacks the target at full power. The attack's recoil harshly reduces the user's Sp. Atk stat."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "index": 609,
+  "name": "Chandelure",
+  "image_url": "http://serebii.net/xy/pokemon/609.png",
+  "types": [
+    "ghost",
+    "fire"
+  ],
+  "evolves_to": [
+    607,
+    608,
+    0,
+    609
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Pain Split",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user adds its HP to the target's HP, then equally shares the combined HP with the target."
+    },
+    {
+      "level": "—",
+      "name": "Smog",
+      "type": "poison",
+      "category": "special",
+      "attack": "30",
+      "accuracy": "70",
+      "pp": "20",
+      "effect_percent": "40",
+      "description": "The target is attacked with a discharge of filthy gases. It may also poison the target."
+    },
+    {
+      "level": "—",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "—",
+      "name": "Flame Burst",
+      "type": "fire",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well."
+    },
+    {
+      "level": "—",
+      "name": "Hex",
+      "type": "ghost",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This relentless attack does massive damage to a target affected by status problems."
+    }
+  ]
+}

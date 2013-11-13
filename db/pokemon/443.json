@@ -1,0 +1,127 @@
+{
+  "index": 443,
+  "name": "Gible",
+  "image_url": "http://serebii.net/xy/pokemon/443.png",
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "evolves_to": [
+    443,
+    444,
+    445,
+    445
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "3",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "7",
+      "name": "Dragon Rage",
+      "type": "dragon",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage."
+    },
+    {
+      "level": "13",
+      "name": "Sandstorm",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types."
+    },
+    {
+      "level": "15",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "19",
+      "name": "Sand Tomb",
+      "type": "ground",
+      "category": "physical",
+      "attack": "35",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user traps the target inside a harshly raging sandstorm for four to five turns."
+    },
+    {
+      "level": "25",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "27",
+      "name": "Dragon Claw",
+      "type": "dragon",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes the target with huge, sharp claws."
+    },
+    {
+      "level": "31",
+      "name": "Dig",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons."
+    },
+    {
+      "level": "37",
+      "name": "Dragon Rush",
+      "type": "dragon",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "75",
+      "pp": "10",
+      "effect_percent": "20",
+      "description": "The user tackles the target while exhibiting overwhelming menace. It may also make the target flinch."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "index": 587,
+  "name": "Emolga",
+  "image_url": "http://serebii.net/xy/pokemon/587.png",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "evolves_to": [
+    587
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Thunder Shock",
+      "type": "electric",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A jolt of electricity is hurled at the target to inflict damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "4",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "7",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "10",
+      "name": "Charge",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user boosts the power of the Electric move it uses on the next turn. It also raises the user's Sp. Def stat."
+    },
+    {
+      "level": "13",
+      "name": "Spark",
+      "type": "electric",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user throws an electrically charged tackle at the target. It may also leave the target with paralysis."
+    },
+    {
+      "level": "15",
+      "name": "Nuzzle",
+      "type": "electric",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis."
+    },
+    {
+      "level": "16",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "19",
+      "name": "Double Team",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+    },
+    {
+      "level": "22",
+      "name": "Shock Wave",
+      "type": "electric",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user strikes the target with a quick jolt of electricity. This attack cannot be evaded."
+    },
+    {
+      "level": "26",
+      "name": "Electro Ball",
+      "type": "electric",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage."
+    },
+    {
+      "level": "30",
+      "name": "Acrobatics",
+      "type": "flying",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage."
+    },
+    {
+      "level": "34",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "38",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "42",
+      "name": "Volt Switch",
+      "type": "electric",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+    },
+    {
+      "level": "46",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "50",
+      "name": "Discharge",
+      "type": "electric",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "A flare of electricity is loosed to strike the area around the user. It may also cause paralysis."
+    }
+  ]
+}

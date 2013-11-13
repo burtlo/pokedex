@@ -1,0 +1,192 @@
+{
+  "index": 65,
+  "name": "Alakazam",
+  "image_url": "http://serebii.net/xy/pokemon/065.png",
+  "types": [
+    "psychic"
+  ],
+  "evolves_to": [
+    63,
+    64,
+    65,
+    65
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Teleport",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited."
+    },
+    {
+      "level": "—",
+      "name": "Kinesis",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "80",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user distracts the target by bending a spoon. It lowers the target's accuracy."
+    },
+    {
+      "level": "—",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "16",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "18",
+      "name": "Disable",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "For four turns, this move prevents the target from using the move it last used."
+    },
+    {
+      "level": "22",
+      "name": "Miracle Eye",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Dark-type target to be hit by Psychic-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "24",
+      "name": "Ally Switch",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user teleports using a strange power and switches its place with one of its allies."
+    },
+    {
+      "level": "28",
+      "name": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is attacked with a peculiar ray. It may also cause confusion."
+    },
+    {
+      "level": "30",
+      "name": "Reflect",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from physical attacks for five turns."
+    },
+    {
+      "level": "34",
+      "name": "Telekinesis",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user makes the target float with its psychic power. The target is easier to hit for three turns."
+    },
+    {
+      "level": "36",
+      "name": "Recover",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Restoring its own cells, the user restores its own HP by half of its max HP."
+    },
+    {
+      "level": "40",
+      "name": "Psycho Cut",
+      "type": "psychic",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tears at the target with blades formed by psychic power. Critical hits land more easily."
+    },
+    {
+      "level": "42",
+      "name": "Calm Mind",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats."
+    },
+    {
+      "level": "46",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "48",
+      "name": "Future Sight",
+      "type": "psychic",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Two turns after this move is used, a hunk of psychic energy attacks the target."
+    },
+    {
+      "level": "50",
+      "name": "Trick",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user catches the target off guard and swaps its held item with its own."
+    }
+  ]
+}

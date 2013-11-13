@@ -1,0 +1,213 @@
+{
+  "index": 340,
+  "name": "Whiscash",
+  "image_url": "http://serebii.net/xy/pokemon/340.png",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "evolves_to": [
+    339,
+    340
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Zen Headbutt",
+      "type": "psychic",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user focuses its willpower to its head and attacks the target. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Tickle",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tickles the target into laughing, reducing its Attack and Defense stats."
+    },
+    {
+      "level": "—",
+      "name": "Mud-Slap",
+      "type": "ground",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user hurls mud in the target's face to inflict damage and lower its accuracy."
+    },
+    {
+      "level": "—",
+      "name": "Mud Sport",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user covers itself with mud. It weakens Electric-type moves while the user is in the battle."
+    },
+    {
+      "level": "—",
+      "name": "Water Sport",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle."
+    },
+    {
+      "level": "6",
+      "name": "Mud Sport",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user covers itself with mud. It weakens Electric-type moves while the user is in the battle."
+    },
+    {
+      "level": "6",
+      "name": "Water Sport",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle."
+    },
+    {
+      "level": "10",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "14",
+      "name": "Mud Bomb",
+      "type": "ground",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy."
+    },
+    {
+      "level": "18",
+      "name": "Amnesia",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat."
+    },
+    {
+      "level": "22",
+      "name": "Water Pulse",
+      "type": "water",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user attacks the target with a pulsing blast of water. It may also confuse the target."
+    },
+    {
+      "level": "26",
+      "name": "Magnitude",
+      "type": "ground",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user looses a ground-shaking quake affecting everyone around the user. Its power varies."
+    },
+    {
+      "level": "33",
+      "name": "Rest",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."
+    },
+    {
+      "level": "33",
+      "name": "Snore",
+      "type": "normal",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch."
+    },
+    {
+      "level": "39",
+      "name": "Aqua Tail",
+      "type": "water",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+    },
+    {
+      "level": "45",
+      "name": "Earthquake",
+      "type": "ground",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user sets off an earthquake that strikes those around it."
+    },
+    {
+      "level": "51",
+      "name": "Future Sight",
+      "type": "psychic",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Two turns after this move is used, a hunk of psychic energy attacks the target."
+    },
+    {
+      "level": "57",
+      "name": "Fissure",
+      "type": "ground",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user opens up a fissure in the ground and drops the target in. The target instantly faints if it hits."
+    }
+  ]
+}

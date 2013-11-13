@@ -1,0 +1,246 @@
+{
+  "index": 87,
+  "name": "Dewgong",
+  "image_url": "http://serebii.net/xy/pokemon/087.png",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "evolves_to": [
+    86,
+    87
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user sticks out its head and attacks by charging straight into the target. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Signal Beam",
+      "type": "bug",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+    },
+    {
+      "level": "—",
+      "name": "Icy Wind",
+      "type": "ice",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user attacks with a gust of chilled air. It also reduces the targets' Speed stat."
+    },
+    {
+      "level": "3",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "7",
+      "name": "Signal Beam",
+      "type": "bug",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+    },
+    {
+      "level": "11",
+      "name": "Icy Wind",
+      "type": "ice",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user attacks with a gust of chilled air. It also reduces the targets' Speed stat."
+    },
+    {
+      "level": "13",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "17",
+      "name": "Ice Shard",
+      "type": "ice",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user flash freezes chunks of ice and hurls them at the target. This move always goes first."
+    },
+    {
+      "level": "21",
+      "name": "Rest",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."
+    },
+    {
+      "level": "23",
+      "name": "Aqua Ring",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user envelops itself in a veil made of water. It regains some HP on every turn."
+    },
+    {
+      "level": "27",
+      "name": "Aurora Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat."
+    },
+    {
+      "level": "31",
+      "name": "Aqua Jet",
+      "type": "water",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "33",
+      "name": "Brine",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target's HP is down to about half, this attack will hit with double the power."
+    },
+    {
+      "level": "34",
+      "name": "Sheer Cold",
+      "type": "ice",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a blast of absolute-zero cold. The target instantly faints if it hits."
+    },
+    {
+      "level": "39",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "45",
+      "name": "Dive",
+      "type": "water",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Diving on the first turn, the user floats up and attacks on the second turn. It can be used to dive deep in the ocean."
+    },
+    {
+      "level": "49",
+      "name": "Aqua Tail",
+      "type": "water",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+    },
+    {
+      "level": "55",
+      "name": "Ice Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
+    },
+    {
+      "level": "61",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    },
+    {
+      "level": "65",
+      "name": "Hail",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "index": 360,
+  "name": "Wynaut",
+  "image_url": "http://serebii.net/xy/pokemon/360.png",
+  "types": [
+    "psychic"
+  ],
+  "evolves_to": [
+    360,
+    202
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Splash",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user just flops and splashes around to no effect at all..."
+    },
+    {
+      "level": "—",
+      "name": "Charm",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user gazes at the target rather charmingly, making it less wary. The target's Attack is harshly lowered."
+    },
+    {
+      "level": "—",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "15",
+      "name": "Counter",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A retaliation move that counters any physical attack, inflicting double the damage taken."
+    },
+    {
+      "level": "15",
+      "name": "Mirror Coat",
+      "type": "psychic",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A retaliation move that counters any special attack, inflicting double the damage taken."
+    },
+    {
+      "level": "15",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    },
+    {
+      "level": "15",
+      "name": "Destiny Bond",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints."
+    }
+  ]
+}

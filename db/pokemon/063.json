@@ -1,0 +1,27 @@
+{
+  "index": 63,
+  "name": "Abra",
+  "image_url": "http://serebii.net/xy/pokemon/063.png",
+  "types": [
+    "psychic"
+  ],
+  "evolves_to": [
+    63,
+    64,
+    65,
+    65
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Teleport",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited."
+    }
+  ]
+}

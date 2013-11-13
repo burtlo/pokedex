@@ -1,0 +1,37 @@
+{
+  "index": 665,
+  "name": "Spewpa",
+  "image_url": "http://serebii.net/xy/pokemon/665.png",
+  "types": [
+    "bug"
+  ],
+  "evolves_to": [
+    664,
+    665,
+    666
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "9",
+      "name": "Protect",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    }
+  ]
+}

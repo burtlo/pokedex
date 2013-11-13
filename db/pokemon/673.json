@@ -1,0 +1,223 @@
+{
+  "index": 673,
+  "name": "Gogoat",
+  "image_url": "http://serebii.net/xy/pokemon/673.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    672,
+    673
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Aerial Ace",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user confounds the target with speed, then slashes. The attack lands without fail."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "7",
+      "name": "Vine Whip",
+      "type": "grass",
+      "category": "physical",
+      "attack": "45",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is struck with slender, whiplike vines to inflict damage."
+    },
+    {
+      "level": "9",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "12",
+      "name": "Leech Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed is planted on the target. It steals some HP from the target every turn."
+    },
+    {
+      "level": "13",
+      "name": "Razor Leaf",
+      "type": "grass",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "16",
+      "name": "Worry Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed that causes worry is planted on the target. It prevents sleep by making its Ability Insomnia."
+    },
+    {
+      "level": "20",
+      "name": "Synthesis",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "22",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "26",
+      "name": "Bulldoze",
+      "type": "ground",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user stomps down on the ground and attacks everything in the area. Hit Pokémon's Speed stat is reduced."
+    },
+    {
+      "level": "30",
+      "name": "Seed Bomb",
+      "type": "grass",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slams a barrage of hard-shelled seeds down on the target from above."
+    },
+    {
+      "level": "34",
+      "name": "Bulk Up",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats."
+    },
+    {
+      "level": "40",
+      "name": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
+    },
+    {
+      "level": "47",
+      "name": "Horn Leech",
+      "type": "grass",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user drains the target's energy with its horns. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "55",
+      "name": "Leaf Blade",
+      "type": "grass",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily."
+    },
+    {
+      "level": "58",
+      "name": "Milk Drink",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP."
+    },
+    {
+      "level": "60",
+      "name": "Earthquake",
+      "type": "ground",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user sets off an earthquake that strikes those around it."
+    },
+    {
+      "level": "65",
+      "name": "Aerial Ace",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user confounds the target with speed, then slashes. The attack lands without fail."
+    }
+  ]
+}

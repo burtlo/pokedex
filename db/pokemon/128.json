@@ -1,0 +1,167 @@
+{
+  "index": 128,
+  "name": "Tauros",
+  "image_url": "http://serebii.net/xy/pokemon/128.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    128
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "3",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "5",
+      "name": "Rage",
+      "type": "normal",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle."
+    },
+    {
+      "level": "8",
+      "name": "Horn Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is jabbed with a sharply pointed horn to inflict damage."
+    },
+    {
+      "level": "11",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "15",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "19",
+      "name": "Rest",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."
+    },
+    {
+      "level": "24",
+      "name": "Payback",
+      "type": "dark",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the user moves after the target, this attack's power will be doubled."
+    },
+    {
+      "level": "29",
+      "name": "Work Up",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user is roused, and its Attack and Sp. Atk stats increase."
+    },
+    {
+      "level": "35",
+      "name": "Zen Headbutt",
+      "type": "psychic",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user focuses its willpower to its head and attacks the target. It may also make the target flinch."
+    },
+    {
+      "level": "41",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "48",
+      "name": "Swagger",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user enrages and confuses the target. However, it also sharply raises the target's Attack stat."
+    },
+    {
+      "level": "50",
+      "name": "Thrash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user rampages and attacks for two to three turns. It then becomes confused, however."
+    },
+    {
+      "level": "63",
+      "name": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user charges at the target using every bit of its power. The user must rest on the next turn."
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "index": 686,
+  "name": "Inkay",
+  "image_url": "http://serebii.net/xy/pokemon/686.png",
+  "types": [
+    "dark",
+    "psychic"
+  ],
+  "evolves_to": [
+    686,
+    687
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Peck",
+      "type": "flying",
+      "category": "physical",
+      "attack": "35",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is jabbed with a sharply pointed beak or horn."
+    },
+    {
+      "level": "—",
+      "name": "Constrict",
+      "type": "normal",
+      "category": "physical",
+      "attack": "10",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "10",
+      "description": "The target is attacked with long, creeping tentacles or vines. It may also lower the target's Speed stat."
+    },
+    {
+      "level": "4",
+      "name": "Reflect",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from physical attacks for five turns."
+    },
+    {
+      "level": "8",
+      "name": "Foul Play",
+      "type": "dark",
+      "category": "physical",
+      "attack": "95",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user turns the target's power against it. The higher the target's Attack stat, the greater the damage."
+    },
+    {
+      "level": "12",
+      "name": "Swagger",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user enrages and confuses the target. However, it also sharply raises the target's Attack stat."
+    },
+    {
+      "level": "13",
+      "name": "Psywave",
+      "type": "psychic",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "80",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The target is attacked with an odd  psychic wave. The attack varies in intensity."
+    },
+    {
+      "level": "15",
+      "name": "Topsy-Turvy",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "All stat changes affecting the target turn topsy-turvy and become the opposite of what they were."
+    },
+    {
+      "level": "18",
+      "name": "Hypnosis",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "60",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user employs hypnotic suggestion to make the target fall into a deep sleep."
+    },
+    {
+      "level": "21",
+      "name": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is attacked with a peculiar ray. It may also cause confusion."
+    },
+    {
+      "level": "23",
+      "name": "Switcheroo",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user trades held items with the target faster than the eye can follow."
+    },
+    {
+      "level": "27",
+      "name": "Payback",
+      "type": "dark",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the user moves after the target, this attack's power will be doubled."
+    },
+    {
+      "level": "31",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "35",
+      "name": "Pluck",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "level": "39",
+      "name": "Psycho Cut",
+      "type": "psychic",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tears at the target with blades formed by psychic power. Critical hits land more easily."
+    },
+    {
+      "level": "43",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "46",
+      "name": "Night Slash",
+      "type": "dark",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes the target the instant an opportunity arises. Critical hits land more easily."
+    },
+    {
+      "level": "48",
+      "name": "Superpower",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user attacks the target with great power. However, it also lowers the user's Attack and Defense."
+    }
+  ]
+}

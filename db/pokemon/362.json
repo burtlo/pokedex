@@ -1,0 +1,192 @@
+{
+  "index": 362,
+  "name": "Glalie",
+  "image_url": "http://serebii.net/xy/pokemon/362.png",
+  "types": [
+    "ice"
+  ],
+  "evolves_to": [
+    361,
+    362,
+    0,
+    478
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Sheer Cold",
+      "type": "ice",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a blast of absolute-zero cold. The target instantly faints if it hits."
+    },
+    {
+      "level": "—",
+      "name": "Powder Snow",
+      "type": "ice",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The user attacks with a chilling gust of powdery snow. It may also freeze the targets."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Double Team",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+    },
+    {
+      "level": "—",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "4",
+      "name": "Double Team",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+    },
+    {
+      "level": "10",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "13",
+      "name": "Icy Wind",
+      "type": "ice",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user attacks with a gust of chilled air. It also reduces the targets' Speed stat."
+    },
+    {
+      "level": "19",
+      "name": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user sticks out its head and attacks by charging straight into the target. It may also make the target flinch."
+    },
+    {
+      "level": "22",
+      "name": "Protect",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "28",
+      "name": "Ice Fang",
+      "type": "ice",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user bites with cold-infused fangs. It may also make the target flinch or leave it frozen."
+    },
+    {
+      "level": "31",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "37",
+      "name": "Ice Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
+    },
+    {
+      "level": "40",
+      "name": "Hail",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type."
+    },
+    {
+      "level": "51",
+      "name": "Blizzard",
+      "type": "ice",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "A howling blizzard is summoned to strike the opposing team. It may also freeze them solid."
+    },
+    {
+      "level": "59",
+      "name": "Sheer Cold",
+      "type": "ice",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a blast of absolute-zero cold. The target instantly faints if it hits."
+    }
+  ]
+}

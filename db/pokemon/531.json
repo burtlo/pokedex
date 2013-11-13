@@ -1,0 +1,189 @@
+{
+  "index": 531,
+  "name": "Audino",
+  "image_url": "http://serebii.net/xy/pokemon/531.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    531
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Last Resort",
+      "type": "normal",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move can be used only after the user has used all the other moves it knows in the battle."
+    },
+    {
+      "level": "—",
+      "name": "Play Nice",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat."
+    },
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Helping Hand",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user assists an ally by boosting the power of its attack."
+    },
+    {
+      "level": "5",
+      "name": "Refresh",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user rests to cure itself of a poisoning, burn, or paralysis."
+    },
+    {
+      "level": "10",
+      "name": "Double Slap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is slapped repeatedly, back and forth, two to five times in a row."
+    },
+    {
+      "level": "15",
+      "name": "Attract",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "If it is the opposite gender of the user, the target becomes infatuated and less likely to attack."
+    },
+    {
+      "level": "20",
+      "name": "Secret Power",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks the target with a secret power. Its added effects vary depending on the user's environment."
+    },
+    {
+      "level": "25",
+      "name": "Entrainment",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's."
+    },
+    {
+      "level": "30",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "35",
+      "name": "Heal Pulse",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user emits a healing pulse which restores the target's HP by up to half of its max HP."
+    },
+    {
+      "level": "40",
+      "name": "After You",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user helps the target and makes it use its move right after the user."
+    },
+    {
+      "level": "45",
+      "name": "Simple Beam",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user's mysterious psychic wave changes the target's Ability to Simple."
+    },
+    {
+      "level": "50",
+      "name": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
+    },
+    {
+      "level": "55",
+      "name": "Last Resort",
+      "type": "normal",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move can be used only after the user has used all the other moves it knows in the battle."
+    }
+  ]
+}

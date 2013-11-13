@@ -1,0 +1,81 @@
+{
+  "index": 38,
+  "name": "Ninetales",
+  "image_url": "http://serebii.net/xy/pokemon/038.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    37,
+    0,
+    38
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Imprison",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the opponents know any move also known by the user, the opponents are prevented from using it."
+    },
+    {
+      "level": "—",
+      "name": "Nasty Plot",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk."
+    },
+    {
+      "level": "—",
+      "name": "Flamethrower",
+      "type": "fire",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is scorched with an intense blast of fire. It may also leave the target with a burn."
+    },
+    {
+      "level": "—",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "—",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "—",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    }
+  ]
+}

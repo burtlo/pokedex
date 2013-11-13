@@ -1,0 +1,191 @@
+{
+  "index": 170,
+  "name": "Chinchou",
+  "image_url": "http://serebii.net/xy/pokemon/170.png",
+  "types": [
+    "water",
+    "electric"
+  ],
+  "evolves_to": [
+    170,
+    171
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Supersonic",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user generates odd sound waves from its body. It may confuse the target."
+    },
+    {
+      "level": "—",
+      "name": "Bubble",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A spray of countless bubbles is jetted at the opposing team. It may also lower the targets' Speed stats."
+    },
+    {
+      "level": "6",
+      "name": "Thunder Wave",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A weak electric charge is launched at the target. It causes paralysis if it hits."
+    },
+    {
+      "level": "9",
+      "name": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "12",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "17",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "20",
+      "name": "Spark",
+      "type": "electric",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user throws an electrically charged tackle at the target. It may also leave the target with paralysis."
+    },
+    {
+      "level": "23",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "28",
+      "name": "Electro Ball",
+      "type": "electric",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage."
+    },
+    {
+      "level": "31",
+      "name": "Bubble Beam",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats."
+    },
+    {
+      "level": "34",
+      "name": "Signal Beam",
+      "type": "bug",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+    },
+    {
+      "level": "39",
+      "name": "Discharge",
+      "type": "electric",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "A flare of electricity is loosed to strike the area around the user. It may also cause paralysis."
+    },
+    {
+      "level": "42",
+      "name": "Aqua Ring",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user envelops itself in a veil made of water. It regains some HP on every turn."
+    },
+    {
+      "level": "45",
+      "name": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is blasted by a huge volume of water launched under great pressure."
+    },
+    {
+      "level": "47",
+      "name": "Ion Deluge",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves."
+    },
+    {
+      "level": "50",
+      "name": "Charge",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user boosts the power of the Electric move it uses on the next turn. It also raises the user's Sp. Def stat."
+    }
+  ]
+}

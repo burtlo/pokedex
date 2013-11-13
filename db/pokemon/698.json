@@ -1,0 +1,213 @@
+{
+  "index": 698,
+  "name": "Amaura",
+  "image_url": "http://serebii.net/xy/pokemon/698.png",
+  "types": [
+    "rock",
+    "ice"
+  ],
+  "evolves_to": [
+    698,
+    699
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Powder Snow",
+      "type": "ice",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The user attacks with a chilling gust of powdery snow. It may also freeze the targets."
+    },
+    {
+      "level": "5",
+      "name": "Thunder Wave",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A weak electric charge is launched at the target. It causes paralysis if it hits."
+    },
+    {
+      "level": "10",
+      "name": "Rock Throw",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user picks up and throws a small rock at the target to attack."
+    },
+    {
+      "level": "13",
+      "name": "Icy Wind",
+      "type": "ice",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user attacks with a gust of chilled air. It also reduces the targets' Speed stat."
+    },
+    {
+      "level": "15",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "18",
+      "name": "Mist",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns."
+    },
+    {
+      "level": "20",
+      "name": "Aurora Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat."
+    },
+    {
+      "level": "26",
+      "name": "Ancient Power",
+      "type": "rock",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The user attacks with a prehistoric power. It may also raise all the user's stats at once."
+    },
+    {
+      "level": "30",
+      "name": "Round",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a song. Others can join in the Round and make the attack do greater damage."
+    },
+    {
+      "level": "34",
+      "name": "Avalanche",
+      "type": "ice",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double the damage if the user has been hurt by the target in the same turn."
+    },
+    {
+      "level": "38",
+      "name": "Hail",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type."
+    },
+    {
+      "level": "41",
+      "name": "Nature Power",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack that makes use of nature's power. Its effects vary depending on the user's environment."
+    },
+    {
+      "level": "44",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "47",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "50",
+      "name": "Ice Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
+    },
+    {
+      "level": "57",
+      "name": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy."
+    },
+    {
+      "level": "65",
+      "name": "Blizzard",
+      "type": "ice",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "A howling blizzard is summoned to strike the opposing team. It may also freeze them solid."
+    }
+  ]
+}

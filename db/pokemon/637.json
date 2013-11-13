@@ -1,0 +1,16 @@
+{
+  "index": 637,
+  "name": "Volcarona",
+  "image_url": "http://serebii.net/xy/pokemon/637.png",
+  "types": [
+    "bug",
+    "fire"
+  ],
+  "evolves_to": [
+    636,
+    637
+  ],
+  "moves": [
+
+  ]
+}

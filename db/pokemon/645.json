@@ -1,0 +1,15 @@
+{
+  "index": 645,
+  "name": "Landorus",
+  "image_url": "http://serebii.net/xy/pokemon/645.png",
+  "types": [
+    "ground",
+    "flying"
+  ],
+  "evolves_to": [
+    645
+  ],
+  "moves": [
+
+  ]
+}

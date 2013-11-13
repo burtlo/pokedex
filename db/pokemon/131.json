@@ -1,0 +1,179 @@
+{
+  "index": 131,
+  "name": "Lapras",
+  "image_url": "http://serebii.net/xy/pokemon/131.png",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "evolves_to": [
+    131
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Sing",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A soothing lullaby is sung in a calming voice that puts the target into a deep slumber."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "4",
+      "name": "Mist",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns."
+    },
+    {
+      "level": "7",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "10",
+      "name": "Ice Shard",
+      "type": "ice",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user flash freezes chunks of ice and hurls them at the target. This move always goes first."
+    },
+    {
+      "level": "14",
+      "name": "Water Pulse",
+      "type": "water",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user attacks the target with a pulsing blast of water. It may also confuse the target."
+    },
+    {
+      "level": "18",
+      "name": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user drops onto the target with its full body weight. It may also leave the target with paralysis."
+    },
+    {
+      "level": "22",
+      "name": "Rain Dance",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user summons a heavy rain that falls for five turns, powering up Water-type moves."
+    },
+    {
+      "level": "27",
+      "name": "Perish Song",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "Any Pokémon that hears this song faints in three turns, unless it switches out of battle."
+    },
+    {
+      "level": "32",
+      "name": "Ice Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
+    },
+    {
+      "level": "37",
+      "name": "Brine",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target's HP is down to about half, this attack will hit with double the power."
+    },
+    {
+      "level": "43",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    },
+    {
+      "level": "47",
+      "name": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is blasted by a huge volume of water launched under great pressure."
+    },
+    {
+      "level": "50",
+      "name": "Sheer Cold",
+      "type": "ice",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a blast of absolute-zero cold. The target instantly faints if it hits."
+    }
+  ]
+}

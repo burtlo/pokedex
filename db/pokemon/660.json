@@ -1,0 +1,235 @@
+{
+  "index": 660,
+  "name": "Diggersby",
+  "image_url": "http://serebii.net/xy/pokemon/660.png",
+  "types": [
+    "normal",
+    "ground"
+  ],
+  "evolves_to": [
+    659,
+    660
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Hammer Arm",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however."
+    },
+    {
+      "level": "—",
+      "name": "Rototiller",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "Tilling the soil, the user makes it easier for plants to grow. This raises the Attack and Sp. Atk stats of Grass-type Pokémon."
+    },
+    {
+      "level": "—",
+      "name": "Bulldoze",
+      "type": "ground",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user stomps down on the ground and attacks everything in the area. Hit Pokémon's Speed stat is reduced."
+    },
+    {
+      "level": "—",
+      "name": "Swords Dance",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "7",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "13",
+      "name": "Mud-Slap",
+      "type": "ground",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user hurls mud in the target's face to inflict damage and lower its accuracy."
+    },
+    {
+      "level": "15",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "18",
+      "name": "Mud Shot",
+      "type": "ground",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user attacks by hurling a blob of mud at the target. It also reduces the target's Speed."
+    },
+    {
+      "level": "20",
+      "name": "Double Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The target is quickly kicked twice in succession using both feet."
+    },
+    {
+      "level": "26",
+      "name": "Odor Sleuth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit with Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "31",
+      "name": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "37",
+      "name": "Dig",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons."
+    },
+    {
+      "level": "42",
+      "name": "Bounce",
+      "type": "flying",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "85",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "The user bounces up high, then drops on the target on the second turn. It may also leave the target with paralysis."
+    },
+    {
+      "level": "48",
+      "name": "Super Fang",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user chomps hard on the target with its sharp front fangs. It cuts the target's HP to half."
+    },
+    {
+      "level": "53",
+      "name": "Facade",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that doubles its power if the user is poisoned, burned, or has paralysis."
+    },
+    {
+      "level": "57",
+      "name": "Earthquake",
+      "type": "ground",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user sets off an earthquake that strikes those around it."
+    },
+    {
+      "level": "60",
+      "name": "Hammer Arm",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however."
+    }
+  ]
+}

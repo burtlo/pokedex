@@ -1,0 +1,224 @@
+{
+  "index": 284,
+  "name": "Masquerain",
+  "image_url": "http://serebii.net/xy/pokemon/284.png",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "evolves_to": [
+    283,
+    284
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Quiver Dance",
+      "type": "bug",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lightly performs a beautiful, mystic dance. It boosts the user's Sp. Atk, Sp. Def, and Speed stats."
+    },
+    {
+      "level": "—",
+      "name": "Bug Buzz",
+      "type": "bug",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat."
+    },
+    {
+      "level": "—",
+      "name": "Whirlwind",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends."
+    },
+    {
+      "level": "—",
+      "name": "Ominous Wind",
+      "type": "ghost",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The user blasts the target with a gust of repulsive wind. It may also raise all the user's stats at once."
+    },
+    {
+      "level": "—",
+      "name": "Bubble",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A spray of countless bubbles is jetted at the opposing team. It may also lower the targets' Speed stats."
+    },
+    {
+      "level": "—",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "—",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "—",
+      "name": "Water Sport",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle."
+    },
+    {
+      "level": "7",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "13",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "19",
+      "name": "Water Sport",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle."
+    },
+    {
+      "level": "22",
+      "name": "Gust",
+      "type": "flying",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A gust of wind is whipped up by wings and launched at the target to inflict damage."
+    },
+    {
+      "level": "26",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "33",
+      "name": "Stun Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of paralyzing powder. It may leave the target with paralysis."
+    },
+    {
+      "level": "40",
+      "name": "Silver Wind",
+      "type": "bug",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The target is attacked with powdery scales blown by wind. It may also raise all the user's stats."
+    },
+    {
+      "level": "47",
+      "name": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch."
+    },
+    {
+      "level": "54",
+      "name": "Whirlwind",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends."
+    },
+    {
+      "level": "61",
+      "name": "Bug Buzz",
+      "type": "bug",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat."
+    },
+    {
+      "level": "68",
+      "name": "Quiver Dance",
+      "type": "bug",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lightly performs a beautiful, mystic dance. It boosts the user's Sp. Atk, Sp. Def, and Speed stats."
+    }
+  ]
+}

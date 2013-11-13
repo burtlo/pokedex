@@ -1,0 +1,158 @@
+{
+  "index": 194,
+  "name": "Wooper",
+  "image_url": "http://serebii.net/xy/pokemon/194.png",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "evolves_to": [
+    194,
+    195
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "5",
+      "name": "Mud Sport",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user covers itself with mud. It weakens Electric-type moves while the user is in the battle."
+    },
+    {
+      "level": "9",
+      "name": "Mud Shot",
+      "type": "ground",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user attacks by hurling a blob of mud at the target. It also reduces the target's Speed."
+    },
+    {
+      "level": "15",
+      "name": "Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "75",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slammed with a long tail, vines, etc., to inflict damage."
+    },
+    {
+      "level": "19",
+      "name": "Mud Bomb",
+      "type": "ground",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy."
+    },
+    {
+      "level": "23",
+      "name": "Amnesia",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat."
+    },
+    {
+      "level": "29",
+      "name": "Yawn",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+    },
+    {
+      "level": "33",
+      "name": "Earthquake",
+      "type": "ground",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user sets off an earthquake that strikes those around it."
+    },
+    {
+      "level": "37",
+      "name": "Rain Dance",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user summons a heavy rain that falls for five turns, powering up Water-type moves."
+    },
+    {
+      "level": "43",
+      "name": "Mist",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns."
+    },
+    {
+      "level": "43",
+      "name": "Haze",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle."
+    },
+    {
+      "level": "47",
+      "name": "Muddy Water",
+      "type": "water",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user attacks by shooting muddy water at the opposing team. It may also lower the targets' accuracy."
+    }
+  ]
+}

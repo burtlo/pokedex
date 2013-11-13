@@ -1,0 +1,268 @@
+{
+  "index": 205,
+  "name": "Forretress",
+  "image_url": "http://serebii.net/xy/pokemon/205.png",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "evolves_to": [
+    204,
+    205
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Heavy Slam",
+      "type": "steel",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user slams into the target with its heavy body. The more the user outweighs the target, the greater its damage."
+    },
+    {
+      "level": "—",
+      "name": "Zap Cannon",
+      "type": "electric",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "50",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fires an electric blast like a cannon to inflict damage and cause paralysis."
+    },
+    {
+      "level": "—",
+      "name": "Magnet Rise",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user levitates using electrically generated magnetism for five turns."
+    },
+    {
+      "level": "—",
+      "name": "Toxic Spikes",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of poison spikes at the opponent's feet. They poison opponents that switch into battle."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Protect",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "—",
+      "name": "Self-Destruct",
+      "type": "normal",
+      "category": "physical",
+      "attack": "200",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user attacks everything around it by causing an explosion. The user faints upon using this move."
+    },
+    {
+      "level": "—",
+      "name": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "level": "12",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "17",
+      "name": "Rapid Spin",
+      "type": "normal",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes."
+    },
+    {
+      "level": "20",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "23",
+      "name": "Natural Gift",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power."
+    },
+    {
+      "level": "28",
+      "name": "Spikes",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of spikes at the opposing team's feet. The trap hurts Pokémon that switch into battle."
+    },
+    {
+      "level": "31",
+      "name": "Mirror Shot",
+      "type": "steel",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user looses a flash of energy at the target from its polished body. It may also lower the target's accuracy."
+    },
+    {
+      "level": "32",
+      "name": "Autotomize",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user sheds part of its body to make itself lighter and sharply raise its Speed stat."
+    },
+    {
+      "level": "36",
+      "name": "Payback",
+      "type": "dark",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the user moves after the target, this attack's power will be doubled."
+    },
+    {
+      "level": "42",
+      "name": "Explosion",
+      "type": "normal",
+      "category": "physical",
+      "attack": "250",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user explodes to inflict damage on those around it. The user faints upon using this move."
+    },
+    {
+      "level": "46",
+      "name": "Iron Defense",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user hardens its body's surface like iron, sharply raising its Defense stat."
+    },
+    {
+      "level": "50",
+      "name": "Gyro Ball",
+      "type": "steel",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user tackles the target with a high-speed spin. The slower the user, the greater the damage."
+    },
+    {
+      "level": "56",
+      "name": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
+    },
+    {
+      "level": "60",
+      "name": "Magnet Rise",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user levitates using electrically generated magnetism for five turns."
+    },
+    {
+      "level": "64",
+      "name": "Zap Cannon",
+      "type": "electric",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "50",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fires an electric blast like a cannon to inflict damage and cause paralysis."
+    },
+    {
+      "level": "70",
+      "name": "Heavy Slam",
+      "type": "steel",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user slams into the target with its heavy body. The more the user outweighs the target, the greater its damage."
+    }
+  ]
+}

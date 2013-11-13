@@ -1,0 +1,18 @@
+{
+  "index": 233,
+  "name": "Porygon2",
+  "image_url": "http://serebii.net/xy/pokemon/233.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    137,
+    0,
+    233,
+    0,
+    474
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "index": 457,
+  "name": "Lumineon",
+  "image_url": "http://serebii.net/xy/pokemon/457.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    456,
+    457
+  ],
+  "moves": [
+
+  ]
+}

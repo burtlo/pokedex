@@ -1,0 +1,223 @@
+{
+  "index": 51,
+  "name": "Dugtrio",
+  "image_url": "http://serebii.net/xy/pokemon/051.png",
+  "types": [
+    "ground"
+  ],
+  "evolves_to": [
+    50,
+    51
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Rototiller",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "Tilling the soil, the user makes it easier for plants to grow. This raises the Attack and Sp. Atk stats of Grass-type Pokémon."
+    },
+    {
+      "level": "—",
+      "name": "Night Slash",
+      "type": "dark",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes the target the instant an opportunity arises. Critical hits land more easily."
+    },
+    {
+      "level": "—",
+      "name": "Tri Attack",
+      "type": "normal",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "20",
+      "description": "The user strikes with a simultaneous three-beam attack. May also burn, freeze, or leave the target with paralysis."
+    },
+    {
+      "level": "—",
+      "name": "Scratch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "Hard, pointed, and sharp claws rake the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "4",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "7",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "12",
+      "name": "Mud-Slap",
+      "type": "ground",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user hurls mud in the target's face to inflict damage and lower its accuracy."
+    },
+    {
+      "level": "15",
+      "name": "Magnitude",
+      "type": "ground",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user looses a ground-shaking quake affecting everyone around the user. Its power varies."
+    },
+    {
+      "level": "18",
+      "name": "Bulldoze",
+      "type": "ground",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user stomps down on the ground and attacks everything in the area. Hit Pokémon's Speed stat is reduced."
+    },
+    {
+      "level": "23",
+      "name": "Sucker Punch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move enables the user to attack first. It fails if the target is not readying an attack, however."
+    },
+    {
+      "level": "26",
+      "name": "Sand Tomb",
+      "type": "ground",
+      "category": "physical",
+      "attack": "35",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user traps the target inside a harshly raging sandstorm for four to five turns."
+    },
+    {
+      "level": "28",
+      "name": "Mud Bomb",
+      "type": "ground",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy."
+    },
+    {
+      "level": "33",
+      "name": "Earth Power",
+      "type": "ground",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user makes the ground under the target erupt with power. It may also lower the target's Sp. Def."
+    },
+    {
+      "level": "40",
+      "name": "Dig",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons."
+    },
+    {
+      "level": "45",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "50",
+      "name": "Earthquake",
+      "type": "ground",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user sets off an earthquake that strikes those around it."
+    },
+    {
+      "level": "57",
+      "name": "Fissure",
+      "type": "ground",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user opens up a fissure in the ground and drops the target in. The target instantly faints if it hits."
+    }
+  ]
+}

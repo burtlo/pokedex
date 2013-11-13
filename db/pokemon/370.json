@@ -1,0 +1,167 @@
+{
+  "index": 370,
+  "name": "Luvdisc",
+  "image_url": "http://serebii.net/xy/pokemon/370.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    370
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "4",
+      "name": "Charm",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user gazes at the target rather charmingly, making it less wary. The target's Attack is harshly lowered."
+    },
+    {
+      "level": "7",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "9",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "14",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "17",
+      "name": "Lucky Chant",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits."
+    },
+    {
+      "level": "22",
+      "name": "Water Pulse",
+      "type": "water",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user attacks the target with a pulsing blast of water. It may also confuse the target."
+    },
+    {
+      "level": "27",
+      "name": "Attract",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "If it is the opposite gender of the user, the target becomes infatuated and less likely to attack."
+    },
+    {
+      "level": "31",
+      "name": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "37",
+      "name": "Sweet Kiss",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user kisses the target with a sweet, angelic cuteness that causes confusion."
+    },
+    {
+      "level": "40",
+      "name": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is blasted by a huge volume of water launched under great pressure."
+    },
+    {
+      "level": "46",
+      "name": "Aqua Ring",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user envelops itself in a veil made of water. It regains some HP on every turn."
+    },
+    {
+      "level": "50",
+      "name": "Captivate",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "If it is the opposite gender of the user, the target is charmed into harshly lowering its Sp. Atk stat."
+    },
+    {
+      "level": "55",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    }
+  ]
+}

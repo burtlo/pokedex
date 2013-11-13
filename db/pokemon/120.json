@@ -1,0 +1,191 @@
+{
+  "index": 120,
+  "name": "Staryu",
+  "image_url": "http://serebii.net/xy/pokemon/120.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    120,
+    0,
+    121
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "6",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "10",
+      "name": "Rapid Spin",
+      "type": "normal",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes."
+    },
+    {
+      "level": "12",
+      "name": "Recover",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Restoring its own cells, the user restores its own HP by half of its max HP."
+    },
+    {
+      "level": "15",
+      "name": "Camouflage",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user's type is changed depending on its environment, such as at water's edge, in grass, or in a cave."
+    },
+    {
+      "level": "18",
+      "name": "Swift",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Star-shaped rays are shot at the opposing team. This attack never misses."
+    },
+    {
+      "level": "22",
+      "name": "Bubble Beam",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats."
+    },
+    {
+      "level": "25",
+      "name": "Minimize",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user compresses its body to make itself look smaller, which sharply raises its evasiveness."
+    },
+    {
+      "level": "30",
+      "name": "Gyro Ball",
+      "type": "steel",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user tackles the target with a high-speed spin. The slower the user, the greater the damage."
+    },
+    {
+      "level": "33",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "36",
+      "name": "Brine",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target's HP is down to about half, this attack will hit with double the power."
+    },
+    {
+      "level": "40",
+      "name": "Reflect Type",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user reflects the target's type, making it the same type as the target."
+    },
+    {
+      "level": "43",
+      "name": "Power Gem",
+      "type": "rock",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user attacks with a ray of light that sparkles as if it were made of gemstones."
+    },
+    {
+      "level": "48",
+      "name": "Cosmic Power",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user absorbs a mystical power from space to raise its Defense and Sp. Def stats."
+    },
+    {
+      "level": "52",
+      "name": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is blasted by a huge volume of water launched under great pressure."
+    }
+  ]
+}

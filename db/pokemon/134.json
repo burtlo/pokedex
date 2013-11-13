@@ -1,0 +1,172 @@
+{
+  "index": 134,
+  "name": "Vaporeon",
+  "image_url": "http://serebii.net/xy/pokemon/134.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    133,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Helping Hand",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user assists an ally by boosting the power of its attack."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "5",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "9",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "13",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "17",
+      "name": "Water Pulse",
+      "type": "water",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user attacks the target with a pulsing blast of water. It may also confuse the target."
+    },
+    {
+      "level": "20",
+      "name": "Aurora Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat."
+    },
+    {
+      "level": "23",
+      "name": "Aqua Ring",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user envelops itself in a veil made of water. It regains some HP on every turn."
+    },
+    {
+      "level": "29",
+      "name": "Acid Armor",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat."
+    },
+    {
+      "level": "33",
+      "name": "Haze",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle."
+    },
+    {
+      "level": "37",
+      "name": "Muddy Water",
+      "type": "water",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user attacks by shooting muddy water at the opposing team. It may also lower the targets' accuracy."
+    },
+    {
+      "level": "41",
+      "name": "Last Resort",
+      "type": "normal",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move can be used only after the user has used all the other moves it knows in the battle."
+    },
+    {
+      "level": "45",
+      "name": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is blasted by a huge volume of water launched under great pressure."
+    }
+  ]
+}

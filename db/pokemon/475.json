@@ -1,0 +1,261 @@
+{
+  "index": 475,
+  "name": "Gallade",
+  "image_url": "http://serebii.net/xy/pokemon/475.png",
+  "types": [
+    "psychic",
+    "fighting"
+  ],
+  "evolves_to": [
+    280,
+    281,
+    282,
+    282,
+    0,
+    475
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Stored Power",
+      "type": "psychic",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks the target with stored power. The more the user's stats are raised, the greater the damage."
+    },
+    {
+      "level": "—",
+      "name": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def."
+    },
+    {
+      "level": "—",
+      "name": "Leaf Blade",
+      "type": "grass",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily."
+    },
+    {
+      "level": "—",
+      "name": "Night Slash",
+      "type": "dark",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes the target the instant an opportunity arises. Critical hits land more easily."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "—",
+      "name": "Double Team",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+    },
+    {
+      "level": "—",
+      "name": "Teleport",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited."
+    },
+    {
+      "level": "6",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "10",
+      "name": "Double Team",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+    },
+    {
+      "level": "12",
+      "name": "Teleport",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited."
+    },
+    {
+      "level": "17",
+      "name": "Fury Cutter",
+      "type": "bug",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slashed with scythes or claws. Its power increases if it hits in succession."
+    },
+    {
+      "level": "22",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "25",
+      "name": "Heal Pulse",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user emits a healing pulse which restores the target's HP by up to half of its max HP."
+    },
+    {
+      "level": "31",
+      "name": "Swords Dance",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."
+    },
+    {
+      "level": "36",
+      "name": "Psycho Cut",
+      "type": "psychic",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tears at the target with blades formed by psychic power. Critical hits land more easily."
+    },
+    {
+      "level": "39",
+      "name": "Helping Hand",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user assists an ally by boosting the power of its attack."
+    },
+    {
+      "level": "45",
+      "name": "Feint",
+      "type": "normal",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack that hits a target using Protect or Detect. It also lifts the effects of those moves."
+    },
+    {
+      "level": "50",
+      "name": "False Swipe",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP."
+    },
+    {
+      "level": "53",
+      "name": "Protect",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "59",
+      "name": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def."
+    },
+    {
+      "level": "64",
+      "name": "Stored Power",
+      "type": "psychic",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks the target with stored power. The more the user's stats are raised, the greater the damage."
+    }
+  ]
+}

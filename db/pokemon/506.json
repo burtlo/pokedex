@@ -1,0 +1,16 @@
+{
+  "index": 506,
+  "name": "Lillipup",
+  "image_url": "http://serebii.net/xy/pokemon/506.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    506,
+    507,
+    508
+  ],
+  "moves": [
+
+  ]
+}

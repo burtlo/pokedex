@@ -1,0 +1,204 @@
+{
+  "index": 315,
+  "name": "Roselia",
+  "image_url": "http://serebii.net/xy/pokemon/315.png",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "evolves_to": [
+    406,
+    315,
+    0,
+    407
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Absorb",
+      "type": "grass",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "4",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "7",
+      "name": "Poison Sting",
+      "type": "poison",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "30",
+      "description": "The user stabs the target with a poisonous stinger. This may also poison the target."
+    },
+    {
+      "level": "10",
+      "name": "Stun Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of paralyzing powder. It may leave the target with paralysis."
+    },
+    {
+      "level": "13",
+      "name": "Mega Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "16",
+      "name": "Leech Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed is planted on the target. It steals some HP from the target every turn."
+    },
+    {
+      "level": "19",
+      "name": "Magical Leaf",
+      "type": "grass",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user scatters curious leaves that chase the target. This attack will not miss."
+    },
+    {
+      "level": "22",
+      "name": "Grass Whistle",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user plays a pleasant melody that lulls the target into a deep sleep."
+    },
+    {
+      "level": "25",
+      "name": "Giga Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "28",
+      "name": "Toxic Spikes",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of poison spikes at the opponent's feet. They poison opponents that switch into battle."
+    },
+    {
+      "level": "31",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "34",
+      "name": "Ingrain",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays roots that restore its HP on every turn. Because it is rooted, it can't switch out."
+    },
+    {
+      "level": "37",
+      "name": "Petal Dance",
+      "type": "grass",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks the target by scattering petals for two to three turns. The user then becomes confused."
+    },
+    {
+      "level": "40",
+      "name": "Toxic",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A move that leaves the target badly poisoned. Its poison damage worsens every turn."
+    },
+    {
+      "level": "43",
+      "name": "Aromatherapy",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user releases a soothing scent that heals all status problems affecting the user's party."
+    },
+    {
+      "level": "46",
+      "name": "Synthesis",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "50",
+      "name": "Petal Blizzard",
+      "type": "grass",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user stirs up a violent petal blizzard and attacks everything around it."
+    }
+  ]
+}

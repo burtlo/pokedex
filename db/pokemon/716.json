@@ -1,0 +1,211 @@
+{
+  "index": 716,
+  "name": "Xerneas",
+  "image_url": "http://serebii.net/xy/pokemon/716.png",
+  "types": [
+    "fairy"
+  ],
+  "evolves_to": [
+    716
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Heal Pulse",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user emits a healing pulse which restores the target's HP by up to half of its max HP."
+    },
+    {
+      "level": "—",
+      "name": "Aromatherapy",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user releases a soothing scent that heals all status problems affecting the user's party."
+    },
+    {
+      "level": "—",
+      "name": "Ingrain",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays roots that restore its HP on every turn. Because it is rooted, it can't switch out."
+    },
+    {
+      "level": "—",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "—",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "—",
+      "name": "Aurora Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat."
+    },
+    {
+      "level": "—",
+      "name": "Gravity",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "Gravity is intensified for five turns, making moves involving flying unusable and negating Levitate."
+    },
+    {
+      "level": "—",
+      "name": "Geomancy",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn."
+    },
+    {
+      "level": "—",
+      "name": "Moonblast",
+      "type": "fairy",
+      "category": "special",
+      "attack": "95",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat."
+    },
+    {
+      "level": "—",
+      "name": "Megahorn",
+      "type": "bug",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Using its tough and impressive horn, the user rams into the target with no letup."
+    },
+    {
+      "level": "51",
+      "name": "Night Slash",
+      "type": "dark",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes the target the instant an opportunity arises. Critical hits land more easily."
+    },
+    {
+      "level": "55",
+      "name": "Horn Leech",
+      "type": "grass",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user drains the target's energy with its horns. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "59",
+      "name": "Psych Up",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hypnotizes itself into copying any stat change made by the target."
+    },
+    {
+      "level": "63",
+      "name": "Misty Terrain",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user covers the ground under everyone's feet with mist for five turns. This protects Pokémon on the ground from status conditions."
+    },
+    {
+      "level": "72",
+      "name": "Nature Power",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack that makes use of nature's power. Its effects vary depending on the user's environment."
+    },
+    {
+      "level": "80",
+      "name": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def."
+    },
+    {
+      "level": "88",
+      "name": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user charges at the target using every bit of its power. The user must rest on the next turn."
+    },
+    {
+      "level": "93",
+      "name": "Outrage",
+      "type": "dragon",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user rampages and attacks for two to three turns. It then becomes confused, however."
+    }
+  ]
+}

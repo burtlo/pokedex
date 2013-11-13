@@ -1,0 +1,226 @@
+{
+  "index": 3,
+  "name": "Venusaur",
+  "image_url": "http://serebii.net/xy/pokemon/003.png",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "evolves_to": [
+    1,
+    2,
+    3,
+    3
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Leech Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed is planted on the target. It steals some HP from the target every turn."
+    },
+    {
+      "level": "—",
+      "name": "Vine Whip",
+      "type": "grass",
+      "category": "physical",
+      "attack": "45",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is struck with slender, whiplike vines to inflict damage."
+    },
+    {
+      "level": "3",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "7",
+      "name": "Leech Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed is planted on the target. It steals some HP from the target every turn."
+    },
+    {
+      "level": "9",
+      "name": "Vine Whip",
+      "type": "grass",
+      "category": "physical",
+      "attack": "45",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is struck with slender, whiplike vines to inflict damage."
+    },
+    {
+      "level": "13",
+      "name": "Poison Powder",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of poisonous dust on the target. It may poison the target."
+    },
+    {
+      "level": "13",
+      "name": "Sleep Powder",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user scatters a big cloud of sleep-inducing dust around the target."
+    },
+    {
+      "level": "15",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "20",
+      "name": "Razor Leaf",
+      "type": "grass",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "23",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "28",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "31",
+      "name": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
+    },
+    {
+      "level": "32",
+      "name": "Petal Dance",
+      "type": "grass",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks the target by scattering petals for two to three turns. The user then becomes confused."
+    },
+    {
+      "level": "39",
+      "name": "Worry Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed that causes worry is planted on the target. It prevents sleep by making its Ability Insomnia."
+    },
+    {
+      "level": "45",
+      "name": "Synthesis",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "50",
+      "name": "Petal Blizzard",
+      "type": "grass",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user stirs up a violent petal blizzard and attacks everything around it."
+    },
+    {
+      "level": "53",
+      "name": "Solar Beam",
+      "type": "grass",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn."
+    }
+  ]
+}

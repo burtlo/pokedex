@@ -1,0 +1,15 @@
+{
+  "index": 490,
+  "name": "Manaphy",
+  "image_url": "http://serebii.net/xy/pokemon/490.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    489,
+    490
+  ],
+  "moves": [
+
+  ]
+}

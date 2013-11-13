@@ -1,0 +1,15 @@
+{
+  "index": 409,
+  "name": "Rampardos",
+  "image_url": "http://serebii.net/xy/pokemon/409.png",
+  "types": [
+    "rock"
+  ],
+  "evolves_to": [
+    408,
+    409
+  ],
+  "moves": [
+
+  ]
+}

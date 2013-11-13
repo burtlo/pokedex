@@ -1,0 +1,135 @@
+{
+  "index": 449,
+  "name": "Hippopotas",
+  "image_url": "http://serebii.net/xy/pokemon/449.png",
+  "types": [
+    "ground"
+  ],
+  "evolves_to": [
+    449,
+    450
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "7",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "13",
+      "name": "Yawn",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+    },
+    {
+      "level": "19",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "19",
+      "name": "Dig",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons."
+    },
+    {
+      "level": "25",
+      "name": "Sand Tomb",
+      "type": "ground",
+      "category": "physical",
+      "attack": "35",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user traps the target inside a harshly raging sandstorm for four to five turns."
+    },
+    {
+      "level": "31",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "37",
+      "name": "Earthquake",
+      "type": "ground",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user sets off an earthquake that strikes those around it."
+    },
+    {
+      "level": "44",
+      "name": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
+    },
+    {
+      "level": "50",
+      "name": "Fissure",
+      "type": "ground",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user opens up a fissure in the ground and drops the target in. The target instantly faints if it hits."
+    }
+  ]
+}

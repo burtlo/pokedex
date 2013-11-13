@@ -1,0 +1,15 @@
+{
+  "index": 250,
+  "name": "Ho-Oh",
+  "image_url": "http://serebii.net/xy/pokemon/250.png",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "evolves_to": [
+    250
+  ],
+  "moves": [
+
+  ]
+}

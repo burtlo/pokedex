@@ -1,0 +1,16 @@
+{
+  "index": 288,
+  "name": "Vigoroth",
+  "image_url": "http://serebii.net/xy/pokemon/288.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    287,
+    288,
+    289
+  ],
+  "moves": [
+
+  ]
+}

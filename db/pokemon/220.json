@@ -1,0 +1,181 @@
+{
+  "index": 220,
+  "name": "Swinub",
+  "image_url": "http://serebii.net/xy/pokemon/220.png",
+  "types": [
+    "ice",
+    "ground"
+  ],
+  "evolves_to": [
+    220,
+    221,
+    473
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Odor Sleuth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit with Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "5",
+      "name": "Mud Sport",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user covers itself with mud. It weakens Electric-type moves while the user is in the battle."
+    },
+    {
+      "level": "8",
+      "name": "Powder Snow",
+      "type": "ice",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The user attacks with a chilling gust of powdery snow. It may also freeze the targets."
+    },
+    {
+      "level": "11",
+      "name": "Mud-Slap",
+      "type": "ground",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user hurls mud in the target's face to inflict damage and lower its accuracy."
+    },
+    {
+      "level": "14",
+      "name": "Endure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "18",
+      "name": "Mud Bomb",
+      "type": "ground",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy."
+    },
+    {
+      "level": "21",
+      "name": "Icy Wind",
+      "type": "ice",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user attacks with a gust of chilled air. It also reduces the targets' Speed stat."
+    },
+    {
+      "level": "24",
+      "name": "Ice Shard",
+      "type": "ice",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user flash freezes chunks of ice and hurls them at the target. This move always goes first."
+    },
+    {
+      "level": "28",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "35",
+      "name": "Mist",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns."
+    },
+    {
+      "level": "37",
+      "name": "Earthquake",
+      "type": "ground",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user sets off an earthquake that strikes those around it."
+    },
+    {
+      "level": "40",
+      "name": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "44",
+      "name": "Blizzard",
+      "type": "ice",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "A howling blizzard is summoned to strike the opposing team. It may also freeze them solid."
+    },
+    {
+      "level": "48",
+      "name": "Amnesia",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat."
+    }
+  ]
+}

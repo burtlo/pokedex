@@ -1,0 +1,267 @@
+{
+  "index": 97,
+  "name": "Hypno",
+  "image_url": "http://serebii.net/xy/pokemon/097.png",
+  "types": [
+    "psychic"
+  ],
+  "evolves_to": [
+    96,
+    97
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Future Sight",
+      "type": "psychic",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Two turns after this move is used, a hunk of psychic energy attacks the target."
+    },
+    {
+      "level": "—",
+      "name": "Nasty Plot",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk."
+    },
+    {
+      "level": "—",
+      "name": "Nightmare",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A sleeping target sees a nightmare that inflicts some damage every turn."
+    },
+    {
+      "level": "—",
+      "name": "Switcheroo",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user trades held items with the target faster than the eye can follow."
+    },
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "—",
+      "name": "Hypnosis",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "60",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user employs hypnotic suggestion to make the target fall into a deep sleep."
+    },
+    {
+      "level": "—",
+      "name": "Disable",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "For four turns, this move prevents the target from using the move it last used."
+    },
+    {
+      "level": "—",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "5",
+      "name": "Disable",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "For four turns, this move prevents the target from using the move it last used."
+    },
+    {
+      "level": "9",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "13",
+      "name": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user sticks out its head and attacks by charging straight into the target. It may also make the target flinch."
+    },
+    {
+      "level": "17",
+      "name": "Poison Gas",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A cloud of poison gas is sprayed in the face of opposing Pokémon. It may poison those hit."
+    },
+    {
+      "level": "21",
+      "name": "Meditate",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user meditates to awaken the power deep within its body and raise its Attack stat."
+    },
+    {
+      "level": "25",
+      "name": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is attacked with a peculiar ray. It may also cause confusion."
+    },
+    {
+      "level": "29",
+      "name": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user sticks out its head and attacks by charging straight into the target. It may also make the target flinch."
+    },
+    {
+      "level": "33",
+      "name": "Psych Up",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hypnotizes itself into copying any stat change made by the target."
+    },
+    {
+      "level": "37",
+      "name": "Synchronoise",
+      "type": "psychic",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it."
+    },
+    {
+      "level": "41",
+      "name": "Zen Headbutt",
+      "type": "psychic",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user focuses its willpower to its head and attacks the target. It may also make the target flinch."
+    },
+    {
+      "level": "45",
+      "name": "Swagger",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user enrages and confuses the target. However, it also sharply raises the target's Attack stat."
+    },
+    {
+      "level": "49",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "53",
+      "name": "Nasty Plot",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk."
+    },
+    {
+      "level": "57",
+      "name": "Psyshock",
+      "type": "psychic",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user materializes an odd psychic wave to attack the target. This attack does physical damage."
+    },
+    {
+      "level": "61",
+      "name": "Future Sight",
+      "type": "psychic",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Two turns after this move is used, a hunk of psychic energy attacks the target."
+    }
+  ]
+}

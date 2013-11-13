@@ -1,0 +1,138 @@
+{
+  "index": 274,
+  "name": "Nuzleaf",
+  "image_url": "http://serebii.net/xy/pokemon/274.png",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "evolves_to": [
+    273,
+    274,
+    0,
+    275
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Razor Leaf",
+      "type": "grass",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "3",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "7",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "13",
+      "name": "Nature Power",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack that makes use of nature's power. Its effects vary depending on the user's environment."
+    },
+    {
+      "level": "19",
+      "name": "Fake Out",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle."
+    },
+    {
+      "level": "25",
+      "name": "Torment",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user torments and enrages the target, making it incapable of using the same move twice in a row."
+    },
+    {
+      "level": "31",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "37",
+      "name": "Razor Wind",
+      "type": "normal",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A two-turn attack. Blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily."
+    },
+    {
+      "level": "43",
+      "name": "Swagger",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user enrages and confuses the target. However, it also sharply raises the target's Attack stat."
+    },
+    {
+      "level": "49",
+      "name": "Extrasensory",
+      "type": "psychic",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The user attacks with an odd, unseeable power. It may also make the target flinch."
+    }
+  ]
+}

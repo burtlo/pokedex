@@ -1,0 +1,190 @@
+{
+  "index": 707,
+  "name": "Klefki",
+  "image_url": "http://serebii.net/xy/pokemon/707.png",
+  "types": [
+    "steel",
+    "fairy"
+  ],
+  "evolves_to": [
+    707
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Fairy Lock",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "5",
+      "name": "Fairy Wind",
+      "type": "fairy",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stirs up a fairy wind and strikes the target with it."
+    },
+    {
+      "level": "8",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "12",
+      "name": "Metal Sound",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A horrible sound like scraping metal harshly reduces the target's Sp. Def stat."
+    },
+    {
+      "level": "15",
+      "name": "Spikes",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of spikes at the opposing team's feet. The trap hurts Pokémon that switch into battle."
+    },
+    {
+      "level": "18",
+      "name": "Draining Kiss",
+      "type": "fairy",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user steals the target's energy with a kiss. The user's HP is restored by over half of the damage taken by the target."
+    },
+    {
+      "level": "23",
+      "name": "Crafty Shield",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user protects itself and its allies from status moves with a mysterious power. This does not stop moves that do damage."
+    },
+    {
+      "level": "27",
+      "name": "Foul Play",
+      "type": "dark",
+      "category": "physical",
+      "attack": "95",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user turns the target's power against it. The higher the target's Attack stat, the greater the damage."
+    },
+    {
+      "level": "32",
+      "name": "Torment",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user torments and enrages the target, making it incapable of using the same move twice in a row."
+    },
+    {
+      "level": "34",
+      "name": "Mirror Shot",
+      "type": "steel",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user looses a flash of energy at the target from its polished body. It may also lower the target's accuracy."
+    },
+    {
+      "level": "36",
+      "name": "Imprison",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the opponents know any move also known by the user, the opponents are prevented from using it."
+    },
+    {
+      "level": "40",
+      "name": "Recycle",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user recycles a held item that has been used in battle so it can be used again."
+    },
+    {
+      "level": "43",
+      "name": "Play Rough",
+      "type": "fairy",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user plays rough with the target and attacks it. This may also lower the target's Attack stat."
+    },
+    {
+      "level": "44",
+      "name": "Magic Room",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user creates a bizarre area in which Pokémon's held items lose their effects for five turns."
+    },
+    {
+      "level": "50",
+      "name": "Heal Block",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP."
+    }
+  ]
+}

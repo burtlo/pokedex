@@ -1,0 +1,16 @@
+{
+  "index": 628,
+  "name": "Braviary",
+  "image_url": "http://serebii.net/xy/pokemon/628.png",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "evolves_to": [
+    627,
+    628
+  ],
+  "moves": [
+
+  ]
+}

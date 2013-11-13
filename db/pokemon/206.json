@@ -1,0 +1,211 @@
+{
+  "index": 206,
+  "name": "Dunsparce",
+  "image_url": "http://serebii.net/xy/pokemon/206.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    206
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Rage",
+      "type": "normal",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle."
+    },
+    {
+      "level": "—",
+      "name": "Defense Curl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user curls up to conceal weak spots and raise its Defense stat."
+    },
+    {
+      "level": "4",
+      "name": "Rollout",
+      "type": "rock",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user continually rolls into the target over five turns. It becomes stronger each time it hits."
+    },
+    {
+      "level": "7",
+      "name": "Spite",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user unleashes its grudge on the move last used by the target by cutting 4 PP from it."
+    },
+    {
+      "level": "10",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "13",
+      "name": "Screech",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "An earsplitting screech harshly reduces the target's Defense stat."
+    },
+    {
+      "level": "16",
+      "name": "Yawn",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+    },
+    {
+      "level": "19",
+      "name": "Ancient Power",
+      "type": "rock",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The user attacks with a prehistoric power. It may also raise all the user's stats at once."
+    },
+    {
+      "level": "22",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "25",
+      "name": "Roost",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lands and rests its body. It restores the user's HP by up to half of its max HP."
+    },
+    {
+      "level": "28",
+      "name": "Glare",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user intimidates the target with the pattern on its belly to cause paralysis."
+    },
+    {
+      "level": "31",
+      "name": "Dig",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons."
+    },
+    {
+      "level": "34",
+      "name": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
+    },
+    {
+      "level": "37",
+      "name": "Coil",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy."
+    },
+    {
+      "level": "40",
+      "name": "Endure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "43",
+      "name": "Drill Run",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "95",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user crashes into its target while rotating its body like a drill. Critical hits land more easily."
+    },
+    {
+      "level": "46",
+      "name": "Endeavor",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "An attack move that cuts down the target's HP to equal the user's HP."
+    },
+    {
+      "level": "49",
+      "name": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has."
+    }
+  ]
+}

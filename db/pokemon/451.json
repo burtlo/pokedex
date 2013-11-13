@@ -1,0 +1,202 @@
+{
+  "index": 451,
+  "name": "Skorupi",
+  "image_url": "http://serebii.net/xy/pokemon/451.png",
+  "types": [
+    "poison",
+    "bug"
+  ],
+  "evolves_to": [
+    451,
+    452
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Poison Sting",
+      "type": "poison",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "30",
+      "description": "The user stabs the target with a poisonous stinger. This may also poison the target."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "5",
+      "name": "Knock Off",
+      "type": "dark",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user slaps down the target's held item, preventing that item from being used in the battle."
+    },
+    {
+      "level": "9",
+      "name": "Pin Missile",
+      "type": "bug",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row."
+    },
+    {
+      "level": "13",
+      "name": "Acupressure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user applies pressure to stress points, sharply boosting one of its stats."
+    },
+    {
+      "level": "16",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "20",
+      "name": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "level": "23",
+      "name": "Poison Fang",
+      "type": "poison",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "50",
+      "description": "The user bites the target with toxic fangs. It may also leave the target badly poisoned."
+    },
+    {
+      "level": "27",
+      "name": "Venoshock",
+      "type": "poison",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned."
+    },
+    {
+      "level": "30",
+      "name": "Hone Claws",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user sharpens its claws to boost its Attack stat and accuracy."
+    },
+    {
+      "level": "34",
+      "name": "Toxic Spikes",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of poison spikes at the opponent's feet. They poison opponents that switch into battle."
+    },
+    {
+      "level": "38",
+      "name": "Night Slash",
+      "type": "dark",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes the target the instant an opportunity arises. Critical hits land more easily."
+    },
+    {
+      "level": "41",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "45",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "47",
+      "name": "Fell Stinger",
+      "type": "bug",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "When the user knocks out a target with this move, the user's Attack stat rises sharply."
+    },
+    {
+      "level": "49",
+      "name": "Cross Poison",
+      "type": "poison",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "A slashing attack with a poisonous blade that may also leave the target poisoned. Critical hits land more easily."
+    }
+  ]
+}

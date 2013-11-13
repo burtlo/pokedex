@@ -1,0 +1,61 @@
+{
+  "index": 272,
+  "name": "Ludicolo",
+  "image_url": "http://serebii.net/xy/pokemon/272.png",
+  "types": [
+    "water",
+    "grass"
+  ],
+  "evolves_to": [
+    270,
+    271,
+    0,
+    272
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Mega Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "—",
+      "name": "Nature Power",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack that makes use of nature's power. Its effects vary depending on the user's environment."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "index": 350,
+  "name": "Milotic",
+  "image_url": "http://serebii.net/xy/pokemon/350.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    349,
+    0,
+    350,
+    0
+  ],
+  "moves": [
+
+  ]
+}

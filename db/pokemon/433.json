@@ -1,0 +1,91 @@
+{
+  "index": 433,
+  "name": "Chingling",
+  "image_url": "http://serebii.net/xy/pokemon/433.png",
+  "types": [
+    "psychic"
+  ],
+  "evolves_to": [
+    433,
+    358
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Wrap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "A long body or vines are used to wrap and squeeze the target for four to five turns."
+    },
+    {
+      "level": "6",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "9",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "14",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "17",
+      "name": "Uproar",
+      "type": "normal",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks in an uproar for three turns. Over that time, no one can fall asleep."
+    },
+    {
+      "level": "22",
+      "name": "Last Resort",
+      "type": "normal",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move can be used only after the user has used all the other moves it knows in the battle."
+    },
+    {
+      "level": "25",
+      "name": "Entrainment",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's."
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "index": 513,
+  "name": "Pansear",
+  "image_url": "http://serebii.net/xy/pokemon/513.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    513,
+    0,
+    514
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Scratch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "Hard, pointed, and sharp claws rake the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Play Nice",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat."
+    },
+    {
+      "level": "4",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "7",
+      "name": "Lick",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "30",
+      "description": "The target is licked with a long tongue, causing damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "10",
+      "name": "Incinerate",
+      "type": "fire",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with fire. If the target is holding a Berry, the Berry becomes burnt up and unusable."
+    },
+    {
+      "level": "13",
+      "name": "Fury Swipes",
+      "type": "normal",
+      "category": "physical",
+      "attack": "18",
+      "accuracy": "80",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The target is raked with sharp claws or scythes for two to five times in quick succession."
+    },
+    {
+      "level": "16",
+      "name": "Yawn",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+    },
+    {
+      "level": "19",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "22",
+      "name": "Flame Burst",
+      "type": "fire",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well."
+    },
+    {
+      "level": "25",
+      "name": "Amnesia",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat."
+    },
+    {
+      "level": "28",
+      "name": "Fling",
+      "type": "dark",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user flings its held item at the target to attack. Its power and effects depend on the item."
+    },
+    {
+      "level": "31",
+      "name": "Acrobatics",
+      "type": "flying",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage."
+    },
+    {
+      "level": "34",
+      "name": "Fire Blast",
+      "type": "fire",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "85",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn."
+    },
+    {
+      "level": "37",
+      "name": "Recycle",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user recycles a held item that has been used in battle so it can be used again."
+    },
+    {
+      "level": "40",
+      "name": "Natural Gift",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power."
+    },
+    {
+      "level": "43",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    }
+  ]
+}

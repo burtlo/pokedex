@@ -1,0 +1,247 @@
+{
+  "index": 229,
+  "name": "Houndoom",
+  "image_url": "http://serebii.net/xy/pokemon/229.png",
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "evolves_to": [
+    228,
+    229,
+    229
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Inferno",
+      "type": "fire",
+      "category": "special",
+      "attack": "100",
+      "accuracy": "50",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user attacks by engulfing the target in an intense fire. It leaves the target with a burn."
+    },
+    {
+      "level": "—",
+      "name": "Nasty Plot",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk."
+    },
+    {
+      "level": "—",
+      "name": "Thunder Fang",
+      "type": "electric",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user bites with electrified fangs. It may also make the target flinch or leave it with paralysis."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Ember",
+      "type": "fire",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is attacked with small flames. It may also leave the target with a burn."
+    },
+    {
+      "level": "—",
+      "name": "Howl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user howls loudly to raise its spirit, boosting its Attack stat."
+    },
+    {
+      "level": "—",
+      "name": "Smog",
+      "type": "poison",
+      "category": "special",
+      "attack": "30",
+      "accuracy": "70",
+      "pp": "20",
+      "effect_percent": "40",
+      "description": "The target is attacked with a discharge of filthy gases. It may also poison the target."
+    },
+    {
+      "level": "4",
+      "name": "Howl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user howls loudly to raise its spirit, boosting its Attack stat."
+    },
+    {
+      "level": "8",
+      "name": "Smog",
+      "type": "poison",
+      "category": "special",
+      "attack": "30",
+      "accuracy": "70",
+      "pp": "20",
+      "effect_percent": "40",
+      "description": "The target is attacked with a discharge of filthy gases. It may also poison the target."
+    },
+    {
+      "level": "13",
+      "name": "Roar",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends."
+    },
+    {
+      "level": "16",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "20",
+      "name": "Odor Sleuth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit with Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "26",
+      "name": "Beat Up",
+      "type": "dark",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks."
+    },
+    {
+      "level": "30",
+      "name": "Fire Fang",
+      "type": "fire",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned."
+    },
+    {
+      "level": "35",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "41",
+      "name": "Embargo",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "It prevents the target from using its held item. Its Trainer is also prevented from using items on it."
+    },
+    {
+      "level": "45",
+      "name": "Foul Play",
+      "type": "dark",
+      "category": "physical",
+      "attack": "95",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user turns the target's power against it. The higher the target's Attack stat, the greater the damage."
+    },
+    {
+      "level": "50",
+      "name": "Flamethrower",
+      "type": "fire",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is scorched with an intense blast of fire. It may also leave the target with a burn."
+    },
+    {
+      "level": "56",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "60",
+      "name": "Nasty Plot",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk."
+    },
+    {
+      "level": "65",
+      "name": "Inferno",
+      "type": "fire",
+      "category": "special",
+      "attack": "100",
+      "accuracy": "50",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user attacks by engulfing the target in an intense fire. It leaves the target with a burn."
+    }
+  ]
+}

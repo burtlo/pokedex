@@ -1,0 +1,157 @@
+{
+  "index": 341,
+  "name": "Corphish",
+  "image_url": "http://serebii.net/xy/pokemon/341.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    341,
+    342
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Bubble",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A spray of countless bubbles is jetted at the opposing team. It may also lower the targets' Speed stats."
+    },
+    {
+      "level": "7",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "10",
+      "name": "Vice Grip",
+      "type": "normal",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The target is gripped and squeezed from both sides to inflict damage."
+    },
+    {
+      "level": "13",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "20",
+      "name": "Bubble Beam",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats."
+    },
+    {
+      "level": "23",
+      "name": "Protect",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "26",
+      "name": "Knock Off",
+      "type": "dark",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user slaps down the target's held item, preventing that item from being used in the battle."
+    },
+    {
+      "level": "32",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "35",
+      "name": "Night Slash",
+      "type": "dark",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes the target the instant an opportunity arises. Critical hits land more easily."
+    },
+    {
+      "level": "38",
+      "name": "Crabhammer",
+      "type": "water",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is hammered with a large pincer. Critical hits land more easily."
+    },
+    {
+      "level": "44",
+      "name": "Swords Dance",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."
+    },
+    {
+      "level": "47",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "53",
+      "name": "Guillotine",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "A vicious, tearing attack with big pincers. The target will faint instantly if this attack hits."
+    }
+  ]
+}

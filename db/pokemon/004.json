@@ -1,0 +1,149 @@
+{
+  "index": 4,
+  "name": "Charmander",
+  "image_url": "http://serebii.net/xy/pokemon/004.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    4,
+    5,
+    6,
+    6,
+    6
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Scratch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "Hard, pointed, and sharp claws rake the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "7",
+      "name": "Ember",
+      "type": "fire",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is attacked with small flames. It may also leave the target with a burn."
+    },
+    {
+      "level": "10",
+      "name": "Smokescreen",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user releases an obscuring cloud of smoke or ink. It reduces the target's accuracy."
+    },
+    {
+      "level": "16",
+      "name": "Dragon Rage",
+      "type": "dragon",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage."
+    },
+    {
+      "level": "19",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "25",
+      "name": "Fire Fang",
+      "type": "fire",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned."
+    },
+    {
+      "level": "28",
+      "name": "Flame Burst",
+      "type": "fire",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well."
+    },
+    {
+      "level": "34",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "37",
+      "name": "Flamethrower",
+      "type": "fire",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is scorched with an intense blast of fire. It may also leave the target with a burn."
+    },
+    {
+      "level": "43",
+      "name": "Fire Spin",
+      "type": "fire",
+      "category": "special",
+      "attack": "35",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The target becomes trapped within a fierce vortex of fire that rages for four to five turns."
+    },
+    {
+      "level": "46",
+      "name": "Inferno",
+      "type": "fire",
+      "category": "special",
+      "attack": "100",
+      "accuracy": "50",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user attacks by engulfing the target in an intense fire. It leaves the target with a burn."
+    }
+  ]
+}

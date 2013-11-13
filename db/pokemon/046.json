@@ -1,0 +1,147 @@
+{
+  "index": 46,
+  "name": "Paras",
+  "image_url": "http://serebii.net/xy/pokemon/046.png",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "evolves_to": [
+    46,
+    47
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Scratch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "Hard, pointed, and sharp claws rake the target to inflict damage."
+    },
+    {
+      "level": "6",
+      "name": "Stun Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of paralyzing powder. It may leave the target with paralysis."
+    },
+    {
+      "level": "6",
+      "name": "Poison Powder",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of poisonous dust on the target. It may poison the target."
+    },
+    {
+      "level": "11",
+      "name": "Leech Life",
+      "type": "bug",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user drains the target's blood. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "17",
+      "name": "Fury Cutter",
+      "type": "bug",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slashed with scythes or claws. Its power increases if it hits in succession."
+    },
+    {
+      "level": "22",
+      "name": "Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user scatters bursts of spores that induce sleep."
+    },
+    {
+      "level": "27",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "33",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "38",
+      "name": "Giga Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "43",
+      "name": "Aromatherapy",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user releases a soothing scent that heals all status problems affecting the user's party."
+    },
+    {
+      "level": "49",
+      "name": "Rage Powder",
+      "type": "bug",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of irritating powder to draw attention to itself. Opponents aim only at the user."
+    },
+    {
+      "level": "54",
+      "name": "X-Scissor",
+      "type": "bug",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors."
+    }
+  ]
+}

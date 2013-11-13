@@ -1,0 +1,16 @@
+{
+  "index": 507,
+  "name": "Herdier",
+  "image_url": "http://serebii.net/xy/pokemon/507.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    506,
+    507,
+    508
+  ],
+  "moves": [
+
+  ]
+}

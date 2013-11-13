@@ -1,0 +1,15 @@
+{
+  "index": 522,
+  "name": "Blitzle",
+  "image_url": "http://serebii.net/xy/pokemon/522.png",
+  "types": [
+    "electric"
+  ],
+  "evolves_to": [
+    522,
+    523
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "index": 412,
+  "name": "Burmy",
+  "image_url": "http://serebii.net/xy/pokemon/412.png",
+  "types": [
+    "bug"
+  ],
+  "evolves_to": [
+    412,
+    413,
+    414
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Protect",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "10",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "15",
+      "name": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "level": "20",
+      "name": "Hidden Power",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A unique attack that varies in type depending on the Pokémon using it."
+    }
+  ]
+}

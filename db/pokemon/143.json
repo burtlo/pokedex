@@ -1,0 +1,190 @@
+{
+  "index": 143,
+  "name": "Snorlax",
+  "image_url": "http://serebii.net/xy/pokemon/143.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    446,
+    143
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "4",
+      "name": "Defense Curl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user curls up to conceal weak spots and raise its Defense stat."
+    },
+    {
+      "level": "9",
+      "name": "Amnesia",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat."
+    },
+    {
+      "level": "12",
+      "name": "Lick",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "30",
+      "description": "The target is licked with a long tongue, causing damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "17",
+      "name": "Chip Away",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Looking for an opening, the user strikes continually. The target's stat changes don't affect this attack's damage."
+    },
+    {
+      "level": "20",
+      "name": "Yawn",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+    },
+    {
+      "level": "25",
+      "name": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user drops onto the target with its full body weight. It may also leave the target with paralysis."
+    },
+    {
+      "level": "28",
+      "name": "Rest",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."
+    },
+    {
+      "level": "28",
+      "name": "Snore",
+      "type": "normal",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch."
+    },
+    {
+      "level": "33",
+      "name": "Sleep Talk",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "While it is asleep, the user randomly uses one of the moves it knows."
+    },
+    {
+      "level": "36",
+      "name": "Rollout",
+      "type": "rock",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user continually rolls into the target over five turns. It becomes stronger each time it hits."
+    },
+    {
+      "level": "41",
+      "name": "Block",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user blocks the target's way with arms spread wide to prevent escape."
+    },
+    {
+      "level": "44",
+      "name": "Belly Drum",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user maximizes its Attack stat in exchange for HP equal to half its max HP."
+    },
+    {
+      "level": "49",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "50",
+      "name": "Heavy Slam",
+      "type": "steel",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user slams into the target with its heavy body. The more the user outweighs the target, the greater its damage."
+    },
+    {
+      "level": "57",
+      "name": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user charges at the target using every bit of its power. The user must rest on the next turn."
+    }
+  ]
+}

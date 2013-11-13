@@ -1,0 +1,15 @@
+{
+  "index": 605,
+  "name": "Elgyem",
+  "image_url": "http://serebii.net/xy/pokemon/605.png",
+  "types": [
+    "psychic"
+  ],
+  "evolves_to": [
+    605,
+    606
+  ],
+  "moves": [
+
+  ]
+}

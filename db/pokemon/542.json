@@ -1,0 +1,17 @@
+{
+  "index": 542,
+  "name": "Leavanny",
+  "image_url": "http://serebii.net/xy/pokemon/542.png",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "evolves_to": [
+    540,
+    541,
+    542
+  ],
+  "moves": [
+
+  ]
+}

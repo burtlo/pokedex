@@ -1,0 +1,235 @@
+{
+  "index": 303,
+  "name": "Mawile",
+  "image_url": "http://serebii.net/xy/pokemon/303.png",
+  "types": [
+    "steel",
+    "fairy"
+  ],
+  "evolves_to": [
+    303,
+    303
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Play Rough",
+      "type": "fairy",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user plays rough with the target and attacks it. This may also lower the target's Attack stat."
+    },
+    {
+      "level": "—",
+      "name": "Iron Head",
+      "type": "steel",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user slams the target with its steel-hard head. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Fairy Wind",
+      "type": "fairy",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stirs up a fairy wind and strikes the target with it."
+    },
+    {
+      "level": "—",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "6",
+      "name": "Fake Tears",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user feigns crying to fluster the target, harshly lowering its Sp. Def stat."
+    },
+    {
+      "level": "11",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "16",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "21",
+      "name": "Vice Grip",
+      "type": "normal",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The target is gripped and squeezed from both sides to inflict damage."
+    },
+    {
+      "level": "26",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "31",
+      "name": "Baton Pass",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user switches places with a party Pokémon in waiting, passing along any stat changes."
+    },
+    {
+      "level": "36",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "41",
+      "name": "Iron Defense",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user hardens its body's surface like iron, sharply raising its Defense stat."
+    },
+    {
+      "level": "46",
+      "name": "Sucker Punch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move enables the user to attack first. It fails if the target is not readying an attack, however."
+    },
+    {
+      "level": "50",
+      "name": "Stockpile",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user charges up power and raises both its Defense and Sp. Def. The move can be used three times."
+    },
+    {
+      "level": "50",
+      "name": "Swallow",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP."
+    },
+    {
+      "level": "50",
+      "name": "Spit Up",
+      "type": "normal",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the damage."
+    },
+    {
+      "level": "56",
+      "name": "Iron Head",
+      "type": "steel",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user slams the target with its steel-hard head. It may also make the target flinch."
+    },
+    {
+      "level": "60",
+      "name": "Play Rough",
+      "type": "fairy",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user plays rough with the target and attacks it. This may also lower the target's Attack stat."
+    }
+  ]
+}

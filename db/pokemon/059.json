@@ -1,0 +1,81 @@
+{
+  "index": 59,
+  "name": "Arcanine",
+  "image_url": "http://serebii.net/xy/pokemon/059.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    58,
+    0,
+    59
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Thunder Fang",
+      "type": "electric",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user bites with electrified fangs. It may also make the target flinch or leave it with paralysis."
+    },
+    {
+      "level": "—",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Roar",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends."
+    },
+    {
+      "level": "—",
+      "name": "Odor Sleuth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit with Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "—",
+      "name": "Fire Fang",
+      "type": "fire",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned."
+    },
+    {
+      "level": "34",
+      "name": "Extreme Speed",
+      "type": "normal",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user charges the target at blinding speed. This attack always goes before any other move."
+    }
+  ]
+}

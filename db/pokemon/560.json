@@ -1,0 +1,213 @@
+{
+  "index": 560,
+  "name": "Scrafty",
+  "image_url": "http://serebii.net/xy/pokemon/560.png",
+  "types": [
+    "dark",
+    "fighting"
+  ],
+  "evolves_to": [
+    559,
+    560
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Low Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A powerful low kick that makes the target fall over. It inflicts greater damage on heavier targets."
+    },
+    {
+      "level": "—",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "—",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "5",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "9",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "12",
+      "name": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user sticks out its head and attacks by charging straight into the target. It may also make the target flinch."
+    },
+    {
+      "level": "16",
+      "name": "Swagger",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user enrages and confuses the target. However, it also sharply raises the target's Attack stat."
+    },
+    {
+      "level": "20",
+      "name": "Brick Break",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks with a swift chop. It can also break any barrier such as Light Screen and Reflect."
+    },
+    {
+      "level": "23",
+      "name": "Payback",
+      "type": "dark",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the user moves after the target, this attack's power will be doubled."
+    },
+    {
+      "level": "27",
+      "name": "Chip Away",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Looking for an opening, the user strikes continually. The target's stat changes don't affect this attack's damage."
+    },
+    {
+      "level": "31",
+      "name": "High Jump Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "130",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead."
+    },
+    {
+      "level": "34",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "38",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "45",
+      "name": "Facade",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that doubles its power if the user is poisoned, burned, or has paralysis."
+    },
+    {
+      "level": "51",
+      "name": "Rock Climb",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user attacks the target by smashing into it with incredible force. It may also confuse the target."
+    },
+    {
+      "level": "58",
+      "name": "Focus Punch",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used."
+    },
+    {
+      "level": "65",
+      "name": "Head Smash",
+      "type": "rock",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a hazardous, full-power headbutt. The user also takes terrible damage."
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "index": 57,
+  "name": "Primeape",
+  "image_url": "http://serebii.net/xy/pokemon/057.png",
+  "types": [
+    "fighting"
+  ],
+  "evolves_to": [
+    56,
+    57
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Final Gambit",
+      "type": "fighting",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user risks everything to attack its target. The user faints but does damage equal to the user's HP."
+    },
+    {
+      "level": "—",
+      "name": "Fling",
+      "type": "dark",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user flings its held item at the target to attack. Its power and effects depend on the item."
+    },
+    {
+      "level": "—",
+      "name": "Scratch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "Hard, pointed, and sharp claws rake the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Low Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A powerful low kick that makes the target fall over. It inflicts greater damage on heavier targets."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "9",
+      "name": "Fury Swipes",
+      "type": "normal",
+      "category": "physical",
+      "attack": "18",
+      "accuracy": "80",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The target is raked with sharp claws or scythes for two to five times in quick succession."
+    },
+    {
+      "level": "13",
+      "name": "Karate Chop",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is attacked with a sharp chop. Critical hits land more easily."
+    },
+    {
+      "level": "17",
+      "name": "Seismic Toss",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is thrown using the power of gravity. It inflicts damage equal to the user's level."
+    },
+    {
+      "level": "21",
+      "name": "Screech",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "An earsplitting screech harshly reduces the target's Defense stat."
+    },
+    {
+      "level": "25",
+      "name": "Assurance",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target has already taken some damage in the same turn, this attack's power is doubled."
+    },
+    {
+      "level": "28",
+      "name": "Rage",
+      "type": "normal",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle."
+    },
+    {
+      "level": "35",
+      "name": "Swagger",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user enrages and confuses the target. However, it also sharply raises the target's Attack stat."
+    },
+    {
+      "level": "41",
+      "name": "Cross Chop",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user delivers a double chop with its forearms crossed. Critical hits land more easily."
+    },
+    {
+      "level": "47",
+      "name": "Thrash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user rampages and attacks for two to three turns. It then becomes confused, however."
+    },
+    {
+      "level": "53",
+      "name": "Punishment",
+      "type": "dark",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This attack's power increases the more the target has powered up with stat changes."
+    },
+    {
+      "level": "59",
+      "name": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def."
+    },
+    {
+      "level": "63",
+      "name": "Final Gambit",
+      "type": "fighting",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user risks everything to attack its target. The user faints but does damage equal to the user's HP."
+    }
+  ]
+}

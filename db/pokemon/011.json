@@ -1,0 +1,37 @@
+{
+  "index": 11,
+  "name": "Metapod",
+  "image_url": "http://serebii.net/xy/pokemon/011.png",
+  "types": [
+    "bug"
+  ],
+  "evolves_to": [
+    10,
+    11,
+    12
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "7",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    }
+  ]
+}

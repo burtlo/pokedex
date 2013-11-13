@@ -1,0 +1,16 @@
+{
+  "index": 564,
+  "name": "Tirtouga",
+  "image_url": "http://serebii.net/xy/pokemon/564.png",
+  "types": [
+    "water",
+    "rock"
+  ],
+  "evolves_to": [
+    564,
+    565
+  ],
+  "moves": [
+
+  ]
+}

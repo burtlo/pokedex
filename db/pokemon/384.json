@@ -1,0 +1,15 @@
+{
+  "index": 384,
+  "name": "Rayquaza",
+  "image_url": "http://serebii.net/xy/pokemon/384.png",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "evolves_to": [
+    384
+  ],
+  "moves": [
+
+  ]
+}

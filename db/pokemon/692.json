@@ -1,0 +1,157 @@
+{
+  "index": 692,
+  "name": "Clauncher",
+  "image_url": "http://serebii.net/xy/pokemon/692.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    692,
+    693
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Splash",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user just flops and splashes around to no effect at all..."
+    },
+    {
+      "level": "—",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "7",
+      "name": "Water Sport",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle."
+    },
+    {
+      "level": "9",
+      "name": "Vice Grip",
+      "type": "normal",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The target is gripped and squeezed from both sides to inflict damage."
+    },
+    {
+      "level": "12",
+      "name": "Bubble",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A spray of countless bubbles is jetted at the opposing team. It may also lower the targets' Speed stats."
+    },
+    {
+      "level": "16",
+      "name": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "20",
+      "name": "Bubble Beam",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats."
+    },
+    {
+      "level": "25",
+      "name": "Swords Dance",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."
+    },
+    {
+      "level": "30",
+      "name": "Crabhammer",
+      "type": "water",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is hammered with a large pincer. Critical hits land more easily."
+    },
+    {
+      "level": "34",
+      "name": "Water Pulse",
+      "type": "water",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user attacks the target with a pulsing blast of water. It may also confuse the target."
+    },
+    {
+      "level": "39",
+      "name": "Smack Down",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when hit."
+    },
+    {
+      "level": "43",
+      "name": "Aqua Jet",
+      "type": "water",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "48",
+      "name": "Muddy Water",
+      "type": "water",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user attacks by shooting muddy water at the opposing team. It may also lower the targets' accuracy."
+    }
+  ]
+}

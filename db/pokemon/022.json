@@ -1,0 +1,191 @@
+{
+  "index": 22,
+  "name": "Fearow",
+  "image_url": "http://serebii.net/xy/pokemon/022.png",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "evolves_to": [
+    21,
+    22
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Drill Run",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "95",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user crashes into its target while rotating its body like a drill. Critical hits land more easily."
+    },
+    {
+      "level": "—",
+      "name": "Pluck",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "level": "—",
+      "name": "Peck",
+      "type": "flying",
+      "category": "physical",
+      "attack": "35",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is jabbed with a sharply pointed beak or horn."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Fury Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is jabbed repeatedly with a horn or beak two to five times in a row."
+    },
+    {
+      "level": "5",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "9",
+      "name": "Fury Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is jabbed repeatedly with a horn or beak two to five times in a row."
+    },
+    {
+      "level": "13",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "17",
+      "name": "Aerial Ace",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user confounds the target with speed, then slashes. The attack lands without fail."
+    },
+    {
+      "level": "23",
+      "name": "Mirror Move",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user counters the target by mimicking the target's last move."
+    },
+    {
+      "level": "29",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "35",
+      "name": "Assurance",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target has already taken some damage in the same turn, this attack's power is doubled."
+    },
+    {
+      "level": "41",
+      "name": "Roost",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lands and rests its body. It restores the user's HP by up to half of its max HP."
+    },
+    {
+      "level": "47",
+      "name": "Drill Peck",
+      "type": "flying",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A corkscrewing attack with the sharp beak acting as a drill."
+    },
+    {
+      "level": "53",
+      "name": "Drill Run",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "95",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user crashes into its target while rotating its body like a drill. Critical hits land more easily."
+    }
+  ]
+}

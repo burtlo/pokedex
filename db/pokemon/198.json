@@ -1,0 +1,181 @@
+{
+  "index": 198,
+  "name": "Murkrow",
+  "image_url": "http://serebii.net/xy/pokemon/198.png",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "evolves_to": [
+    198,
+    0,
+    430
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Peck",
+      "type": "flying",
+      "category": "physical",
+      "attack": "35",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is jabbed with a sharply pointed beak or horn."
+    },
+    {
+      "level": "—",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "5",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "11",
+      "name": "Haze",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle."
+    },
+    {
+      "level": "15",
+      "name": "Wing Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is struck with large, imposing wings spread wide to inflict damage."
+    },
+    {
+      "level": "21",
+      "name": "Night Shade",
+      "type": "ghost",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user makes the target see a frightening mirage. It inflicts damage matching the user's level."
+    },
+    {
+      "level": "25",
+      "name": "Assurance",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target has already taken some damage in the same turn, this attack's power is doubled."
+    },
+    {
+      "level": "31",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "35",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "41",
+      "name": "Mean Look",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user pins the target with a dark, arresting look. The target becomes unable to flee."
+    },
+    {
+      "level": "45",
+      "name": "Foul Play",
+      "type": "dark",
+      "category": "physical",
+      "attack": "95",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user turns the target's power against it. The higher the target's Attack stat, the greater the damage."
+    },
+    {
+      "level": "50",
+      "name": "Tailwind",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns."
+    },
+    {
+      "level": "55",
+      "name": "Sucker Punch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move enables the user to attack first. It fails if the target is not readying an attack, however."
+    },
+    {
+      "level": "61",
+      "name": "Torment",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user torments and enrages the target, making it incapable of using the same move twice in a row."
+    },
+    {
+      "level": "65",
+      "name": "Quash",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user suppresses the target and makes its move go last."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "index": 703,
+  "name": "Carbink",
+  "image_url": "http://serebii.net/xy/pokemon/703.png",
+  "types": [
+    "rock",
+    "fairy"
+  ],
+  "evolves_to": [
+    703
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "5",
+      "name": "Rock Throw",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user picks up and throws a small rock at the target to attack."
+    },
+    {
+      "level": "8",
+      "name": "Sharpen",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user reduces its polygon count to make itself more jagged, raising the Attack stat."
+    },
+    {
+      "level": "12",
+      "name": "Smack Down",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when hit."
+    },
+    {
+      "level": "18",
+      "name": "Reflect",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from physical attacks for five turns."
+    },
+    {
+      "level": "21",
+      "name": "Stealth Rock",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of levitating stones around the opponent's team. The trap hurts opponents that switch into battle."
+    },
+    {
+      "level": "27",
+      "name": "Guard Split",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to average its Defense and Sp. Def stats with those of its target's."
+    },
+    {
+      "level": "31",
+      "name": "Ancient Power",
+      "type": "rock",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The user attacks with a prehistoric power. It may also raise all the user's stats at once."
+    },
+    {
+      "level": "35",
+      "name": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "40",
+      "name": "Skill Swap",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to exchange Abilities with the target."
+    },
+    {
+      "level": "46",
+      "name": "Power Gem",
+      "type": "rock",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user attacks with a ray of light that sparkles as if it were made of gemstones."
+    },
+    {
+      "level": "49",
+      "name": "Stone Edge",
+      "type": "rock",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio."
+    },
+    {
+      "level": "50",
+      "name": "Moonblast",
+      "type": "fairy",
+      "category": "special",
+      "attack": "95",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat."
+    },
+    {
+      "level": "60",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "70",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    }
+  ]
+}

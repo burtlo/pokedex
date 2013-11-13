@@ -1,0 +1,15 @@
+{
+  "index": 380,
+  "name": "Latias",
+  "image_url": "http://serebii.net/xy/pokemon/380.png",
+  "types": [
+    "dragon",
+    "psychic"
+  ],
+  "evolves_to": [
+    380
+  ],
+  "moves": [
+
+  ]
+}

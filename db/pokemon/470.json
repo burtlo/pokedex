@@ -1,0 +1,172 @@
+{
+  "index": 470,
+  "name": "Leafeon",
+  "image_url": "http://serebii.net/xy/pokemon/470.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    133,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Helping Hand",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user assists an ally by boosting the power of its attack."
+    },
+    {
+      "level": "5",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "9",
+      "name": "Razor Leaf",
+      "type": "grass",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "13",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "17",
+      "name": "Grass Whistle",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user plays a pleasant melody that lulls the target into a deep sleep."
+    },
+    {
+      "level": "21",
+      "name": "Magical Leaf",
+      "type": "grass",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user scatters curious leaves that chase the target. This attack will not miss."
+    },
+    {
+      "level": "25",
+      "name": "Giga Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "29",
+      "name": "Swords Dance",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."
+    },
+    {
+      "level": "33",
+      "name": "Synthesis",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "37",
+      "name": "Sunny Day",
+      "type": "fire",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user intensifies the sun for five turns, powering up Fire-type moves."
+    },
+    {
+      "level": "41",
+      "name": "Last Resort",
+      "type": "normal",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move can be used only after the user has used all the other moves it knows in the battle."
+    },
+    {
+      "level": "45",
+      "name": "Leaf Blade",
+      "type": "grass",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily."
+    }
+  ]
+}

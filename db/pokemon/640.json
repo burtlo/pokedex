@@ -1,0 +1,15 @@
+{
+  "index": 640,
+  "name": "Virizion",
+  "image_url": "http://serebii.net/xy/pokemon/640.png",
+  "types": [
+    "grass",
+    "fighting"
+  ],
+  "evolves_to": [
+    640
+  ],
+  "moves": [
+
+  ]
+}

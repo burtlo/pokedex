@@ -1,0 +1,213 @@
+{
+  "index": 58,
+  "name": "Growlithe",
+  "image_url": "http://serebii.net/xy/pokemon/058.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    58,
+    0,
+    59
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Roar",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends."
+    },
+    {
+      "level": "6",
+      "name": "Ember",
+      "type": "fire",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is attacked with small flames. It may also leave the target with a burn."
+    },
+    {
+      "level": "8",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "10",
+      "name": "Odor Sleuth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit with Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "12",
+      "name": "Helping Hand",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user assists an ally by boosting the power of its attack."
+    },
+    {
+      "level": "17",
+      "name": "Flame Wheel",
+      "type": "fire",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The user cloaks itself in fire and charges at the target. It may also leave the target with a burn."
+    },
+    {
+      "level": "19",
+      "name": "Reversal",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "An all-out attack that becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "21",
+      "name": "Fire Fang",
+      "type": "fire",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned."
+    },
+    {
+      "level": "23",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "28",
+      "name": "Flame Burst",
+      "type": "fire",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well."
+    },
+    {
+      "level": "30",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "32",
+      "name": "Retaliate",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this attack's damage increases."
+    },
+    {
+      "level": "34",
+      "name": "Flamethrower",
+      "type": "fire",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is scorched with an intense blast of fire. It may also leave the target with a burn."
+    },
+    {
+      "level": "39",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "41",
+      "name": "Heat Wave",
+      "type": "fire",
+      "category": "special",
+      "attack": "95",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user attacks by exhaling hot breath on the opposing team. It may also leave targets with a burn."
+    },
+    {
+      "level": "43",
+      "name": "Outrage",
+      "type": "dragon",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user rampages and attacks for two to three turns. It then becomes confused, however."
+    },
+    {
+      "level": "45",
+      "name": "Flare Blitz",
+      "type": "fire",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user cloaks itself in fire and charges at the target. The user sustains serious damage and may leave the target burned."
+    }
+  ]
+}

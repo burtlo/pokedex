@@ -1,0 +1,226 @@
+{
+  "index": 608,
+  "name": "Lampent",
+  "image_url": "http://serebii.net/xy/pokemon/608.png",
+  "types": [
+    "ghost",
+    "fire"
+  ],
+  "evolves_to": [
+    607,
+    608,
+    0,
+    609
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Ember",
+      "type": "fire",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is attacked with small flames. It may also leave the target with a burn."
+    },
+    {
+      "level": "—",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Minimize",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user compresses its body to make itself look smaller, which sharply raises its evasiveness."
+    },
+    {
+      "level": "—",
+      "name": "Smog",
+      "type": "poison",
+      "category": "special",
+      "attack": "30",
+      "accuracy": "70",
+      "pp": "20",
+      "effect_percent": "40",
+      "description": "The target is attacked with a discharge of filthy gases. It may also poison the target."
+    },
+    {
+      "level": "3",
+      "name": "Minimize",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user compresses its body to make itself look smaller, which sharply raises its evasiveness."
+    },
+    {
+      "level": "5",
+      "name": "Smog",
+      "type": "poison",
+      "category": "special",
+      "attack": "30",
+      "accuracy": "70",
+      "pp": "20",
+      "effect_percent": "40",
+      "description": "The target is attacked with a discharge of filthy gases. It may also poison the target."
+    },
+    {
+      "level": "7",
+      "name": "Fire Spin",
+      "type": "fire",
+      "category": "special",
+      "attack": "35",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The target becomes trapped within a fierce vortex of fire that rages for four to five turns."
+    },
+    {
+      "level": "10",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "13",
+      "name": "Night Shade",
+      "type": "ghost",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user makes the target see a frightening mirage. It inflicts damage matching the user's level."
+    },
+    {
+      "level": "16",
+      "name": "Will-O-Wisp",
+      "type": "fire",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user shoots a sinister, bluish-white flame at the target to inflict a burn."
+    },
+    {
+      "level": "20",
+      "name": "Flame Burst",
+      "type": "fire",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well."
+    },
+    {
+      "level": "24",
+      "name": "Imprison",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the opponents know any move also known by the user, the opponents are prevented from using it."
+    },
+    {
+      "level": "28",
+      "name": "Hex",
+      "type": "ghost",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This relentless attack does massive damage to a target affected by status problems."
+    },
+    {
+      "level": "33",
+      "name": "Memento",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user faints when using this move. In return, it harshly lowers the target's Attack and Sp. Atk."
+    },
+    {
+      "level": "38",
+      "name": "Inferno",
+      "type": "fire",
+      "category": "special",
+      "attack": "100",
+      "accuracy": "50",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user attacks by engulfing the target in an intense fire. It leaves the target with a burn."
+    },
+    {
+      "level": "45",
+      "name": "Curse",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A move that works differently for the Ghost type than for all other types."
+    },
+    {
+      "level": "53",
+      "name": "Shadow Ball",
+      "type": "ghost",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat."
+    },
+    {
+      "level": "61",
+      "name": "Pain Split",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user adds its HP to the target's HP, then equally shares the combined HP with the target."
+    },
+    {
+      "level": "69",
+      "name": "Overheat",
+      "type": "fire",
+      "category": "special",
+      "attack": "130",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user attacks the target at full power. The attack's recoil harshly reduces the user's Sp. Atk stat."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "index": 252,
+  "name": "Treecko",
+  "image_url": "http://serebii.net/xy/pokemon/252.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    252,
+    253,
+    254
+  ],
+  "moves": [
+
+  ]
+}

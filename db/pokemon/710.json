@@ -1,0 +1,180 @@
+{
+  "index": 710,
+  "name": "Pumpkaboo",
+  "image_url": "http://serebii.net/xy/pokemon/710.png",
+  "types": [
+    "ghost",
+    "grass"
+  ],
+  "evolves_to": [
+    710,
+    711
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Trick",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user catches the target off guard and swaps its held item with its own."
+    },
+    {
+      "level": "—",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "4",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "6",
+      "name": "Trick-or-Treat",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user takes the target trick-or-treating. This adds Ghost type to the target's type."
+    },
+    {
+      "level": "11",
+      "name": "Worry Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed that causes worry is planted on the target. It prevents sleep by making its Ability Insomnia."
+    },
+    {
+      "level": "16",
+      "name": "Razor Leaf",
+      "type": "grass",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "20",
+      "name": "Leech Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed is planted on the target. It steals some HP from the target every turn."
+    },
+    {
+      "level": "23",
+      "name": "Trick-or-Treat",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user takes the target trick-or-treating. This adds Ghost type to the target's type."
+    },
+    {
+      "level": "26",
+      "name": "Bullet Seed",
+      "type": "grass",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user forcefully shoots seeds at the target. Two to five seeds are shot in rapid succession."
+    },
+    {
+      "level": "30",
+      "name": "Shadow Sneak",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user extends its shadow and attacks the target from behind. This move always goes first."
+    },
+    {
+      "level": "36",
+      "name": "Shadow Ball",
+      "type": "ghost",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat."
+    },
+    {
+      "level": "40",
+      "name": "Trick-or-Treat",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user takes the target trick-or-treating. This adds Ghost type to the target's type."
+    },
+    {
+      "level": "42",
+      "name": "Pain Split",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user adds its HP to the target's HP, then equally shares the combined HP with the target."
+    },
+    {
+      "level": "48",
+      "name": "Seed Bomb",
+      "type": "grass",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slams a barrage of hard-shelled seeds down on the target from above."
+    }
+  ]
+}

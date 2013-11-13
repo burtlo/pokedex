@@ -1,0 +1,193 @@
+{
+  "index": 39,
+  "name": "Jigglypuff",
+  "image_url": "http://serebii.net/xy/pokemon/039.png",
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "evolves_to": [
+    174,
+    39,
+    0,
+    40
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Sing",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A soothing lullaby is sung in a calming voice that puts the target into a deep slumber."
+    },
+    {
+      "level": "5",
+      "name": "Defense Curl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user curls up to conceal weak spots and raise its Defense stat."
+    },
+    {
+      "level": "7",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "10",
+      "name": "Play Nice",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat."
+    },
+    {
+      "level": "13",
+      "name": "Disable",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "For four turns, this move prevents the target from using the move it last used."
+    },
+    {
+      "level": "17",
+      "name": "Round",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a song. Others can join in the Round and make the attack do greater damage."
+    },
+    {
+      "level": "21",
+      "name": "Rollout",
+      "type": "rock",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user continually rolls into the target over five turns. It becomes stronger each time it hits."
+    },
+    {
+      "level": "25",
+      "name": "Double Slap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is slapped repeatedly, back and forth, two to five times in a row."
+    },
+    {
+      "level": "29",
+      "name": "Rest",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."
+    },
+    {
+      "level": "33",
+      "name": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user drops onto the target with its full body weight. It may also leave the target with paralysis."
+    },
+    {
+      "level": "37",
+      "name": "Gyro Ball",
+      "type": "steel",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user tackles the target with a high-speed spin. The slower the user, the greater the damage."
+    },
+    {
+      "level": "41",
+      "name": "Wake-Up Slap",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack inflicts big damage on a sleeping target. It also wakes the target up, however."
+    },
+    {
+      "level": "45",
+      "name": "Mimic",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user copies the target's last move. The move can be used during battle until the Pokémon is switched out."
+    },
+    {
+      "level": "48",
+      "name": "Hyper Voice",
+      "type": "normal",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a horribly echoing shout with the power to inflict damage."
+    },
+    {
+      "level": "50",
+      "name": "Disarming Voice",
+      "type": "fairy",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses."
+    },
+    {
+      "level": "53",
+      "name": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
+    }
+  ]
+}

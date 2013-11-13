@@ -1,0 +1,16 @@
+{
+  "index": 593,
+  "name": "Jellicent",
+  "image_url": "http://serebii.net/xy/pokemon/593.png",
+  "types": [
+    "water",
+    "ghost"
+  ],
+  "evolves_to": [
+    592,
+    593
+  ],
+  "moves": [
+
+  ]
+}

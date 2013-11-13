@@ -1,0 +1,202 @@
+{
+  "index": 528,
+  "name": "Swoobat",
+  "image_url": "http://serebii.net/xy/pokemon/528.png",
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "evolves_to": [
+    527,
+    528
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "—",
+      "name": "Odor Sleuth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit with Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "—",
+      "name": "Gust",
+      "type": "flying",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A gust of wind is whipped up by wings and launched at the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Assurance",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target has already taken some damage in the same turn, this attack's power is doubled."
+    },
+    {
+      "level": "4",
+      "name": "Odor Sleuth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit with Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "8",
+      "name": "Gust",
+      "type": "flying",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A gust of wind is whipped up by wings and launched at the target to inflict damage."
+    },
+    {
+      "level": "12",
+      "name": "Assurance",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target has already taken some damage in the same turn, this attack's power is doubled."
+    },
+    {
+      "level": "15",
+      "name": "Heart Stamp",
+      "type": "psychic",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The user unleashes a vicious blow after its cute act makes the target less wary. It may also make the target flinch."
+    },
+    {
+      "level": "19",
+      "name": "Imprison",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the opponents know any move also known by the user, the opponents are prevented from using it."
+    },
+    {
+      "level": "21",
+      "name": "Air Cutter",
+      "type": "flying",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user launches razor-like wind to slash the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "25",
+      "name": "Attract",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "If it is the opposite gender of the user, the target becomes infatuated and less likely to attack."
+    },
+    {
+      "level": "29",
+      "name": "Amnesia",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat."
+    },
+    {
+      "level": "29",
+      "name": "Calm Mind",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats."
+    },
+    {
+      "level": "32",
+      "name": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch."
+    },
+    {
+      "level": "36",
+      "name": "Future Sight",
+      "type": "psychic",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Two turns after this move is used, a hunk of psychic energy attacks the target."
+    },
+    {
+      "level": "41",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "47",
+      "name": "Endeavor",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "An attack move that cuts down the target's HP to equal the user's HP."
+    }
+  ]
+}

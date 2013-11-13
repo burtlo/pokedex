@@ -1,0 +1,190 @@
+{
+  "index": 702,
+  "name": "Dedenne",
+  "image_url": "http://serebii.net/xy/pokemon/702.png",
+  "types": [
+    "electric",
+    "fairy"
+  ],
+  "evolves_to": [
+    702
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "7",
+      "name": "Thunder Shock",
+      "type": "electric",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A jolt of electricity is hurled at the target to inflict damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "11",
+      "name": "Charge",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user boosts the power of the Electric move it uses on the next turn. It also raises the user's Sp. Def stat."
+    },
+    {
+      "level": "14",
+      "name": "Charm",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user gazes at the target rather charmingly, making it less wary. The target's Attack is harshly lowered."
+    },
+    {
+      "level": "17",
+      "name": "Parabolic Charge",
+      "type": "electric",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user attacks everything around it. The user's HP is restored by half the damage taken by those hit."
+    },
+    {
+      "level": "20",
+      "name": "Nuzzle",
+      "type": "electric",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis."
+    },
+    {
+      "level": "23",
+      "name": "Thunder Wave",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A weak electric charge is launched at the target. It causes paralysis if it hits."
+    },
+    {
+      "level": "26",
+      "name": "Volt Switch",
+      "type": "electric",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+    },
+    {
+      "level": "30",
+      "name": "Rest",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."
+    },
+    {
+      "level": "31",
+      "name": "Snore",
+      "type": "normal",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch."
+    },
+    {
+      "level": "34",
+      "name": "Charge Beam",
+      "type": "electric",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "70",
+      "description": "The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat."
+    },
+    {
+      "level": "39",
+      "name": "Entrainment",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's."
+    },
+    {
+      "level": "42",
+      "name": "Play Rough",
+      "type": "fairy",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user plays rough with the target and attacks it. This may also lower the target's Attack stat."
+    },
+    {
+      "level": "45",
+      "name": "Thunder",
+      "type": "electric",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "A wicked thunderbolt is dropped on the target to inflict damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "50",
+      "name": "Discharge",
+      "type": "electric",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "A flare of electricity is loosed to strike the area around the user. It may also cause paralysis."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "index": 152,
+  "name": "Chikorita",
+  "image_url": "http://serebii.net/xy/pokemon/152.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    152,
+    153,
+    154
+  ],
+  "moves": [
+
+  ]
+}

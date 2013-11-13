@@ -1,0 +1,158 @@
+{
+  "index": 314,
+  "name": "Illumise",
+  "image_url": "http://serebii.net/xy/pokemon/314.png",
+  "types": [
+    "bug"
+  ],
+  "evolves_to": [
+    0,
+    313,
+    314
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Play Nice",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat."
+    },
+    {
+      "level": "5",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "9",
+      "name": "Charm",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user gazes at the target rather charmingly, making it less wary. The target's Attack is harshly lowered."
+    },
+    {
+      "level": "13",
+      "name": "Moonlight",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "17",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "21",
+      "name": "Wish",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "One turn after this move is used, the target's HP is restored by half the user's maximum HP."
+    },
+    {
+      "level": "25",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "29",
+      "name": "Flatter",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Flattery is used to confuse the target. However, it also raises the target's Sp. Atk stat."
+    },
+    {
+      "level": "33",
+      "name": "Helping Hand",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user assists an ally by boosting the power of its attack."
+    },
+    {
+      "level": "37",
+      "name": "Zen Headbutt",
+      "type": "psychic",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user focuses its willpower to its head and attacks the target. It may also make the target flinch."
+    },
+    {
+      "level": "41",
+      "name": "Bug Buzz",
+      "type": "bug",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat."
+    },
+    {
+      "level": "45",
+      "name": "Covet",
+      "type": "normal",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user endearingly approaches the target, then steals the target's held item."
+    }
+  ]
+}

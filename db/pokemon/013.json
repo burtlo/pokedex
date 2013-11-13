@@ -1,0 +1,49 @@
+{
+  "index": 13,
+  "name": "Weedle",
+  "image_url": "http://serebii.net/xy/pokemon/013.png",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "evolves_to": [
+    13,
+    14,
+    15
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Poison Sting",
+      "type": "poison",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "30",
+      "description": "The user stabs the target with a poisonous stinger. This may also poison the target."
+    },
+    {
+      "level": "—",
+      "name": "String Shot",
+      "type": "bug",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "95",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The targets are bound with silk blown from the user's mouth. This silk reduces the targets' Speed stat."
+    },
+    {
+      "level": "15",
+      "name": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+    }
+  ]
+}

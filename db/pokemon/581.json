@@ -1,0 +1,213 @@
+{
+  "index": 581,
+  "name": "Swanna",
+  "image_url": "http://serebii.net/xy/pokemon/581.png",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "evolves_to": [
+    580,
+    581
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "—",
+      "name": "Water Sport",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle."
+    },
+    {
+      "level": "—",
+      "name": "Defog",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A strong wind blows away the target's obstacles such as Reflect or Light Screen. It also lowers the target's evasiveness."
+    },
+    {
+      "level": "—",
+      "name": "Wing Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is struck with large, imposing wings spread wide to inflict damage."
+    },
+    {
+      "level": "3",
+      "name": "Water Sport",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle."
+    },
+    {
+      "level": "6",
+      "name": "Defog",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A strong wind blows away the target's obstacles such as Reflect or Light Screen. It also lowers the target's evasiveness."
+    },
+    {
+      "level": "9",
+      "name": "Wing Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is struck with large, imposing wings spread wide to inflict damage."
+    },
+    {
+      "level": "13",
+      "name": "Water Pulse",
+      "type": "water",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user attacks the target with a pulsing blast of water. It may also confuse the target."
+    },
+    {
+      "level": "15",
+      "name": "Aerial Ace",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user confounds the target with speed, then slashes. The attack lands without fail."
+    },
+    {
+      "level": "19",
+      "name": "Bubble Beam",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats."
+    },
+    {
+      "level": "21",
+      "name": "Feather Dance",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user covers the target's body with a mass of down that harshly lowers its Attack stat."
+    },
+    {
+      "level": "24",
+      "name": "Aqua Ring",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user envelops itself in a veil made of water. It regains some HP on every turn."
+    },
+    {
+      "level": "27",
+      "name": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch."
+    },
+    {
+      "level": "30",
+      "name": "Roost",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lands and rests its body. It restores the user's HP by up to half of its max HP."
+    },
+    {
+      "level": "34",
+      "name": "Rain Dance",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user summons a heavy rain that falls for five turns, powering up Water-type moves."
+    },
+    {
+      "level": "40",
+      "name": "Tailwind",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns."
+    },
+    {
+      "level": "47",
+      "name": "Brave Bird",
+      "type": "flying",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user tucks in its wings and charges from a low altitude. The user also takes serious damage."
+    },
+    {
+      "level": "55",
+      "name": "Hurricane",
+      "type": "flying",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. It may also confuse the target."
+    }
+  ]
+}

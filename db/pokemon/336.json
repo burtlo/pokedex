@@ -1,0 +1,211 @@
+{
+  "index": 336,
+  "name": "Seviper",
+  "image_url": "http://serebii.net/xy/pokemon/336.png",
+  "types": [
+    "poison"
+  ],
+  "evolves_to": [
+    336
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Wrap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "A long body or vines are used to wrap and squeeze the target for four to five turns."
+    },
+    {
+      "level": "—",
+      "name": "Lick",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "30",
+      "description": "The target is licked with a long tongue, causing damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "5",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "9",
+      "name": "Swagger",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user enrages and confuses the target. However, it also sharply raises the target's Attack stat."
+    },
+    {
+      "level": "12",
+      "name": "Poison Tail",
+      "type": "poison",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The user hits the target with its tail. It may also poison the target. Critical hits land more easily."
+    },
+    {
+      "level": "16",
+      "name": "Screech",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "An earsplitting screech harshly reduces the target's Defense stat."
+    },
+    {
+      "level": "20",
+      "name": "Venoshock",
+      "type": "poison",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned."
+    },
+    {
+      "level": "23",
+      "name": "Glare",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user intimidates the target with the pattern on its belly to cause paralysis."
+    },
+    {
+      "level": "27",
+      "name": "Poison Fang",
+      "type": "poison",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "50",
+      "description": "The user bites the target with toxic fangs. It may also leave the target badly poisoned."
+    },
+    {
+      "level": "28",
+      "name": "Venom Drench",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target."
+    },
+    {
+      "level": "31",
+      "name": "Night Slash",
+      "type": "dark",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes the target the instant an opportunity arises. Critical hits land more easily."
+    },
+    {
+      "level": "34",
+      "name": "Gastro Acid",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability."
+    },
+    {
+      "level": "38",
+      "name": "Haze",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle."
+    },
+    {
+      "level": "42",
+      "name": "Poison Jab",
+      "type": "poison",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target."
+    },
+    {
+      "level": "45",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "46",
+      "name": "Belch",
+      "type": "poison",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets out a damaging belch on the target. The user must eat a Berry to use this move."
+    },
+    {
+      "level": "48",
+      "name": "Coil",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy."
+    },
+    {
+      "level": "50",
+      "name": "Wring Out",
+      "type": "normal",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user powerfully wrings the target. The more HP the target has, the greater this attack's power."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "index": 45,
+  "name": "Vileplume",
+  "image_url": "http://serebii.net/xy/pokemon/045.png",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "evolves_to": [
+    43,
+    44,
+    0,
+    45,
+    0,
+    182
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Mega Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "—",
+      "name": "Aromatherapy",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user releases a soothing scent that heals all status problems affecting the user's party."
+    },
+    {
+      "level": "—",
+      "name": "Stun Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of paralyzing powder. It may leave the target with paralysis."
+    },
+    {
+      "level": "—",
+      "name": "Poison Powder",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of poisonous dust on the target. It may poison the target."
+    },
+    {
+      "level": "50",
+      "name": "Petal Blizzard",
+      "type": "grass",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user stirs up a violent petal blizzard and attacks everything around it."
+    },
+    {
+      "level": "53",
+      "name": "Petal Dance",
+      "type": "grass",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks the target by scattering petals for two to three turns. The user then becomes confused."
+    },
+    {
+      "level": "65",
+      "name": "Solar Beam",
+      "type": "grass",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn."
+    }
+  ]
+}

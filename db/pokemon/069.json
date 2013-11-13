@@ -1,0 +1,160 @@
+{
+  "index": 69,
+  "name": "Bellsprout",
+  "image_url": "http://serebii.net/xy/pokemon/069.png",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "evolves_to": [
+    69,
+    70,
+    0,
+    71
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Vine Whip",
+      "type": "grass",
+      "category": "physical",
+      "attack": "45",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is struck with slender, whiplike vines to inflict damage."
+    },
+    {
+      "level": "7",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "11",
+      "name": "Wrap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "A long body or vines are used to wrap and squeeze the target for four to five turns."
+    },
+    {
+      "level": "13",
+      "name": "Sleep Powder",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user scatters a big cloud of sleep-inducing dust around the target."
+    },
+    {
+      "level": "15",
+      "name": "Poison Powder",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of poisonous dust on the target. It may poison the target."
+    },
+    {
+      "level": "17",
+      "name": "Stun Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of paralyzing powder. It may leave the target with paralysis."
+    },
+    {
+      "level": "23",
+      "name": "Acid",
+      "type": "poison",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "The opposing team is attacked with a spray of harsh acid. The acid may also lower the targets' Sp. Def stats."
+    },
+    {
+      "level": "27",
+      "name": "Knock Off",
+      "type": "dark",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user slaps down the target's held item, preventing that item from being used in the battle."
+    },
+    {
+      "level": "29",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "35",
+      "name": "Gastro Acid",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability."
+    },
+    {
+      "level": "39",
+      "name": "Razor Leaf",
+      "type": "grass",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "41",
+      "name": "Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "75",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slammed with a long tail, vines, etc., to inflict damage."
+    },
+    {
+      "level": "47",
+      "name": "Wring Out",
+      "type": "normal",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user powerfully wrings the target. The more HP the target has, the greater this attack's power."
+    }
+  ]
+}

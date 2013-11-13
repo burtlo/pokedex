@@ -1,0 +1,234 @@
+{
+  "index": 678,
+  "name": "Meowstic",
+  "image_url": "http://serebii.net/xy/pokemon/678.png",
+  "types": [
+    "psychic"
+  ],
+  "evolves_to": [
+    677,
+    678
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Quick Guard",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises."
+    },
+    {
+      "level": "—",
+      "name": "Mean Look",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user pins the target with a dark, arresting look. The target becomes unable to flee."
+    },
+    {
+      "level": "—",
+      "name": "Helping Hand",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user assists an ally by boosting the power of its attack."
+    },
+    {
+      "level": "—",
+      "name": "Scratch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "Hard, pointed, and sharp claws rake the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "5",
+      "name": "Covet",
+      "type": "normal",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user endearingly approaches the target, then steals the target's held item."
+    },
+    {
+      "level": "9",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "13",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "17",
+      "name": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is attacked with a peculiar ray. It may also cause confusion."
+    },
+    {
+      "level": "19",
+      "name": "Fake Out",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle."
+    },
+    {
+      "level": "25",
+      "name": "Psyshock",
+      "type": "psychic",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user materializes an odd psychic wave to attack the target. This attack does physical damage."
+    },
+    {
+      "level": "28",
+      "name": "Charm",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user gazes at the target rather charmingly, making it less wary. The target's Attack is harshly lowered."
+    },
+    {
+      "level": "31",
+      "name": "Miracle Eye",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Dark-type target to be hit by Psychic-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "35",
+      "name": "Reflect",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from physical attacks for five turns."
+    },
+    {
+      "level": "40",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "43",
+      "name": "Role Play",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user mimics the target completely, copying the target's natural Ability."
+    },
+    {
+      "level": "45",
+      "name": "Imprison",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the opponents know any move also known by the user, the opponents are prevented from using it."
+    },
+    {
+      "level": "48",
+      "name": "Sucker Punch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move enables the user to attack first. It fails if the target is not readying an attack, however."
+    },
+    {
+      "level": "50",
+      "name": "Misty Terrain",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user covers the ground under everyone's feet with mist for five turns. This protects Pokémon on the ground from status conditions."
+    },
+    {
+      "level": "53",
+      "name": "Quick Guard",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises."
+    }
+  ]
+}

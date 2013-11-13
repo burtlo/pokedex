@@ -1,0 +1,201 @@
+{
+  "index": 222,
+  "name": "Corsola",
+  "image_url": "http://serebii.net/xy/pokemon/222.png",
+  "types": [
+    "water",
+    "rock"
+  ],
+  "evolves_to": [
+    222
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "4",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "8",
+      "name": "Bubble",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A spray of countless bubbles is jetted at the opposing team. It may also lower the targets' Speed stats."
+    },
+    {
+      "level": "10",
+      "name": "Recover",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Restoring its own cells, the user restores its own HP by half of its max HP."
+    },
+    {
+      "level": "13",
+      "name": "Refresh",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user rests to cure itself of a poisoning, burn, or paralysis."
+    },
+    {
+      "level": "17",
+      "name": "Bubble Beam",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats."
+    },
+    {
+      "level": "20",
+      "name": "Ancient Power",
+      "type": "rock",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The user attacks with a prehistoric power. It may also raise all the user's stats at once."
+    },
+    {
+      "level": "23",
+      "name": "Lucky Chant",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits."
+    },
+    {
+      "level": "27",
+      "name": "Spike Cannon",
+      "type": "normal",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row."
+    },
+    {
+      "level": "29",
+      "name": "Iron Defense",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user hardens its body's surface like iron, sharply raising its Defense stat."
+    },
+    {
+      "level": "31",
+      "name": "Rock Blast",
+      "type": "rock",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls hard rocks at the target. Two to five rocks are launched in quick succession."
+    },
+    {
+      "level": "35",
+      "name": "Endure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "38",
+      "name": "Aqua Ring",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user envelops itself in a veil made of water. It regains some HP on every turn."
+    },
+    {
+      "level": "41",
+      "name": "Power Gem",
+      "type": "rock",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user attacks with a ray of light that sparkles as if it were made of gemstones."
+    },
+    {
+      "level": "45",
+      "name": "Mirror Coat",
+      "type": "psychic",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A retaliation move that counters any special attack, inflicting double the damage taken."
+    },
+    {
+      "level": "47",
+      "name": "Earth Power",
+      "type": "ground",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user makes the ground under the target erupt with power. It may also lower the target's Sp. Def."
+    },
+    {
+      "level": "50",
+      "name": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has."
+    }
+  ]
+}

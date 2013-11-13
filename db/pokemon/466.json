@@ -1,0 +1,17 @@
+{
+  "index": 466,
+  "name": "Electivire",
+  "image_url": "http://serebii.net/xy/pokemon/466.png",
+  "types": [
+    "electric"
+  ],
+  "evolves_to": [
+    239,
+    125,
+    0,
+    466
+  ],
+  "moves": [
+
+  ]
+}

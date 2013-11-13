@@ -1,0 +1,15 @@
+{
+  "index": 401,
+  "name": "Kricketot",
+  "image_url": "http://serebii.net/xy/pokemon/401.png",
+  "types": [
+    "bug"
+  ],
+  "evolves_to": [
+    401,
+    402
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "index": 717,
+  "name": "Yveltal",
+  "image_url": "http://serebii.net/xy/pokemon/717.png",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "evolves_to": [
+    717
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Hurricane",
+      "type": "flying",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. It may also confuse the target."
+    },
+    {
+      "level": "—",
+      "name": "Razor Wind",
+      "type": "normal",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A two-turn attack. Blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily."
+    },
+    {
+      "level": "—",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "—",
+      "name": "Roost",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lands and rests its body. It restores the user's HP by up to half of its max HP."
+    },
+    {
+      "level": "—",
+      "name": "Double Team",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+    },
+    {
+      "level": "—",
+      "name": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Snarl",
+      "type": "dark",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease."
+    },
+    {
+      "level": "—",
+      "name": "Oblivion Wing",
+      "type": "flying",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user absorbs its target's HP. The user's HP is restored by over half of the damage taken by the target."
+    },
+    {
+      "level": "—",
+      "name": "Disable",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "For four turns, this move prevents the target from using the move it last used."
+    },
+    {
+      "level": "—",
+      "name": "Dark Pulse",
+      "type": "dark",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch."
+    },
+    {
+      "level": "51",
+      "name": "Foul Play",
+      "type": "dark",
+      "category": "physical",
+      "attack": "95",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user turns the target's power against it. The higher the target's Attack stat, the greater the damage."
+    },
+    {
+      "level": "55",
+      "name": "Phantom Force",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself."
+    },
+    {
+      "level": "59",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "63",
+      "name": "Dragon Rush",
+      "type": "dragon",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "75",
+      "pp": "10",
+      "effect_percent": "20",
+      "description": "The user tackles the target while exhibiting overwhelming menace. It may also make the target flinch."
+    },
+    {
+      "level": "72",
+      "name": "Focus Blast",
+      "type": "fighting",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "70",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def."
+    },
+    {
+      "level": "80",
+      "name": "Sucker Punch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move enables the user to attack first. It fails if the target is not readying an attack, however."
+    },
+    {
+      "level": "88",
+      "name": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy."
+    },
+    {
+      "level": "93",
+      "name": "Sky Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "A second-turn attack move where critical hits land more easily. It may also make the target flinch."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "index": 335,
+  "name": "Zangoose",
+  "image_url": "http://serebii.net/xy/pokemon/335.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    335
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Scratch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "Hard, pointed, and sharp claws rake the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "5",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "8",
+      "name": "Fury Cutter",
+      "type": "bug",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slashed with scythes or claws. Its power increases if it hits in succession."
+    },
+    {
+      "level": "12",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "15",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "19",
+      "name": "Embargo",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "It prevents the target from using its held item. Its Trainer is also prevented from using items on it."
+    },
+    {
+      "level": "22",
+      "name": "Crush Claw",
+      "type": "normal",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "10",
+      "effect_percent": "50",
+      "description": "The user slashes the target with hard and sharp claws. It may also lower the target's Defense."
+    },
+    {
+      "level": "26",
+      "name": "Revenge",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn."
+    },
+    {
+      "level": "29",
+      "name": "False Swipe",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP."
+    },
+    {
+      "level": "33",
+      "name": "Detect",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "36",
+      "name": "X-Scissor",
+      "type": "bug",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors."
+    },
+    {
+      "level": "40",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "43",
+      "name": "Swords Dance",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."
+    },
+    {
+      "level": "47",
+      "name": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def."
+    }
+  ]
+}

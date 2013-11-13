@@ -1,0 +1,179 @@
+{
+  "index": 227,
+  "name": "Skarmory",
+  "image_url": "http://serebii.net/xy/pokemon/227.png",
+  "types": [
+    "steel",
+    "flying"
+  ],
+  "evolves_to": [
+    227
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Peck",
+      "type": "flying",
+      "category": "physical",
+      "attack": "35",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is jabbed with a sharply pointed beak or horn."
+    },
+    {
+      "level": "6",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "9",
+      "name": "Swift",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Star-shaped rays are shot at the opposing team. This attack never misses."
+    },
+    {
+      "level": "12",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "17",
+      "name": "Fury Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is jabbed repeatedly with a horn or beak two to five times in a row."
+    },
+    {
+      "level": "20",
+      "name": "Feint",
+      "type": "normal",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack that hits a target using Protect or Detect. It also lifts the effects of those moves."
+    },
+    {
+      "level": "23",
+      "name": "Air Cutter",
+      "type": "flying",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user launches razor-like wind to slash the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "28",
+      "name": "Spikes",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of spikes at the opposing team's feet. The trap hurts Pokémon that switch into battle."
+    },
+    {
+      "level": "31",
+      "name": "Metal Sound",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A horrible sound like scraping metal harshly reduces the target's Sp. Def stat."
+    },
+    {
+      "level": "34",
+      "name": "Steel Wing",
+      "type": "steel",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "90",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit with wings of steel. It may also raise the user's Defense stat."
+    },
+    {
+      "level": "39",
+      "name": "Autotomize",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user sheds part of its body to make itself lighter and sharply raise its Speed stat."
+    },
+    {
+      "level": "42",
+      "name": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch."
+    },
+    {
+      "level": "45",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "50",
+      "name": "Night Slash",
+      "type": "dark",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes the target the instant an opportunity arises. Critical hits land more easily."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "index": 420,
+  "name": "Cherubi",
+  "image_url": "http://serebii.net/xy/pokemon/420.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    420,
+    421
+  ],
+  "moves": [
+
+  ]
+}

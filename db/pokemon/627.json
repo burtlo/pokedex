@@ -1,0 +1,16 @@
+{
+  "index": 627,
+  "name": "Rufflet",
+  "image_url": "http://serebii.net/xy/pokemon/627.png",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "evolves_to": [
+    627,
+    628
+  ],
+  "moves": [
+
+  ]
+}

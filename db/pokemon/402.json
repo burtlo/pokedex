@@ -1,0 +1,15 @@
+{
+  "index": 402,
+  "name": "Kricketune",
+  "image_url": "http://serebii.net/xy/pokemon/402.png",
+  "types": [
+    "bug"
+  ],
+  "evolves_to": [
+    401,
+    402
+  ],
+  "moves": [
+
+  ]
+}

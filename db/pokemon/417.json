@@ -1,0 +1,178 @@
+{
+  "index": 417,
+  "name": "Pachirisu",
+  "image_url": "http://serebii.net/xy/pokemon/417.png",
+  "types": [
+    "electric"
+  ],
+  "evolves_to": [
+    417
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "5",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "9",
+      "name": "Charm",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user gazes at the target rather charmingly, making it less wary. The target's Attack is harshly lowered."
+    },
+    {
+      "level": "13",
+      "name": "Spark",
+      "type": "electric",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user throws an electrically charged tackle at the target. It may also leave the target with paralysis."
+    },
+    {
+      "level": "17",
+      "name": "Endure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "19",
+      "name": "Nuzzle",
+      "type": "electric",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis."
+    },
+    {
+      "level": "21",
+      "name": "Swift",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Star-shaped rays are shot at the opposing team. This attack never misses."
+    },
+    {
+      "level": "25",
+      "name": "Electro Ball",
+      "type": "electric",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage."
+    },
+    {
+      "level": "29",
+      "name": "Sweet Kiss",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user kisses the target with a sweet, angelic cuteness that causes confusion."
+    },
+    {
+      "level": "33",
+      "name": "Thunder Wave",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A weak electric charge is launched at the target. It causes paralysis if it hits."
+    },
+    {
+      "level": "37",
+      "name": "Super Fang",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user chomps hard on the target with its sharp front fangs. It cuts the target's HP to half."
+    },
+    {
+      "level": "41",
+      "name": "Discharge",
+      "type": "electric",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "A flare of electricity is loosed to strike the area around the user. It may also cause paralysis."
+    },
+    {
+      "level": "45",
+      "name": "Last Resort",
+      "type": "normal",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move can be used only after the user has used all the other moves it knows in the battle."
+    },
+    {
+      "level": "49",
+      "name": "Hyper Fang",
+      "type": "normal",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user bites hard on the target with its sharp front fangs. It may also make the target flinch."
+    }
+  ]
+}

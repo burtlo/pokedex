@@ -1,0 +1,15 @@
+{
+  "index": 489,
+  "name": "Phione",
+  "image_url": "http://serebii.net/xy/pokemon/489.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    489,
+    490
+  ],
+  "moves": [
+
+  ]
+}

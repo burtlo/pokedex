@@ -1,0 +1,159 @@
+{
+  "index": 694,
+  "name": "Helioptile",
+  "image_url": "http://serebii.net/xy/pokemon/694.png",
+  "types": [
+    "electric",
+    "normal"
+  ],
+  "evolves_to": [
+    694,
+    0,
+    695
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "6",
+      "name": "Thunder Shock",
+      "type": "electric",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A jolt of electricity is hurled at the target to inflict damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "11",
+      "name": "Charge",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user boosts the power of the Electric move it uses on the next turn. It also raises the user's Sp. Def stat."
+    },
+    {
+      "level": "13",
+      "name": "Mud-Slap",
+      "type": "ground",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user hurls mud in the target's face to inflict damage and lower its accuracy."
+    },
+    {
+      "level": "17",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "22",
+      "name": "Razor Wind",
+      "type": "normal",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A two-turn attack. Blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily."
+    },
+    {
+      "level": "25",
+      "name": "Parabolic Charge",
+      "type": "electric",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user attacks everything around it. The user's HP is restored by half the damage taken by those hit."
+    },
+    {
+      "level": "31",
+      "name": "Thunder Wave",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A weak electric charge is launched at the target. It causes paralysis if it hits."
+    },
+    {
+      "level": "35",
+      "name": "Bulldoze",
+      "type": "ground",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user stomps down on the ground and attacks everything in the area. Hit Pokémon's Speed stat is reduced."
+    },
+    {
+      "level": "40",
+      "name": "Volt Switch",
+      "type": "electric",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+    },
+    {
+      "level": "45",
+      "name": "Electrify",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "If the target is electrified before it uses a move during that turn, the target's move becomes Electric type."
+    },
+    {
+      "level": "49",
+      "name": "Thunderbolt",
+      "type": "electric",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "A strong electric blast is loosed at the target. It may also leave the target with paralysis."
+    }
+  ]
+}

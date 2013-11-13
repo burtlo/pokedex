@@ -1,0 +1,212 @@
+{
+  "index": 146,
+  "name": "Moltres",
+  "image_url": "http://serebii.net/xy/pokemon/146.png",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "evolves_to": [
+    146
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Roost",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lands and rests its body. It restores the user's HP by up to half of its max HP."
+    },
+    {
+      "level": "—",
+      "name": "Hurricane",
+      "type": "flying",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. It may also confuse the target."
+    },
+    {
+      "level": "—",
+      "name": "Sky Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "A second-turn attack move where critical hits land more easily. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Wing Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is struck with large, imposing wings spread wide to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Ember",
+      "type": "fire",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is attacked with small flames. It may also leave the target with a burn."
+    },
+    {
+      "level": "—",
+      "name": "Fire Spin",
+      "type": "fire",
+      "category": "special",
+      "attack": "35",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The target becomes trapped within a fierce vortex of fire that rages for four to five turns."
+    },
+    {
+      "level": "—",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "—",
+      "name": "Endure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "—",
+      "name": "Ancient Power",
+      "type": "rock",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The user attacks with a prehistoric power. It may also raise all the user's stats at once."
+    },
+    {
+      "level": "—",
+      "name": "Flamethrower",
+      "type": "fire",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is scorched with an intense blast of fire. It may also leave the target with a burn."
+    },
+    {
+      "level": "—",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    },
+    {
+      "level": "—",
+      "name": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Sunny Day",
+      "type": "fire",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user intensifies the sun for five turns, powering up Fire-type moves."
+    },
+    {
+      "level": "—",
+      "name": "Heat Wave",
+      "type": "fire",
+      "category": "special",
+      "attack": "95",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user attacks by exhaling hot breath on the opposing team. It may also leave targets with a burn."
+    },
+    {
+      "level": "71",
+      "name": "Solar Beam",
+      "type": "grass",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn."
+    },
+    {
+      "level": "78",
+      "name": "Sky Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "A second-turn attack move where critical hits land more easily. It may also make the target flinch."
+    },
+    {
+      "level": "85",
+      "name": "Roost",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lands and rests its body. It restores the user's HP by up to half of its max HP."
+    },
+    {
+      "level": "92",
+      "name": "Hurricane",
+      "type": "flying",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. It may also confuse the target."
+    }
+  ]
+}

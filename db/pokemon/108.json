@@ -1,0 +1,179 @@
+{
+  "index": 108,
+  "name": "Lickitung",
+  "image_url": "http://serebii.net/xy/pokemon/108.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    108,
+    463
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Lick",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "30",
+      "description": "The target is licked with a long tongue, causing damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "5",
+      "name": "Supersonic",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user generates odd sound waves from its body. It may confuse the target."
+    },
+    {
+      "level": "9",
+      "name": "Defense Curl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user curls up to conceal weak spots and raise its Defense stat."
+    },
+    {
+      "level": "13",
+      "name": "Knock Off",
+      "type": "dark",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user slaps down the target's held item, preventing that item from being used in the battle."
+    },
+    {
+      "level": "17",
+      "name": "Wrap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "A long body or vines are used to wrap and squeeze the target for four to five turns."
+    },
+    {
+      "level": "21",
+      "name": "Stomp",
+      "type": "normal",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The target is stomped with a big foot. It may also make the target flinch."
+    },
+    {
+      "level": "25",
+      "name": "Disable",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "For four turns, this move prevents the target from using the move it last used."
+    },
+    {
+      "level": "29",
+      "name": "Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "75",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slammed with a long tail, vines, etc., to inflict damage."
+    },
+    {
+      "level": "33",
+      "name": "Rollout",
+      "type": "rock",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user continually rolls into the target over five turns. It becomes stronger each time it hits."
+    },
+    {
+      "level": "37",
+      "name": "Chip Away",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Looking for an opening, the user strikes continually. The target's stat changes don't affect this attack's damage."
+    },
+    {
+      "level": "41",
+      "name": "Me First",
+      "type": "normal",
+      "category": "other",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tries to cut ahead of the target to steal and use the target's intended move with greater power."
+    },
+    {
+      "level": "45",
+      "name": "Refresh",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user rests to cure itself of a poisoning, burn, or paralysis."
+    },
+    {
+      "level": "49",
+      "name": "Screech",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "An earsplitting screech harshly reduces the target's Defense stat."
+    },
+    {
+      "level": "53",
+      "name": "Power Whip",
+      "type": "grass",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user violently whirls its vines or tentacles to harshly lash the target."
+    },
+    {
+      "level": "57",
+      "name": "Wring Out",
+      "type": "normal",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user powerfully wrings the target. The more HP the target has, the greater this attack's power."
+    }
+  ]
+}

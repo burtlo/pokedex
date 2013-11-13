@@ -1,0 +1,223 @@
+{
+  "index": 357,
+  "name": "Tropius",
+  "image_url": "http://serebii.net/xy/pokemon/357.png",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "evolves_to": [
+    357
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Leaf Storm",
+      "type": "grass",
+      "category": "special",
+      "attack": "130",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user whips up a storm of leaves around the target. The attack's recoil harshly reduces the user's Sp. Atk stat."
+    },
+    {
+      "level": "—",
+      "name": "Bestow",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user passes its held item to the target when the target isn't holding an item."
+    },
+    {
+      "level": "—",
+      "name": "Natural Gift",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Gust",
+      "type": "flying",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A gust of wind is whipped up by wings and launched at the target to inflict damage."
+    },
+    {
+      "level": "7",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "11",
+      "name": "Razor Leaf",
+      "type": "grass",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "17",
+      "name": "Stomp",
+      "type": "normal",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The target is stomped with a big foot. It may also make the target flinch."
+    },
+    {
+      "level": "21",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "27",
+      "name": "Whirlwind",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends."
+    },
+    {
+      "level": "31",
+      "name": "Magical Leaf",
+      "type": "grass",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user scatters curious leaves that chase the target. This attack will not miss."
+    },
+    {
+      "level": "37",
+      "name": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user drops onto the target with its full body weight. It may also leave the target with paralysis."
+    },
+    {
+      "level": "41",
+      "name": "Synthesis",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "47",
+      "name": "Leaf Tornado",
+      "type": "grass",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "50",
+      "description": "The user attacks its target by encircling it in sharp leaves. This attack may also lower the target's accuracy."
+    },
+    {
+      "level": "50",
+      "name": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch."
+    },
+    {
+      "level": "57",
+      "name": "Bestow",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user passes its held item to the target when the target isn't holding an item."
+    },
+    {
+      "level": "61",
+      "name": "Solar Beam",
+      "type": "grass",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn."
+    },
+    {
+      "level": "67",
+      "name": "Natural Gift",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power."
+    },
+    {
+      "level": "71",
+      "name": "Leaf Storm",
+      "type": "grass",
+      "category": "special",
+      "attack": "130",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user whips up a storm of leaves around the target. The attack's recoil harshly reduces the user's Sp. Atk stat."
+    }
+  ]
+}

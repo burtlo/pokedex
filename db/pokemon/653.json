@@ -1,0 +1,191 @@
+{
+  "index": 653,
+  "name": "Fennekin",
+  "image_url": "http://serebii.net/xy/pokemon/653.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    653,
+    654,
+    655
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Scratch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "Hard, pointed, and sharp claws rake the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "5",
+      "name": "Ember",
+      "type": "fire",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is attacked with small flames. It may also leave the target with a burn."
+    },
+    {
+      "level": "11",
+      "name": "Howl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user howls loudly to raise its spirit, boosting its Attack stat."
+    },
+    {
+      "level": "14",
+      "name": "Flame Charge",
+      "type": "fire",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user cloaks itself with flame and attacks. Building up more power, it raises the user's Speed stat."
+    },
+    {
+      "level": "17",
+      "name": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is attacked with a peculiar ray. It may also cause confusion."
+    },
+    {
+      "level": "20",
+      "name": "Fire Spin",
+      "type": "fire",
+      "category": "special",
+      "attack": "35",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The target becomes trapped within a fierce vortex of fire that rages for four to five turns."
+    },
+    {
+      "level": "25",
+      "name": "Lucky Chant",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits."
+    },
+    {
+      "level": "27",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "31",
+      "name": "Psyshock",
+      "type": "psychic",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user materializes an odd psychic wave to attack the target. This attack does physical damage."
+    },
+    {
+      "level": "35",
+      "name": "Flamethrower",
+      "type": "fire",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is scorched with an intense blast of fire. It may also leave the target with a burn."
+    },
+    {
+      "level": "38",
+      "name": "Will-O-Wisp",
+      "type": "fire",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user shoots a sinister, bluish-white flame at the target to inflict a burn."
+    },
+    {
+      "level": "41",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "43",
+      "name": "Sunny Day",
+      "type": "fire",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user intensifies the sun for five turns, powering up Fire-type moves."
+    },
+    {
+      "level": "46",
+      "name": "Magic Room",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user creates a bizarre area in which Pokémon's held items lose their effects for five turns."
+    },
+    {
+      "level": "48",
+      "name": "Fire Blast",
+      "type": "fire",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "85",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn."
+    }
+  ]
+}

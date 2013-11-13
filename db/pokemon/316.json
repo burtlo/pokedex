@@ -1,0 +1,190 @@
+{
+  "index": 316,
+  "name": "Gulpin",
+  "image_url": "http://serebii.net/xy/pokemon/316.png",
+  "types": [
+    "poison"
+  ],
+  "evolves_to": [
+    316,
+    317
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "6",
+      "name": "Yawn",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+    },
+    {
+      "level": "9",
+      "name": "Poison Gas",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A cloud of poison gas is sprayed in the face of opposing Pokémon. It may poison those hit."
+    },
+    {
+      "level": "14",
+      "name": "Sludge",
+      "type": "poison",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "Unsanitary sludge is hurled at the target. It may also poison the target."
+    },
+    {
+      "level": "17",
+      "name": "Amnesia",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat."
+    },
+    {
+      "level": "23",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "28",
+      "name": "Toxic",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A move that leaves the target badly poisoned. Its poison damage worsens every turn."
+    },
+    {
+      "level": "34",
+      "name": "Acid Spray",
+      "type": "poison",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user spits fluid that works to melt the target. This harshly reduces the target's Sp. Def stat."
+    },
+    {
+      "level": "39",
+      "name": "Stockpile",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user charges up power and raises both its Defense and Sp. Def. The move can be used three times."
+    },
+    {
+      "level": "39",
+      "name": "Spit Up",
+      "type": "normal",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the damage."
+    },
+    {
+      "level": "39",
+      "name": "Swallow",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP."
+    },
+    {
+      "level": "40",
+      "name": "Belch",
+      "type": "poison",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets out a damaging belch on the target. The user must eat a Berry to use this move."
+    },
+    {
+      "level": "44",
+      "name": "Sludge Bomb",
+      "type": "poison",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "Unsanitary sludge is hurled at the target. It may also poison the target."
+    },
+    {
+      "level": "49",
+      "name": "Gastro Acid",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability."
+    },
+    {
+      "level": "54",
+      "name": "Wring Out",
+      "type": "normal",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user powerfully wrings the target. The more HP the target has, the greater this attack's power."
+    },
+    {
+      "level": "59",
+      "name": "Gunk Shot",
+      "type": "poison",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "The user shoots filthy garbage at the target to attack. It may also poison the target."
+    }
+  ]
+}

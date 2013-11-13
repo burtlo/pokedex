@@ -1,0 +1,39 @@
+{
+  "index": 266,
+  "name": "Silcoon",
+  "image_url": "http://serebii.net/xy/pokemon/266.png",
+  "types": [
+    "bug"
+  ],
+  "evolves_to": [
+    265,
+    266,
+    267,
+    268,
+    269
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "7",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    }
+  ]
+}

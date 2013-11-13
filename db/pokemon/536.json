@@ -1,0 +1,17 @@
+{
+  "index": 536,
+  "name": "Palpitoad",
+  "image_url": "http://serebii.net/xy/pokemon/536.png",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "evolves_to": [
+    535,
+    536,
+    537
+  ],
+  "moves": [
+
+  ]
+}

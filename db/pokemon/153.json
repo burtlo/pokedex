@@ -1,0 +1,16 @@
+{
+  "index": 153,
+  "name": "Bayleef",
+  "image_url": "http://serebii.net/xy/pokemon/153.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    152,
+    153,
+    154
+  ],
+  "moves": [
+
+  ]
+}

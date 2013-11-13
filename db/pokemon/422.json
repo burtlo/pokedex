@@ -1,0 +1,15 @@
+{
+  "index": 422,
+  "name": "Shellos",
+  "image_url": "http://serebii.net/xy/pokemon/422.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    422,
+    423
+  ],
+  "moves": [
+
+  ]
+}

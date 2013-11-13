@@ -1,0 +1,148 @@
+{
+  "index": 671,
+  "name": "Florges",
+  "image_url": "http://serebii.net/xy/pokemon/671.png",
+  "types": [
+    "fairy"
+  ],
+  "evolves_to": [
+    669,
+    670,
+    0,
+    671
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Disarming Voice",
+      "type": "fairy",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses."
+    },
+    {
+      "level": "—",
+      "name": "Lucky Chant",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits."
+    },
+    {
+      "level": "—",
+      "name": "Wish",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "One turn after this move is used, the target's HP is restored by half the user's maximum HP."
+    },
+    {
+      "level": "—",
+      "name": "Magical Leaf",
+      "type": "grass",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user scatters curious leaves that chase the target. This attack will not miss."
+    },
+    {
+      "level": "—",
+      "name": "Flower Shield",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user raises the Defense stat of all Grass-type Pokémon in battle with a mysterious power."
+    },
+    {
+      "level": "—",
+      "name": "Grass Knot",
+      "type": "grass",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user snares the target with grass and trips it. The heavier the target, the greater the damage."
+    },
+    {
+      "level": "—",
+      "name": "Grassy Terrain",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user turns the ground under everyone's feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn."
+    },
+    {
+      "level": "—",
+      "name": "Misty Terrain",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user covers the ground under everyone's feet with mist for five turns. This protects Pokémon on the ground from status conditions."
+    },
+    {
+      "level": "—",
+      "name": "Petal Blizzard",
+      "type": "grass",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user stirs up a violent petal blizzard and attacks everything around it."
+    },
+    {
+      "level": "—",
+      "name": "Moonblast",
+      "type": "fairy",
+      "category": "special",
+      "attack": "95",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat."
+    },
+    {
+      "level": "—",
+      "name": "Petal Dance",
+      "type": "grass",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks the target by scattering petals for two to three turns. The user then becomes confused."
+    },
+    {
+      "level": "—",
+      "name": "Aromatherapy",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user releases a soothing scent that heals all status problems affecting the user's party."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "index": 423,
+  "name": "Gastrodon",
+  "image_url": "http://serebii.net/xy/pokemon/423.png",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "evolves_to": [
+    422,
+    423
+  ],
+  "moves": [
+
+  ]
+}

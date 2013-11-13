@@ -1,0 +1,212 @@
+{
+  "index": 632,
+  "name": "Durant",
+  "image_url": "http://serebii.net/xy/pokemon/632.png",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "evolves_to": [
+    632
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Guillotine",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "A vicious, tearing attack with big pincers. The target will faint instantly if this attack hits."
+    },
+    {
+      "level": "—",
+      "name": "Iron Defense",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user hardens its body's surface like iron, sharply raising its Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Metal Sound",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A horrible sound like scraping metal harshly reduces the target's Sp. Def stat."
+    },
+    {
+      "level": "—",
+      "name": "Vice Grip",
+      "type": "normal",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The target is gripped and squeezed from both sides to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "6",
+      "name": "Fury Cutter",
+      "type": "bug",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slashed with scythes or claws. Its power increases if it hits in succession."
+    },
+    {
+      "level": "11",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "16",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "21",
+      "name": "Metal Claw",
+      "type": "steel",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "95",
+      "pp": "35",
+      "effect_percent": "10",
+      "description": "The target is raked with steel claws. It may also raise the user's Attack stat."
+    },
+    {
+      "level": "26",
+      "name": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "level": "31",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "36",
+      "name": "Iron Head",
+      "type": "steel",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user slams the target with its steel-hard head. It may also make the target flinch."
+    },
+    {
+      "level": "41",
+      "name": "Dig",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons."
+    },
+    {
+      "level": "46",
+      "name": "Entrainment",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's."
+    },
+    {
+      "level": "51",
+      "name": "X-Scissor",
+      "type": "bug",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors."
+    },
+    {
+      "level": "56",
+      "name": "Iron Defense",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user hardens its body's surface like iron, sharply raising its Defense stat."
+    },
+    {
+      "level": "61",
+      "name": "Guillotine",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "A vicious, tearing attack with big pincers. The target will faint instantly if this attack hits."
+    },
+    {
+      "level": "66",
+      "name": "Metal Sound",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A horrible sound like scraping metal harshly reduces the target's Sp. Def stat."
+    }
+  ]
+}

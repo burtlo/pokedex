@@ -1,0 +1,192 @@
+{
+  "index": 25,
+  "name": "Pikachu",
+  "image_url": "http://serebii.net/xy/pokemon/025.png",
+  "types": [
+    "electric"
+  ],
+  "evolves_to": [
+    172,
+    25,
+    0,
+    26
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Thunder Shock",
+      "type": "electric",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A jolt of electricity is hurled at the target to inflict damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "5",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "7",
+      "name": "Play Nice",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat."
+    },
+    {
+      "level": "10",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "13",
+      "name": "Thunder Wave",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A weak electric charge is launched at the target. It causes paralysis if it hits."
+    },
+    {
+      "level": "18",
+      "name": "Electro Ball",
+      "type": "electric",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage."
+    },
+    {
+      "level": "21",
+      "name": "Double Team",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+    },
+    {
+      "level": "23",
+      "name": "Nuzzle",
+      "type": "electric",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis."
+    },
+    {
+      "level": "26",
+      "name": "Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "75",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slammed with a long tail, vines, etc., to inflict damage."
+    },
+    {
+      "level": "29",
+      "name": "Thunderbolt",
+      "type": "electric",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "A strong electric blast is loosed at the target. It may also leave the target with paralysis."
+    },
+    {
+      "level": "34",
+      "name": "Feint",
+      "type": "normal",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack that hits a target using Protect or Detect. It also lifts the effects of those moves."
+    },
+    {
+      "level": "37",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "42",
+      "name": "Discharge",
+      "type": "electric",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "A flare of electricity is loosed to strike the area around the user. It may also cause paralysis."
+    },
+    {
+      "level": "45",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "50",
+      "name": "Thunder",
+      "type": "electric",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "A wicked thunderbolt is dropped on the target to inflict damage. It may also leave the target with paralysis."
+    }
+  ]
+}

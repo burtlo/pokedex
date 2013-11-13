@@ -1,0 +1,16 @@
+{
+  "index": 258,
+  "name": "Mudkip",
+  "image_url": "http://serebii.net/xy/pokemon/258.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    258,
+    259,
+    260
+  ],
+  "moves": [
+
+  ]
+}

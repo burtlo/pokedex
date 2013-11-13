@@ -1,0 +1,156 @@
+{
+  "index": 241,
+  "name": "Miltank",
+  "image_url": "http://serebii.net/xy/pokemon/241.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    241
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "3",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "5",
+      "name": "Defense Curl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user curls up to conceal weak spots and raise its Defense stat."
+    },
+    {
+      "level": "8",
+      "name": "Stomp",
+      "type": "normal",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The target is stomped with a big foot. It may also make the target flinch."
+    },
+    {
+      "level": "11",
+      "name": "Milk Drink",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP."
+    },
+    {
+      "level": "15",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "19",
+      "name": "Rollout",
+      "type": "rock",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user continually rolls into the target over five turns. It becomes stronger each time it hits."
+    },
+    {
+      "level": "24",
+      "name": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user drops onto the target with its full body weight. It may also leave the target with paralysis."
+    },
+    {
+      "level": "29",
+      "name": "Zen Headbutt",
+      "type": "psychic",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user focuses its willpower to its head and attacks the target. It may also make the target flinch."
+    },
+    {
+      "level": "35",
+      "name": "Captivate",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "If it is the opposite gender of the user, the target is charmed into harshly lowering its Sp. Atk stat."
+    },
+    {
+      "level": "41",
+      "name": "Gyro Ball",
+      "type": "steel",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user tackles the target with a high-speed spin. The slower the user, the greater the damage."
+    },
+    {
+      "level": "48",
+      "name": "Heal Bell",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user makes a soothing bell chime to heal the status problems of all the party Pokémon."
+    },
+    {
+      "level": "50",
+      "name": "Wake-Up Slap",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack inflicts big damage on a sleeping target. It also wakes the target up, however."
+    }
+  ]
+}

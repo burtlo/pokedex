@@ -1,0 +1,179 @@
+{
+  "index": 127,
+  "name": "Pinsir",
+  "image_url": "http://serebii.net/xy/pokemon/127.png",
+  "types": [
+    "bug"
+  ],
+  "evolves_to": [
+    127,
+    127
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Vice Grip",
+      "type": "normal",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The target is gripped and squeezed from both sides to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "4",
+      "name": "Bind",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns."
+    },
+    {
+      "level": "8",
+      "name": "Seismic Toss",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is thrown using the power of gravity. It inflicts damage equal to the user's level."
+    },
+    {
+      "level": "11",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "15",
+      "name": "Revenge",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn."
+    },
+    {
+      "level": "18",
+      "name": "Brick Break",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks with a swift chop. It can also break any barrier such as Light Screen and Reflect."
+    },
+    {
+      "level": "22",
+      "name": "Vital Throw",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks last. In return, this throw move is guaranteed not to miss."
+    },
+    {
+      "level": "26",
+      "name": "Submission",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "80",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user grabs the target and recklessly dives for the ground. It also hurts the user slightly."
+    },
+    {
+      "level": "29",
+      "name": "X-Scissor",
+      "type": "bug",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors."
+    },
+    {
+      "level": "33",
+      "name": "Storm Throw",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user strikes the target with a fierce blow. This attack always results in a critical hit."
+    },
+    {
+      "level": "36",
+      "name": "Thrash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user rampages and attacks for two to three turns. It then becomes confused, however."
+    },
+    {
+      "level": "40",
+      "name": "Swords Dance",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."
+    },
+    {
+      "level": "43",
+      "name": "Superpower",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user attacks the target with great power. However, it also lowers the user's Attack and Defense."
+    },
+    {
+      "level": "47",
+      "name": "Guillotine",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "A vicious, tearing attack with big pincers. The target will faint instantly if this attack hits."
+    }
+  ]
+}

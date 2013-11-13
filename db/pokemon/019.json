@@ -1,0 +1,15 @@
+{
+  "index": 19,
+  "name": "Rattata",
+  "image_url": "http://serebii.net/xy/pokemon/019.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    19,
+    20
+  ],
+  "moves": [
+
+  ]
+}

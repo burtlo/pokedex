@@ -1,0 +1,16 @@
+{
+  "index": 436,
+  "name": "Bronzor",
+  "image_url": "http://serebii.net/xy/pokemon/436.png",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "evolves_to": [
+    436,
+    437
+  ],
+  "moves": [
+
+  ]
+}

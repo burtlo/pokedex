@@ -1,0 +1,16 @@
+{
+  "index": 592,
+  "name": "Frillish",
+  "image_url": "http://serebii.net/xy/pokemon/592.png",
+  "types": [
+    "water",
+    "ghost"
+  ],
+  "evolves_to": [
+    592,
+    593
+  ],
+  "moves": [
+
+  ]
+}

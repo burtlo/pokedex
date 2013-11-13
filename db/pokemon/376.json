@@ -1,0 +1,203 @@
+{
+  "index": 376,
+  "name": "Metagross",
+  "image_url": "http://serebii.net/xy/pokemon/376.png",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "evolves_to": [
+    374,
+    375,
+    376
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Magnet Rise",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user levitates using electrically generated magnetism for five turns."
+    },
+    {
+      "level": "—",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "—",
+      "name": "Metal Claw",
+      "type": "steel",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "95",
+      "pp": "35",
+      "effect_percent": "10",
+      "description": "The target is raked with steel claws. It may also raise the user's Attack stat."
+    },
+    {
+      "level": "—",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "20",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "20",
+      "name": "Metal Claw",
+      "type": "steel",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "95",
+      "pp": "35",
+      "effect_percent": "10",
+      "description": "The target is raked with steel claws. It may also raise the user's Attack stat."
+    },
+    {
+      "level": "23",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "26",
+      "name": "Miracle Eye",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Dark-type target to be hit by Psychic-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "29",
+      "name": "Zen Headbutt",
+      "type": "psychic",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user focuses its willpower to its head and attacks the target. It may also make the target flinch."
+    },
+    {
+      "level": "32",
+      "name": "Bullet Punch",
+      "type": "steel",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user strikes the target with tough punches as fast as bullets. This move always goes first."
+    },
+    {
+      "level": "35",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "38",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "41",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "44",
+      "name": "Meteor Mash",
+      "type": "steel",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "20",
+      "description": "The target is hit with a hard punch fired like a meteor. It may also raise the user's Attack."
+    },
+    {
+      "level": "45",
+      "name": "Hammer Arm",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however."
+    },
+    {
+      "level": "53",
+      "name": "Iron Defense",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user hardens its body's surface like iron, sharply raising its Defense stat."
+    },
+    {
+      "level": "62",
+      "name": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy."
+    }
+  ]
+}

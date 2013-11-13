@@ -1,0 +1,162 @@
+{
+  "index": 43,
+  "name": "Oddish",
+  "image_url": "http://serebii.net/xy/pokemon/043.png",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "evolves_to": [
+    43,
+    44,
+    0,
+    45,
+    0,
+    182
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Absorb",
+      "type": "grass",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "5",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "9",
+      "name": "Acid",
+      "type": "poison",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "The opposing team is attacked with a spray of harsh acid. The acid may also lower the targets' Sp. Def stats."
+    },
+    {
+      "level": "13",
+      "name": "Poison Powder",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of poisonous dust on the target. It may poison the target."
+    },
+    {
+      "level": "15",
+      "name": "Stun Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of paralyzing powder. It may leave the target with paralysis."
+    },
+    {
+      "level": "17",
+      "name": "Sleep Powder",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user scatters a big cloud of sleep-inducing dust around the target."
+    },
+    {
+      "level": "21",
+      "name": "Mega Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "25",
+      "name": "Lucky Chant",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits."
+    },
+    {
+      "level": "29",
+      "name": "Natural Gift",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power."
+    },
+    {
+      "level": "33",
+      "name": "Moonlight",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "37",
+      "name": "Giga Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "41",
+      "name": "Petal Dance",
+      "type": "grass",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks the target by scattering petals for two to three turns. The user then becomes confused."
+    },
+    {
+      "level": "45",
+      "name": "Grassy Terrain",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user turns the ground under everyone's feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn."
+    }
+  ]
+}

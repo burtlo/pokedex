@@ -1,0 +1,235 @@
+{
+  "index": 332,
+  "name": "Cacturne",
+  "image_url": "http://serebii.net/xy/pokemon/332.png",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "evolves_to": [
+    331,
+    332
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Destiny Bond",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints."
+    },
+    {
+      "level": "—",
+      "name": "Revenge",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn."
+    },
+    {
+      "level": "—",
+      "name": "Poison Sting",
+      "type": "poison",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "30",
+      "description": "The user stabs the target with a poisonous stinger. This may also poison the target."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Absorb",
+      "type": "grass",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "—",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "5",
+      "name": "Absorb",
+      "type": "grass",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "9",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "13",
+      "name": "Leech Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed is planted on the target. It steals some HP from the target every turn."
+    },
+    {
+      "level": "17",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "21",
+      "name": "Pin Missile",
+      "type": "bug",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row."
+    },
+    {
+      "level": "25",
+      "name": "Ingrain",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays roots that restore its HP on every turn. Because it is rooted, it can't switch out."
+    },
+    {
+      "level": "29",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "35",
+      "name": "Spikes",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of spikes at the opposing team's feet. The trap hurts Pokémon that switch into battle."
+    },
+    {
+      "level": "41",
+      "name": "Sucker Punch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move enables the user to attack first. It fails if the target is not readying an attack, however."
+    },
+    {
+      "level": "47",
+      "name": "Payback",
+      "type": "dark",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the user moves after the target, this attack's power will be doubled."
+    },
+    {
+      "level": "53",
+      "name": "Needle Arm",
+      "type": "grass",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks by wildly swinging its thorny arms. It may also make the target flinch."
+    },
+    {
+      "level": "59",
+      "name": "Cotton Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user releases cotton-like spores that cling to the target, harshly reducing its Speed stat."
+    },
+    {
+      "level": "65",
+      "name": "Sandstorm",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types."
+    },
+    {
+      "level": "71",
+      "name": "Destiny Bond",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints."
+    }
+  ]
+}

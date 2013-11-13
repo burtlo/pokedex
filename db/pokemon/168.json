@@ -1,0 +1,246 @@
+{
+  "index": 168,
+  "name": "Ariados",
+  "image_url": "http://serebii.net/xy/pokemon/168.png",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "evolves_to": [
+    167,
+    168
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Venom Drench",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target."
+    },
+    {
+      "level": "—",
+      "name": "Fell Stinger",
+      "type": "bug",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "When the user knocks out a target with this move, the user's Attack stat rises sharply."
+    },
+    {
+      "level": "—",
+      "name": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "level": "—",
+      "name": "Poison Sting",
+      "type": "poison",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "30",
+      "description": "The user stabs the target with a poisonous stinger. This may also poison the target."
+    },
+    {
+      "level": "—",
+      "name": "String Shot",
+      "type": "bug",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "95",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The targets are bound with silk blown from the user's mouth. This silk reduces the targets' Speed stat."
+    },
+    {
+      "level": "—",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "—",
+      "name": "Constrict",
+      "type": "normal",
+      "category": "physical",
+      "attack": "10",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "10",
+      "description": "The target is attacked with long, creeping tentacles or vines. It may also lower the target's Speed stat."
+    },
+    {
+      "level": "5",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "8",
+      "name": "Constrict",
+      "type": "normal",
+      "category": "physical",
+      "attack": "10",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "10",
+      "description": "The target is attacked with long, creeping tentacles or vines. It may also lower the target's Speed stat."
+    },
+    {
+      "level": "12",
+      "name": "Leech Life",
+      "type": "bug",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user drains the target's blood. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "15",
+      "name": "Night Shade",
+      "type": "ghost",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user makes the target see a frightening mirage. It inflicts damage matching the user's level."
+    },
+    {
+      "level": "19",
+      "name": "Shadow Sneak",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user extends its shadow and attacks the target from behind. This move always goes first."
+    },
+    {
+      "level": "23",
+      "name": "Fury Swipes",
+      "type": "normal",
+      "category": "physical",
+      "attack": "18",
+      "accuracy": "80",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The target is raked with sharp claws or scythes for two to five times in quick succession."
+    },
+    {
+      "level": "28",
+      "name": "Sucker Punch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move enables the user to attack first. It fails if the target is not readying an attack, however."
+    },
+    {
+      "level": "32",
+      "name": "Spider Web",
+      "type": "bug",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user ensnares the target with thin, gooey silk so it can't flee from battle."
+    },
+    {
+      "level": "37",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "41",
+      "name": "Pin Missile",
+      "type": "bug",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row."
+    },
+    {
+      "level": "46",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "50",
+      "name": "Poison Jab",
+      "type": "poison",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target."
+    },
+    {
+      "level": "55",
+      "name": "Cross Poison",
+      "type": "poison",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "A slashing attack with a poisonous blade that may also leave the target poisoned. Critical hits land more easily."
+    },
+    {
+      "level": "58",
+      "name": "Sticky Web",
+      "type": "bug",
+      "category": "physical",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user weaves a sticky net around the opposing team, which lowers their Speed stat upon switching into battle."
+    }
+  ]
+}

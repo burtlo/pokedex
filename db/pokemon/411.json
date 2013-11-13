@@ -1,0 +1,16 @@
+{
+  "index": 411,
+  "name": "Bastiodon",
+  "image_url": "http://serebii.net/xy/pokemon/411.png",
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "evolves_to": [
+    410,
+    411
+  ],
+  "moves": [
+
+  ]
+}

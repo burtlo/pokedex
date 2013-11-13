@@ -1,0 +1,212 @@
+{
+  "index": 105,
+  "name": "Marowak",
+  "image_url": "http://serebii.net/xy/pokemon/105.png",
+  "types": [
+    "ground"
+  ],
+  "evolves_to": [
+    104,
+    105
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Bone Club",
+      "type": "ground",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The user clubs the target with a bone. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user sticks out its head and attacks by charging straight into the target. It may also make the target flinch."
+    },
+    {
+      "level": "3",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "7",
+      "name": "Bone Club",
+      "type": "ground",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The user clubs the target with a bone. It may also make the target flinch."
+    },
+    {
+      "level": "11",
+      "name": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user sticks out its head and attacks by charging straight into the target. It may also make the target flinch."
+    },
+    {
+      "level": "13",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "17",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "21",
+      "name": "Bonemerang",
+      "type": "ground",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user throws the bone it holds. The bone loops to hit the target twice, coming and going."
+    },
+    {
+      "level": "23",
+      "name": "Rage",
+      "type": "normal",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle."
+    },
+    {
+      "level": "27",
+      "name": "False Swipe",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP."
+    },
+    {
+      "level": "33",
+      "name": "Thrash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user rampages and attacks for two to three turns. It then becomes confused, however."
+    },
+    {
+      "level": "37",
+      "name": "Fling",
+      "type": "dark",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user flings its held item at the target to attack. Its power and effects depend on the item."
+    },
+    {
+      "level": "43",
+      "name": "Bone Rush",
+      "type": "ground",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user strikes the target with a hard bone two to five times in a row."
+    },
+    {
+      "level": "49",
+      "name": "Endeavor",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "An attack move that cuts down the target's HP to equal the user's HP."
+    },
+    {
+      "level": "53",
+      "name": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
+    },
+    {
+      "level": "59",
+      "name": "Retaliate",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this attack's damage increases."
+    }
+  ]
+}

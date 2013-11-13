@@ -1,0 +1,16 @@
+{
+  "index": 287,
+  "name": "Slakoth",
+  "image_url": "http://serebii.net/xy/pokemon/287.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    287,
+    288,
+    289
+  ],
+  "moves": [
+
+  ]
+}

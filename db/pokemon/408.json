@@ -1,0 +1,15 @@
+{
+  "index": 408,
+  "name": "Cranidos",
+  "image_url": "http://serebii.net/xy/pokemon/408.png",
+  "types": [
+    "rock"
+  ],
+  "evolves_to": [
+    408,
+    409
+  ],
+  "moves": [
+
+  ]
+}

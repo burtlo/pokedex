@@ -1,0 +1,180 @@
+{
+  "index": 651,
+  "name": "Quilladin",
+  "image_url": "http://serebii.net/xy/pokemon/651.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    650,
+    651,
+    652
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "5",
+      "name": "Vine Whip",
+      "type": "grass",
+      "category": "physical",
+      "attack": "45",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is struck with slender, whiplike vines to inflict damage."
+    },
+    {
+      "level": "8",
+      "name": "Rollout",
+      "type": "rock",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user continually rolls into the target over five turns. It becomes stronger each time it hits."
+    },
+    {
+      "level": "11",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "15",
+      "name": "Leech Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed is planted on the target. It steals some HP from the target every turn."
+    },
+    {
+      "level": "20",
+      "name": "Pin Missile",
+      "type": "bug",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row."
+    },
+    {
+      "level": "26",
+      "name": "Needle Arm",
+      "type": "grass",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks by wildly swinging its thorny arms. It may also make the target flinch."
+    },
+    {
+      "level": "30",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "35",
+      "name": "Seed Bomb",
+      "type": "grass",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slams a barrage of hard-shelled seeds down on the target from above."
+    },
+    {
+      "level": "39",
+      "name": "Mud Shot",
+      "type": "ground",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user attacks by hurling a blob of mud at the target. It also reduces the target's Speed."
+    },
+    {
+      "level": "44",
+      "name": "Bulk Up",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats."
+    },
+    {
+      "level": "48",
+      "name": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user drops onto the target with its full body weight. It may also leave the target with paralysis."
+    },
+    {
+      "level": "52",
+      "name": "Pain Split",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user adds its HP to the target's HP, then equally shares the combined HP with the target."
+    },
+    {
+      "level": "55",
+      "name": "Wood Hammer",
+      "type": "grass",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slams its rugged body into the target to attack. The user also sustains serious damage."
+    }
+  ]
+}

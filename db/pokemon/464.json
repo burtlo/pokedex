@@ -1,0 +1,248 @@
+{
+  "index": 464,
+  "name": "Rhyperior",
+  "image_url": "http://serebii.net/xy/pokemon/464.png",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "evolves_to": [
+    111,
+    112,
+    0,
+    464
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Rock Wrecker",
+      "type": "rock",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user launches a huge boulder at the target to attack. It must rest on the next turn, however."
+    },
+    {
+      "level": "—",
+      "name": "Megahorn",
+      "type": "bug",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Using its tough and impressive horn, the user rams into the target with no letup."
+    },
+    {
+      "level": "—",
+      "name": "Horn Drill",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user stabs the target with a horn that rotates like a drill. If it hits, the target faints instantly."
+    },
+    {
+      "level": "—",
+      "name": "Poison Jab",
+      "type": "poison",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target."
+    },
+    {
+      "level": "—",
+      "name": "Horn Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is jabbed with a sharply pointed horn to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Stomp",
+      "type": "normal",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The target is stomped with a big foot. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Fury Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is jabbed repeatedly with a horn or beak two to five times in a row."
+    },
+    {
+      "level": "9",
+      "name": "Stomp",
+      "type": "normal",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The target is stomped with a big foot. It may also make the target flinch."
+    },
+    {
+      "level": "19",
+      "name": "Fury Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is jabbed repeatedly with a horn or beak two to five times in a row."
+    },
+    {
+      "level": "19",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "23",
+      "name": "Rock Blast",
+      "type": "rock",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls hard rocks at the target. Two to five rocks are launched in quick succession."
+    },
+    {
+      "level": "30",
+      "name": "Chip Away",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Looking for an opening, the user strikes continually. The target's stat changes don't affect this attack's damage."
+    },
+    {
+      "level": "41",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "42",
+      "name": "Hammer Arm",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however."
+    },
+    {
+      "level": "47",
+      "name": "Drill Run",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "95",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user crashes into its target while rotating its body like a drill. Critical hits land more easily."
+    },
+    {
+      "level": "56",
+      "name": "Stone Edge",
+      "type": "rock",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio."
+    },
+    {
+      "level": "62",
+      "name": "Earthquake",
+      "type": "ground",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user sets off an earthquake that strikes those around it."
+    },
+    {
+      "level": "71",
+      "name": "Horn Drill",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user stabs the target with a horn that rotates like a drill. If it hits, the target faints instantly."
+    },
+    {
+      "level": "77",
+      "name": "Megahorn",
+      "type": "bug",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Using its tough and impressive horn, the user rams into the target with no letup."
+    },
+    {
+      "level": "86",
+      "name": "Rock Wrecker",
+      "type": "rock",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user launches a huge boulder at the target to attack. It must rest on the next turn, however."
+    }
+  ]
+}

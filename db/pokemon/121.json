@@ -1,0 +1,82 @@
+{
+  "index": 121,
+  "name": "Starmie",
+  "image_url": "http://serebii.net/xy/pokemon/121.png",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "evolves_to": [
+    120,
+    0,
+    121
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is blasted by a huge volume of water launched under great pressure."
+    },
+    {
+      "level": "—",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "—",
+      "name": "Rapid Spin",
+      "type": "normal",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes."
+    },
+    {
+      "level": "—",
+      "name": "Recover",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Restoring its own cells, the user restores its own HP by half of its max HP."
+    },
+    {
+      "level": "—",
+      "name": "Swift",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Star-shaped rays are shot at the opposing team. This attack never misses."
+    },
+    {
+      "level": "22",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "index": 685,
+  "name": "Slurpuff",
+  "image_url": "http://serebii.net/xy/pokemon/685.png",
+  "types": [
+    "fairy"
+  ],
+  "evolves_to": [
+    684,
+    0,
+    685
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "5",
+      "name": "Fairy Wind",
+      "type": "fairy",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stirs up a fairy wind and strikes the target with it."
+    },
+    {
+      "level": "8",
+      "name": "Play Nice",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat."
+    },
+    {
+      "level": "10",
+      "name": "Fake Tears",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user feigns crying to fluster the target, harshly lowering its Sp. Def stat."
+    },
+    {
+      "level": "13",
+      "name": "Round",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a song. Others can join in the Round and make the attack do greater damage."
+    },
+    {
+      "level": "17",
+      "name": "Cotton Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user releases cotton-like spores that cling to the target, harshly reducing its Speed stat."
+    },
+    {
+      "level": "21",
+      "name": "Endeavor",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "An attack move that cuts down the target's HP to equal the user's HP."
+    },
+    {
+      "level": "26",
+      "name": "Aromatherapy",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user releases a soothing scent that heals all status problems affecting the user's party."
+    },
+    {
+      "level": "31",
+      "name": "Draining Kiss",
+      "type": "fairy",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user steals the target's energy with a kiss. The user's HP is restored by over half of the damage taken by the target."
+    },
+    {
+      "level": "36",
+      "name": "Energy Ball",
+      "type": "grass",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user draws power from nature and fires it at the target. It may also lower the target's Sp. Def."
+    },
+    {
+      "level": "41",
+      "name": "Cotton Guard",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user protects itself by wrapping its body in soft cotton, drastically raising the user's Defense stat."
+    },
+    {
+      "level": "45",
+      "name": "Wish",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "One turn after this move is used, the target's HP is restored by half the user's maximum HP."
+    },
+    {
+      "level": "49",
+      "name": "Play Rough",
+      "type": "fairy",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user plays rough with the target and attacks it. This may also lower the target's Attack stat."
+    },
+    {
+      "level": "58",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "67",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    }
+  ]
+}

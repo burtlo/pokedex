@@ -1,0 +1,15 @@
+{
+  "index": 249,
+  "name": "Lugia",
+  "image_url": "http://serebii.net/xy/pokemon/249.png",
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "evolves_to": [
+    249
+  ],
+  "moves": [
+
+  ]
+}

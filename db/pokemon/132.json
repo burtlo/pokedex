@@ -1,0 +1,24 @@
+{
+  "index": 132,
+  "name": "Ditto",
+  "image_url": "http://serebii.net/xy/pokemon/132.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    132
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Transform",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user transforms into a copy of the target right down to having the same move set."
+    }
+  ]
+}

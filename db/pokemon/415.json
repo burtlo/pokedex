@@ -1,0 +1,59 @@
+{
+  "index": 415,
+  "name": "Combee",
+  "image_url": "http://serebii.net/xy/pokemon/415.png",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "evolves_to": [
+    415,
+    416
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Sweet Scent",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A sweet scent that lowers the opposing team's evasiveness. It also lures wild Pokémon if used in grass, etc."
+    },
+    {
+      "level": "—",
+      "name": "Gust",
+      "type": "flying",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A gust of wind is whipped up by wings and launched at the target to inflict damage."
+    },
+    {
+      "level": "13",
+      "name": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "level": "29",
+      "name": "Bug Buzz",
+      "type": "bug",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat."
+    }
+  ]
+}

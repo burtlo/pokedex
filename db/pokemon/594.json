@@ -1,0 +1,233 @@
+{
+  "index": 594,
+  "name": "Alomomola",
+  "image_url": "http://serebii.net/xy/pokemon/594.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    594
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is blasted by a huge volume of water launched under great pressure."
+    },
+    {
+      "level": "—",
+      "name": "Wide Guard",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chance of failing rises."
+    },
+    {
+      "level": "—",
+      "name": "Healing Wish",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user faints. In return, the Pokémon taking its place will have its HP restored and status cured."
+    },
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "—",
+      "name": "Water Sport",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle."
+    },
+    {
+      "level": "5",
+      "name": "Aqua Ring",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user envelops itself in a veil made of water. It regains some HP on every turn."
+    },
+    {
+      "level": "9",
+      "name": "Aqua Jet",
+      "type": "water",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "13",
+      "name": "Double Slap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is slapped repeatedly, back and forth, two to five times in a row."
+    },
+    {
+      "level": "17",
+      "name": "Heal Pulse",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user emits a healing pulse which restores the target's HP by up to half of its max HP."
+    },
+    {
+      "level": "21",
+      "name": "Protect",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "25",
+      "name": "Water Pulse",
+      "type": "water",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user attacks the target with a pulsing blast of water. It may also confuse the target."
+    },
+    {
+      "level": "29",
+      "name": "Wake-Up Slap",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack inflicts big damage on a sleeping target. It also wakes the target up, however."
+    },
+    {
+      "level": "33",
+      "name": "Soak",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user shoots a torrent of water at the target and changes the target's type to Water."
+    },
+    {
+      "level": "37",
+      "name": "Wish",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "One turn after this move is used, the target's HP is restored by half the user's maximum HP."
+    },
+    {
+      "level": "41",
+      "name": "Brine",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target's HP is down to about half, this attack will hit with double the power."
+    },
+    {
+      "level": "45",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    },
+    {
+      "level": "49",
+      "name": "Helping Hand",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user assists an ally by boosting the power of its attack."
+    },
+    {
+      "level": "53",
+      "name": "Wide Guard",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chance of failing rises."
+    },
+    {
+      "level": "57",
+      "name": "Healing Wish",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user faints. In return, the Pokémon taking its place will have its HP restored and status cured."
+    },
+    {
+      "level": "61",
+      "name": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is blasted by a huge volume of water launched under great pressure."
+    }
+  ]
+}

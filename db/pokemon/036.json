@@ -1,0 +1,71 @@
+{
+  "index": 36,
+  "name": "Clefable",
+  "image_url": "http://serebii.net/xy/pokemon/036.png",
+  "types": [
+    "fairy"
+  ],
+  "evolves_to": [
+    173,
+    35,
+    0,
+    36
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Disarming Voice",
+      "type": "fairy",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses."
+    },
+    {
+      "level": "—",
+      "name": "Sing",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A soothing lullaby is sung in a calming voice that puts the target into a deep slumber."
+    },
+    {
+      "level": "—",
+      "name": "Double Slap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is slapped repeatedly, back and forth, two to five times in a row."
+    },
+    {
+      "level": "—",
+      "name": "Minimize",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user compresses its body to make itself look smaller, which sharply raises its evasiveness."
+    },
+    {
+      "level": "—",
+      "name": "Metronome",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user waggles a finger and stimulates its brain into randomly using nearly any move."
+    }
+  ]
+}

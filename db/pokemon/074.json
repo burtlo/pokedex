@@ -1,0 +1,192 @@
+{
+  "index": 74,
+  "name": "Geodude",
+  "image_url": "http://serebii.net/xy/pokemon/074.png",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "evolves_to": [
+    74,
+    75,
+    76
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Defense Curl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user curls up to conceal weak spots and raise its Defense stat."
+    },
+    {
+      "level": "4",
+      "name": "Mud Sport",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user covers itself with mud. It weakens Electric-type moves while the user is in the battle."
+    },
+    {
+      "level": "8",
+      "name": "Rock Polish",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user polishes its body to reduce drag. It can sharply raise the Speed stat."
+    },
+    {
+      "level": "11",
+      "name": "Rock Throw",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user picks up and throws a small rock at the target to attack."
+    },
+    {
+      "level": "15",
+      "name": "Magnitude",
+      "type": "ground",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user looses a ground-shaking quake affecting everyone around the user. Its power varies."
+    },
+    {
+      "level": "18",
+      "name": "Rollout",
+      "type": "rock",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user continually rolls into the target over five turns. It becomes stronger each time it hits."
+    },
+    {
+      "level": "22",
+      "name": "Rock Blast",
+      "type": "rock",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls hard rocks at the target. Two to five rocks are launched in quick succession."
+    },
+    {
+      "level": "25",
+      "name": "Smack Down",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when hit."
+    },
+    {
+      "level": "29",
+      "name": "Self-Destruct",
+      "type": "normal",
+      "category": "physical",
+      "attack": "200",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user attacks everything around it by causing an explosion. The user faints upon using this move."
+    },
+    {
+      "level": "32",
+      "name": "Bulldoze",
+      "type": "ground",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user stomps down on the ground and attacks everything in the area. Hit Pokémon's Speed stat is reduced."
+    },
+    {
+      "level": "36",
+      "name": "Stealth Rock",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of levitating stones around the opponent's team. The trap hurts opponents that switch into battle."
+    },
+    {
+      "level": "39",
+      "name": "Earthquake",
+      "type": "ground",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user sets off an earthquake that strikes those around it."
+    },
+    {
+      "level": "43",
+      "name": "Explosion",
+      "type": "normal",
+      "category": "physical",
+      "attack": "250",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user explodes to inflict damage on those around it. The user faints upon using this move."
+    },
+    {
+      "level": "46",
+      "name": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
+    },
+    {
+      "level": "50",
+      "name": "Stone Edge",
+      "type": "rock",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio."
+    }
+  ]
+}

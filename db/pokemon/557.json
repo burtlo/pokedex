@@ -1,0 +1,180 @@
+{
+  "index": 557,
+  "name": "Dwebble",
+  "image_url": "http://serebii.net/xy/pokemon/557.png",
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "evolves_to": [
+    557,
+    558
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Fury Cutter",
+      "type": "bug",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slashed with scythes or claws. Its power increases if it hits in succession."
+    },
+    {
+      "level": "5",
+      "name": "Rock Blast",
+      "type": "rock",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls hard rocks at the target. Two to five rocks are launched in quick succession."
+    },
+    {
+      "level": "7",
+      "name": "Withdraw",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user withdraws its body into its hard shell, raising its Defense stat."
+    },
+    {
+      "level": "11",
+      "name": "Sand Attack",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Sand is hurled in the target's face, reducing its accuracy."
+    },
+    {
+      "level": "13",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "17",
+      "name": "Smack Down",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when hit."
+    },
+    {
+      "level": "19",
+      "name": "Rock Polish",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user polishes its body to reduce drag. It can sharply raise the Speed stat."
+    },
+    {
+      "level": "23",
+      "name": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "level": "24",
+      "name": "Stealth Rock",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of levitating stones around the opponent's team. The trap hurts opponents that switch into battle."
+    },
+    {
+      "level": "29",
+      "name": "Rock Slide",
+      "type": "rock",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "Large boulders are hurled at the opposing team to inflict damage. It may also make the targets flinch."
+    },
+    {
+      "level": "31",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "35",
+      "name": "X-Scissor",
+      "type": "bug",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors."
+    },
+    {
+      "level": "37",
+      "name": "Shell Smash",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user breaks its shell, lowering its Defense and Sp. Def stats but sharply raising Attack, Sp. Atk, and Speed stats."
+    },
+    {
+      "level": "41",
+      "name": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "43",
+      "name": "Rock Wrecker",
+      "type": "rock",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user launches a huge boulder at the target to attack. It must rest on the next turn, however."
+    }
+  ]
+}

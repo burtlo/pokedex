@@ -1,0 +1,181 @@
+{
+  "index": 307,
+  "name": "Meditite",
+  "image_url": "http://serebii.net/xy/pokemon/307.png",
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "evolves_to": [
+    307,
+    308,
+    308
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "4",
+      "name": "Meditate",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user meditates to awaken the power deep within its body and raise its Attack stat."
+    },
+    {
+      "level": "8",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "11",
+      "name": "Detect",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "15",
+      "name": "Hidden Power",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A unique attack that varies in type depending on the Pokémon using it."
+    },
+    {
+      "level": "18",
+      "name": "Mind Reader",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user senses the target's movements with its mind to ensure its next attack does not miss the target."
+    },
+    {
+      "level": "22",
+      "name": "Feint",
+      "type": "normal",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack that hits a target using Protect or Detect. It also lifts the effects of those moves."
+    },
+    {
+      "level": "25",
+      "name": "Calm Mind",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats."
+    },
+    {
+      "level": "29",
+      "name": "Force Palm",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The target is attacked with a shock wave. It may also leave the target with paralysis."
+    },
+    {
+      "level": "32",
+      "name": "High Jump Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "130",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead."
+    },
+    {
+      "level": "36",
+      "name": "Psych Up",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hypnotizes itself into copying any stat change made by the target."
+    },
+    {
+      "level": "39",
+      "name": "Acupressure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user applies pressure to stress points, sharply boosting one of its stats."
+    },
+    {
+      "level": "43",
+      "name": "Power Trick",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to switch its Attack with its Defense stat."
+    },
+    {
+      "level": "46",
+      "name": "Reversal",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "An all-out attack that becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "50",
+      "name": "Recover",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Restoring its own cells, the user restores its own HP by half of its max HP."
+    }
+  ]
+}

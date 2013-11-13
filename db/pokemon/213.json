@@ -1,0 +1,234 @@
+{
+  "index": 213,
+  "name": "Shuckle",
+  "image_url": "http://serebii.net/xy/pokemon/213.png",
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "evolves_to": [
+    213
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Sticky Web",
+      "type": "bug",
+      "category": "physical",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user weaves a sticky net around the opposing team, which lowers their Speed stat upon switching into battle."
+    },
+    {
+      "level": "—",
+      "name": "Withdraw",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user withdraws its body into its hard shell, raising its Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Constrict",
+      "type": "normal",
+      "category": "physical",
+      "attack": "10",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "10",
+      "description": "The target is attacked with long, creeping tentacles or vines. It may also lower the target's Speed stat."
+    },
+    {
+      "level": "—",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "—",
+      "name": "Rollout",
+      "type": "rock",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user continually rolls into the target over five turns. It becomes stronger each time it hits."
+    },
+    {
+      "level": "5",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "9",
+      "name": "Wrap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "A long body or vines are used to wrap and squeeze the target for four to five turns."
+    },
+    {
+      "level": "12",
+      "name": "Struggle Bug",
+      "type": "bug",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced."
+    },
+    {
+      "level": "16",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    },
+    {
+      "level": "20",
+      "name": "Rest",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."
+    },
+    {
+      "level": "23",
+      "name": "Rock Throw",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user picks up and throws a small rock at the target to attack."
+    },
+    {
+      "level": "27",
+      "name": "Gastro Acid",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability."
+    },
+    {
+      "level": "31",
+      "name": "Power Trick",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to switch its Attack with its Defense stat."
+    },
+    {
+      "level": "34",
+      "name": "Shell Smash",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user breaks its shell, lowering its Defense and Sp. Def stats but sharply raising Attack, Sp. Atk, and Speed stats."
+    },
+    {
+      "level": "38",
+      "name": "Rock Slide",
+      "type": "rock",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "Large boulders are hurled at the opposing team to inflict damage. It may also make the targets flinch."
+    },
+    {
+      "level": "42",
+      "name": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "level": "45",
+      "name": "Power Split",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target's."
+    },
+    {
+      "level": "45",
+      "name": "Guard Split",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to average its Defense and Sp. Def stats with those of its target's."
+    },
+    {
+      "level": "49",
+      "name": "Stone Edge",
+      "type": "rock",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio."
+    },
+    {
+      "level": "53",
+      "name": "Sticky Web",
+      "type": "bug",
+      "category": "physical",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user weaves a sticky net around the opposing team, which lowers their Speed stat upon switching into battle."
+    }
+  ]
+}

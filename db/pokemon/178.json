@@ -1,0 +1,202 @@
+{
+  "index": 178,
+  "name": "Xatu",
+  "image_url": "http://serebii.net/xy/pokemon/178.png",
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "evolves_to": [
+    177,
+    178
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Peck",
+      "type": "flying",
+      "category": "physical",
+      "attack": "35",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is jabbed with a sharply pointed beak or horn."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "6",
+      "name": "Night Shade",
+      "type": "ghost",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user makes the target see a frightening mirage. It inflicts damage matching the user's level."
+    },
+    {
+      "level": "9",
+      "name": "Teleport",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited."
+    },
+    {
+      "level": "12",
+      "name": "Lucky Chant",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits."
+    },
+    {
+      "level": "17",
+      "name": "Miracle Eye",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Dark-type target to be hit by Psychic-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "20",
+      "name": "Me First",
+      "type": "normal",
+      "category": "other",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tries to cut ahead of the target to steal and use the target's intended move with greater power."
+    },
+    {
+      "level": "23",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "27",
+      "name": "Tailwind",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns."
+    },
+    {
+      "level": "30",
+      "name": "Wish",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "One turn after this move is used, the target's HP is restored by half the user's maximum HP."
+    },
+    {
+      "level": "37",
+      "name": "Psycho Shift",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Using its psychic power of suggestion, the user transfers its status problems to the target."
+    },
+    {
+      "level": "42",
+      "name": "Future Sight",
+      "type": "psychic",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Two turns after this move is used, a hunk of psychic energy attacks the target."
+    },
+    {
+      "level": "47",
+      "name": "Stored Power",
+      "type": "psychic",
+      "category": "special",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks the target with stored power. The more the user's stats are raised, the greater the damage."
+    },
+    {
+      "level": "54",
+      "name": "Ominous Wind",
+      "type": "ghost",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The user blasts the target with a gust of repulsive wind. It may also raise all the user's stats at once."
+    },
+    {
+      "level": "54",
+      "name": "Power Swap",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to switch changes to its Attack and Sp. Atk with the target."
+    },
+    {
+      "level": "59",
+      "name": "Guard Swap",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to switch changes to its Defense and Sp. Def with the target."
+    },
+    {
+      "level": "66",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    }
+  ]
+}

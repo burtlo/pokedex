@@ -1,0 +1,17 @@
+{
+  "index": 500,
+  "name": "Emboar",
+  "image_url": "http://serebii.net/xy/pokemon/500.png",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "evolves_to": [
+    498,
+    499,
+    500
+  ],
+  "moves": [
+
+  ]
+}

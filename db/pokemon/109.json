@@ -1,0 +1,15 @@
+{
+  "index": 109,
+  "name": "Koffing",
+  "image_url": "http://serebii.net/xy/pokemon/109.png",
+  "types": [
+    "poison"
+  ],
+  "evolves_to": [
+    109,
+    110
+  ],
+  "moves": [
+
+  ]
+}

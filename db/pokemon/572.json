@@ -1,0 +1,16 @@
+{
+  "index": 572,
+  "name": "Minccino",
+  "image_url": "http://serebii.net/xy/pokemon/572.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    572,
+    0,
+    573
+  ],
+  "moves": [
+
+  ]
+}

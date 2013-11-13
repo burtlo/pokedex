@@ -1,0 +1,224 @@
+{
+  "index": 611,
+  "name": "Fraxure",
+  "image_url": "http://serebii.net/xy/pokemon/611.png",
+  "types": [
+    "dragon"
+  ],
+  "evolves_to": [
+    610,
+    611,
+    612
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Scratch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "Hard, pointed, and sharp claws rake the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Assurance",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target has already taken some damage in the same turn, this attack's power is doubled."
+    },
+    {
+      "level": "—",
+      "name": "Dragon Rage",
+      "type": "dragon",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage."
+    },
+    {
+      "level": "4",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "7",
+      "name": "Assurance",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target has already taken some damage in the same turn, this attack's power is doubled."
+    },
+    {
+      "level": "10",
+      "name": "Dragon Rage",
+      "type": "dragon",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage."
+    },
+    {
+      "level": "13",
+      "name": "Dual Chop",
+      "type": "dragon",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row."
+    },
+    {
+      "level": "16",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "20",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "24",
+      "name": "False Swipe",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP."
+    },
+    {
+      "level": "28",
+      "name": "Dragon Claw",
+      "type": "dragon",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes the target with huge, sharp claws."
+    },
+    {
+      "level": "32",
+      "name": "Dragon Dance",
+      "type": "dragon",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats."
+    },
+    {
+      "level": "36",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "42",
+      "name": "Dragon Pulse",
+      "type": "dragon",
+      "category": "special",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is attacked with a shock wave generated by the user's gaping mouth."
+    },
+    {
+      "level": "48",
+      "name": "Swords Dance",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."
+    },
+    {
+      "level": "54",
+      "name": "Guillotine",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "A vicious, tearing attack with big pincers. The target will faint instantly if this attack hits."
+    },
+    {
+      "level": "60",
+      "name": "Outrage",
+      "type": "dragon",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user rampages and attacks for two to three turns. It then becomes confused, however."
+    },
+    {
+      "level": "66",
+      "name": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user charges at the target using every bit of its power. The user must rest on the next turn."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+<div class="offset1 span9">
+  <form class="form-search">
+    <input id="pokemon-search" type="text" class="input-medium search-query" style="width: 100%;">
+  </form>
+</div>
+
+<script id="pokemon-index-template" type="text/x-handlebars-template">
+  <div class="pokemon-entry span12">
+    <h4><a href="{{url}}">{{name}}</a> ({{types}})</h4>
+    <div class="span3">
+      <a href="{{url}}"><img src="{{image}}" /></a>
+    </div>
+    <div class="span4">
+    <h5>Attack With</h5>
+    {{#effectiveAttacks}}
+      <div>{{name}} (x{{multiplier}})</div>
+    {{/effectiveAttacks}}
+    </div>
+    <div class="span4">
+    <h5>Avoid Using</h5>
+    {{#ineffectiveAttacks}}
+      <div>{{name}} (x{{multiplier}})</div>
+    {{/ineffectiveAttacks}}
+    </div>
+  </div>
+</script>
+
+<div class="offset1 span9" id="pokemon-results">
+</div>
+
+<script>
+  $(function() {
+    $("#pokemon-search").on("keyup",function(eventObj) {
+
+      var searchText = $(this).val();
+      console.log("searching for " + searchText);
+
+      if (searchText.length < 2) {
+        return;
+      }
+
+      $.ajax("/pokemons/search", { type: "POST",
+        data: { query: searchText },
+        success: function(data,textStatus,jqXHR) {
+          // console.log("Success");
+          console.log(data);
+
+          var resultsHtml = $("#pokemon-results");
+
+          resultsHtml.html("");
+
+          var templateSource = $("#pokemon-index-template").html();
+          var template = Handlebars.compile(templateSource);
+          $.each(data.pokemon,function(index,elem) {
+            var pokemonHtml = template(elem);
+            resultsHtml.append(pokemonHtml);
+          });
+
+        },
+        error: function() {
+          // console.log("failure");
+        }
+      });
+    })
+  });
+
+</script>

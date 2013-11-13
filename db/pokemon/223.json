@@ -1,0 +1,157 @@
+{
+  "index": 223,
+  "name": "Remoraid",
+  "image_url": "http://serebii.net/xy/pokemon/223.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    223,
+    224
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is blasted with a forceful shot of water."
+    },
+    {
+      "level": "6",
+      "name": "Lock-On",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user takes sure aim at the target. It ensures the next attack does not fail to hit the target."
+    },
+    {
+      "level": "10",
+      "name": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is attacked with a peculiar ray. It may also cause confusion."
+    },
+    {
+      "level": "14",
+      "name": "Aurora Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat."
+    },
+    {
+      "level": "18",
+      "name": "Bubble Beam",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats."
+    },
+    {
+      "level": "22",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "26",
+      "name": "Water Pulse",
+      "type": "water",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user attacks the target with a pulsing blast of water. It may also confuse the target."
+    },
+    {
+      "level": "30",
+      "name": "Signal Beam",
+      "type": "bug",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+    },
+    {
+      "level": "34",
+      "name": "Ice Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
+    },
+    {
+      "level": "38",
+      "name": "Bullet Seed",
+      "type": "grass",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user forcefully shoots seeds at the target. Two to five seeds are shot in rapid succession."
+    },
+    {
+      "level": "42",
+      "name": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is blasted by a huge volume of water launched under great pressure."
+    },
+    {
+      "level": "46",
+      "name": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy."
+    },
+    {
+      "level": "50",
+      "name": "Soak",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user shoots a torrent of water at the target and changes the target's type to Water."
+    }
+  ]
+}

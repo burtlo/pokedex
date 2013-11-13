@@ -1,0 +1,179 @@
+{
+  "index": 616,
+  "name": "Shelmet",
+  "image_url": "http://serebii.net/xy/pokemon/616.png",
+  "types": [
+    "bug"
+  ],
+  "evolves_to": [
+    616,
+    617
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Leech Life",
+      "type": "bug",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user drains the target's blood. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "4",
+      "name": "Acid",
+      "type": "poison",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "The opposing team is attacked with a spray of harsh acid. The acid may also lower the targets' Sp. Def stats."
+    },
+    {
+      "level": "8",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "13",
+      "name": "Curse",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A move that works differently for the Ghost type than for all other types."
+    },
+    {
+      "level": "16",
+      "name": "Struggle Bug",
+      "type": "bug",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced."
+    },
+    {
+      "level": "20",
+      "name": "Mega Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "25",
+      "name": "Yawn",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+    },
+    {
+      "level": "28",
+      "name": "Protect",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "32",
+      "name": "Acid Armor",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat."
+    },
+    {
+      "level": "37",
+      "name": "Giga Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "40",
+      "name": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user drops onto the target with its full body weight. It may also leave the target with paralysis."
+    },
+    {
+      "level": "44",
+      "name": "Bug Buzz",
+      "type": "bug",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat."
+    },
+    {
+      "level": "49",
+      "name": "Recover",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "Restoring its own cells, the user restores its own HP by half of its max HP."
+    },
+    {
+      "level": "50",
+      "name": "Guard Swap",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to switch changes to its Defense and Sp. Def with the target."
+    },
+    {
+      "level": "56",
+      "name": "Final Gambit",
+      "type": "fighting",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user risks everything to attack its target. The user faints but does damage equal to the user's HP."
+    }
+  ]
+}

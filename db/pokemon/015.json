@@ -1,0 +1,159 @@
+{
+  "index": 15,
+  "name": "Beedrill",
+  "image_url": "http://serebii.net/xy/pokemon/015.png",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "evolves_to": [
+    13,
+    14,
+    15
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Fury Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is jabbed repeatedly with a horn or beak two to five times in a row."
+    },
+    {
+      "level": "10",
+      "name": "Fury Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is jabbed repeatedly with a horn or beak two to five times in a row."
+    },
+    {
+      "level": "13",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "16",
+      "name": "Twineedle",
+      "type": "bug",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user damages the target twice in succession by jabbing it with two spikes. It may also poison the target."
+    },
+    {
+      "level": "19",
+      "name": "Rage",
+      "type": "normal",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle."
+    },
+    {
+      "level": "22",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "25",
+      "name": "Toxic Spikes",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of poison spikes at the opponent's feet. They poison opponents that switch into battle."
+    },
+    {
+      "level": "28",
+      "name": "Pin Missile",
+      "type": "bug",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row."
+    },
+    {
+      "level": "31",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "34",
+      "name": "Assurance",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the target has already taken some damage in the same turn, this attack's power is doubled."
+    },
+    {
+      "level": "37",
+      "name": "Poison Jab",
+      "type": "poison",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target."
+    },
+    {
+      "level": "40",
+      "name": "Endeavor",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "An attack move that cuts down the target's HP to equal the user's HP."
+    },
+    {
+      "level": "45",
+      "name": "Fell Stinger",
+      "type": "bug",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "When the user knocks out a target with this move, the user's Attack stat rises sharply."
+    }
+  ]
+}

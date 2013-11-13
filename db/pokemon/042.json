@@ -1,0 +1,192 @@
+{
+  "index": 42,
+  "name": "Golbat",
+  "image_url": "http://serebii.net/xy/pokemon/042.png",
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "evolves_to": [
+    41,
+    42,
+    169
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Screech",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "An earsplitting screech harshly reduces the target's Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Leech Life",
+      "type": "bug",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user drains the target's blood. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "—",
+      "name": "Supersonic",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user generates odd sound waves from its body. It may confuse the target."
+    },
+    {
+      "level": "—",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "4",
+      "name": "Supersonic",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user generates odd sound waves from its body. It may confuse the target."
+    },
+    {
+      "level": "8",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "12",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "15",
+      "name": "Wing Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is struck with large, imposing wings spread wide to inflict damage."
+    },
+    {
+      "level": "19",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "24",
+      "name": "Swift",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Star-shaped rays are shot at the opposing team. This attack never misses."
+    },
+    {
+      "level": "28",
+      "name": "Air Cutter",
+      "type": "flying",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user launches razor-like wind to slash the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "33",
+      "name": "Acrobatics",
+      "type": "flying",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage."
+    },
+    {
+      "level": "38",
+      "name": "Mean Look",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user pins the target with a dark, arresting look. The target becomes unable to flee."
+    },
+    {
+      "level": "42",
+      "name": "Poison Fang",
+      "type": "poison",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "50",
+      "description": "The user bites the target with toxic fangs. It may also leave the target badly poisoned."
+    },
+    {
+      "level": "47",
+      "name": "Haze",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle."
+    },
+    {
+      "level": "52",
+      "name": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch."
+    }
+  ]
+}

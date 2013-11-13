@@ -1,0 +1,93 @@
+{
+  "index": 695,
+  "name": "Heliolisk",
+  "image_url": "http://serebii.net/xy/pokemon/695.png",
+  "types": [
+    "electric",
+    "normal"
+  ],
+  "evolves_to": [
+    694,
+    0,
+    695
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Eerie Impulse",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user's body generates an eerie impulse. Exposing the target to it harshly lowers the target's Sp. Atk stat."
+    },
+    {
+      "level": "—",
+      "name": "Electrify",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "If the target is electrified before it uses a move during that turn, the target's move becomes Electric type."
+    },
+    {
+      "level": "—",
+      "name": "Razor Wind",
+      "type": "normal",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A two-turn attack. Blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily."
+    },
+    {
+      "level": "—",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "—",
+      "name": "Thunder",
+      "type": "electric",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "A wicked thunderbolt is dropped on the target to inflict damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "—",
+      "name": "Charge",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user boosts the power of the Electric move it uses on the next turn. It also raises the user's Sp. Def stat."
+    },
+    {
+      "level": "—",
+      "name": "Parabolic Charge",
+      "type": "electric",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user attacks everything around it. The user's HP is restored by half the damage taken by those hit."
+    }
+  ]
+}

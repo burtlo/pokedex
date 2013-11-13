@@ -1,0 +1,203 @@
+{
+  "index": 81,
+  "name": "Magnemite",
+  "image_url": "http://serebii.net/xy/pokemon/081.png",
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "evolves_to": [
+    81,
+    82,
+    462
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "4",
+      "name": "Supersonic",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user generates odd sound waves from its body. It may confuse the target."
+    },
+    {
+      "level": "7",
+      "name": "Thunder Shock",
+      "type": "electric",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A jolt of electricity is hurled at the target to inflict damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "11",
+      "name": "Sonic Boom",
+      "type": "normal",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "90",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is hit with a destructive shock wave that always inflicts 20 HP damage."
+    },
+    {
+      "level": "15",
+      "name": "Thunder Wave",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A weak electric charge is launched at the target. It causes paralysis if it hits."
+    },
+    {
+      "level": "18",
+      "name": "Magnet Bomb",
+      "type": "steel",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user launches steel bombs that stick to the target. This attack will not miss."
+    },
+    {
+      "level": "21",
+      "name": "Spark",
+      "type": "electric",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user throws an electrically charged tackle at the target. It may also leave the target with paralysis."
+    },
+    {
+      "level": "25",
+      "name": "Mirror Shot",
+      "type": "steel",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user looses a flash of energy at the target from its polished body. It may also lower the target's accuracy."
+    },
+    {
+      "level": "29",
+      "name": "Metal Sound",
+      "type": "steel",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "A horrible sound like scraping metal harshly reduces the target's Sp. Def stat."
+    },
+    {
+      "level": "32",
+      "name": "Electro Ball",
+      "type": "electric",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage."
+    },
+    {
+      "level": "35",
+      "name": "Flash Cannon",
+      "type": "steel",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat."
+    },
+    {
+      "level": "39",
+      "name": "Screech",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "An earsplitting screech harshly reduces the target's Defense stat."
+    },
+    {
+      "level": "43",
+      "name": "Discharge",
+      "type": "electric",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "A flare of electricity is loosed to strike the area around the user. It may also cause paralysis."
+    },
+    {
+      "level": "46",
+      "name": "Lock-On",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user takes sure aim at the target. It ensures the next attack does not fail to hit the target."
+    },
+    {
+      "level": "49",
+      "name": "Magnet Rise",
+      "type": "electric",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user levitates using electrically generated magnetism for five turns."
+    },
+    {
+      "level": "53",
+      "name": "Gyro Ball",
+      "type": "steel",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user tackles the target with a high-speed spin. The slower the user, the greater the damage."
+    },
+    {
+      "level": "57",
+      "name": "Zap Cannon",
+      "type": "electric",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "50",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fires an electric blast like a cannon to inflict damage and cause paralysis."
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "index": 122,
+  "name": "Mr. Mime",
+  "image_url": "http://serebii.net/xy/pokemon/122.png",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "evolves_to": [
+    439,
+    122
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Misty Terrain",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user covers the ground under everyone's feet with mist for five turns. This protects Pokémon on the ground from status conditions."
+    },
+    {
+      "level": "—",
+      "name": "Magical Leaf",
+      "type": "grass",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user scatters curious leaves that chase the target. This attack will not miss."
+    },
+    {
+      "level": "—",
+      "name": "Quick Guard",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises."
+    },
+    {
+      "level": "—",
+      "name": "Wide Guard",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chance of failing rises."
+    },
+    {
+      "level": "—",
+      "name": "Power Swap",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to switch changes to its Attack and Sp. Atk with the target."
+    },
+    {
+      "level": "—",
+      "name": "Guard Swap",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user employs its psychic power to switch changes to its Defense and Sp. Def with the target."
+    },
+    {
+      "level": "—",
+      "name": "Barrier",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user throws up a sturdy wall that sharply raises its Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "4",
+      "name": "Copycat",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user mimics the move used immediately before it. The move fails if no other move has been used yet."
+    },
+    {
+      "level": "8",
+      "name": "Meditate",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user meditates to awaken the power deep within its body and raise its Attack stat."
+    },
+    {
+      "level": "11",
+      "name": "Double Slap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is slapped repeatedly, back and forth, two to five times in a row."
+    },
+    {
+      "level": "15",
+      "name": "Mimic",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user copies the target's last move. The move can be used during battle until the Pokémon is switched out."
+    },
+    {
+      "level": "15",
+      "name": "Psywave",
+      "type": "psychic",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "80",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The target is attacked with an odd  psychic wave. The attack varies in intensity."
+    },
+    {
+      "level": "18",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "22",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "22",
+      "name": "Reflect",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from physical attacks for five turns."
+    },
+    {
+      "level": "25",
+      "name": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is attacked with a peculiar ray. It may also cause confusion."
+    },
+    {
+      "level": "29",
+      "name": "Substitute",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."
+    },
+    {
+      "level": "32",
+      "name": "Recycle",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user recycles a held item that has been used in battle so it can be used again."
+    },
+    {
+      "level": "36",
+      "name": "Trick",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user catches the target off guard and swaps its held item with its own."
+    },
+    {
+      "level": "39",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "43",
+      "name": "Role Play",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user mimics the target completely, copying the target's natural Ability."
+    },
+    {
+      "level": "46",
+      "name": "Baton Pass",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user switches places with a party Pokémon in waiting, passing along any stat changes."
+    },
+    {
+      "level": "50",
+      "name": "Safeguard",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user creates a protective field that prevents status problems for five turns."
+    }
+  ]
+}

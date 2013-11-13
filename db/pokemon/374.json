@@ -1,0 +1,27 @@
+{
+  "index": 374,
+  "name": "Beldum",
+  "image_url": "http://serebii.net/xy/pokemon/374.png",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "evolves_to": [
+    374,
+    375,
+    376
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    }
+  ]
+}

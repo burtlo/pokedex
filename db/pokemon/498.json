@@ -1,0 +1,16 @@
+{
+  "index": 498,
+  "name": "Tepig",
+  "image_url": "http://serebii.net/xy/pokemon/498.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    498,
+    499,
+    500
+  ],
+  "moves": [
+
+  ]
+}

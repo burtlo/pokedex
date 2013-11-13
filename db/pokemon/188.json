@@ -1,0 +1,258 @@
+{
+  "index": 188,
+  "name": "Skiploom",
+  "image_url": "http://serebii.net/xy/pokemon/188.png",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "evolves_to": [
+    187,
+    188,
+    189
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Splash",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user just flops and splashes around to no effect at all..."
+    },
+    {
+      "level": "—",
+      "name": "Synthesis",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "4",
+      "name": "Synthesis",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "6",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "8",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "10",
+      "name": "Fairy Wind",
+      "type": "fairy",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stirs up a fairy wind and strikes the target with it."
+    },
+    {
+      "level": "12",
+      "name": "Poison Powder",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of poisonous dust on the target. It may poison the target."
+    },
+    {
+      "level": "14",
+      "name": "Stun Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of paralyzing powder. It may leave the target with paralysis."
+    },
+    {
+      "level": "16",
+      "name": "Sleep Powder",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user scatters a big cloud of sleep-inducing dust around the target."
+    },
+    {
+      "level": "20",
+      "name": "Bullet Seed",
+      "type": "grass",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user forcefully shoots seeds at the target. Two to five seeds are shot in rapid succession."
+    },
+    {
+      "level": "24",
+      "name": "Leech Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed is planted on the target. It steals some HP from the target every turn."
+    },
+    {
+      "level": "28",
+      "name": "Mega Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "32",
+      "name": "Acrobatics",
+      "type": "flying",
+      "category": "physical",
+      "attack": "55",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage."
+    },
+    {
+      "level": "36",
+      "name": "Rage Powder",
+      "type": "bug",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of irritating powder to draw attention to itself. Opponents aim only at the user."
+    },
+    {
+      "level": "40",
+      "name": "Cotton Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user releases cotton-like spores that cling to the target, harshly reducing its Speed stat."
+    },
+    {
+      "level": "44",
+      "name": "U-turn",
+      "type": "bug",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+    },
+    {
+      "level": "48",
+      "name": "Worry Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed that causes worry is planted on the target. It prevents sleep by making its Ability Insomnia."
+    },
+    {
+      "level": "52",
+      "name": "Giga Drain",
+      "type": "grass",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "56",
+      "name": "Bounce",
+      "type": "flying",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "85",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "The user bounces up high, then drops on the target on the second turn. It may also leave the target with paralysis."
+    },
+    {
+      "level": "60",
+      "name": "Memento",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user faints when using this move. In return, it harshly lowers the target's Attack and Sp. Atk."
+    }
+  ]
+}

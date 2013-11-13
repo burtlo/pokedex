@@ -1,0 +1,17 @@
+{
+  "index": 392,
+  "name": "Infernape",
+  "image_url": "http://serebii.net/xy/pokemon/392.png",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "evolves_to": [
+    390,
+    391,
+    392
+  ],
+  "moves": [
+
+  ]
+}

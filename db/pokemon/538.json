@@ -1,0 +1,178 @@
+{
+  "index": 538,
+  "name": "Throh",
+  "image_url": "http://serebii.net/xy/pokemon/538.png",
+  "types": [
+    "fighting"
+  ],
+  "evolves_to": [
+    538
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Bind",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "5",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "9",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "13",
+      "name": "Seismic Toss",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is thrown using the power of gravity. It inflicts damage equal to the user's level."
+    },
+    {
+      "level": "17",
+      "name": "Vital Throw",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks last. In return, this throw move is guaranteed not to miss."
+    },
+    {
+      "level": "21",
+      "name": "Revenge",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn."
+    },
+    {
+      "level": "25",
+      "name": "Storm Throw",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user strikes the target with a fierce blow. This attack always results in a critical hit."
+    },
+    {
+      "level": "29",
+      "name": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user drops onto the target with its full body weight. It may also leave the target with paralysis."
+    },
+    {
+      "level": "33",
+      "name": "Bulk Up",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats."
+    },
+    {
+      "level": "37",
+      "name": "Circle Throw",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user throws the target and drags out another Pokémon in its party. In the wild, the battle ends."
+    },
+    {
+      "level": "41",
+      "name": "Endure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "45",
+      "name": "Wide Guard",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chance of failing rises."
+    },
+    {
+      "level": "48",
+      "name": "Superpower",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user attacks the target with great power. However, it also lowers the user's Attack and Defense."
+    },
+    {
+      "level": "50",
+      "name": "Reversal",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "An all-out attack that becomes more powerful the less HP the user has."
+    }
+  ]
+}

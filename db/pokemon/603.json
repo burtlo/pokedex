@@ -1,0 +1,17 @@
+{
+  "index": 603,
+  "name": "Eelektrik",
+  "image_url": "http://serebii.net/xy/pokemon/603.png",
+  "types": [
+    "electric"
+  ],
+  "evolves_to": [
+    602,
+    603,
+    0,
+    604
+  ],
+  "moves": [
+
+  ]
+}

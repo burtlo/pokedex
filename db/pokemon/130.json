@@ -1,0 +1,137 @@
+{
+  "index": 130,
+  "name": "Gyarados",
+  "image_url": "http://serebii.net/xy/pokemon/130.png",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "evolves_to": [
+    129,
+    130,
+    130
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Thrash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user rampages and attacks for two to three turns. It then becomes confused, however."
+    },
+    {
+      "level": "20",
+      "name": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "30",
+      "description": "The target is bitten with viciously sharp fangs. It may make the target flinch."
+    },
+    {
+      "level": "23",
+      "name": "Dragon Rage",
+      "type": "dragon",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage."
+    },
+    {
+      "level": "26",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "29",
+      "name": "Twister",
+      "type": "dragon",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "20",
+      "description": "The user whips up a vicious tornado to tear at the opposing team. It may also make targets flinch."
+    },
+    {
+      "level": "32",
+      "name": "Ice Fang",
+      "type": "ice",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The user bites with cold-infused fangs. It may also make the target flinch or leave it frozen."
+    },
+    {
+      "level": "35",
+      "name": "Aqua Tail",
+      "type": "water",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+    },
+    {
+      "level": "38",
+      "name": "Rain Dance",
+      "type": "water",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user summons a heavy rain that falls for five turns, powering up Water-type moves."
+    },
+    {
+      "level": "41",
+      "name": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is blasted by a huge volume of water launched under great pressure."
+    },
+    {
+      "level": "44",
+      "name": "Dragon Dance",
+      "type": "dragon",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats."
+    },
+    {
+      "level": "47",
+      "name": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "attack": "150",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy."
+    }
+  ]
+}

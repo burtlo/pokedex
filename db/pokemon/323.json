@@ -1,0 +1,235 @@
+{
+  "index": 323,
+  "name": "Camerupt",
+  "image_url": "http://serebii.net/xy/pokemon/323.png",
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "evolves_to": [
+    322,
+    323
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Fissure",
+      "type": "ground",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user opens up a fissure in the ground and drops the target in. The target instantly faints if it hits."
+    },
+    {
+      "level": "—",
+      "name": "Eruption",
+      "type": "fire",
+      "category": "special",
+      "attack": "150",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user attacks the opposing team with explosive fury. The lower the user's HP, the less powerful this attack becomes."
+    },
+    {
+      "level": "—",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Ember",
+      "type": "fire",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is attacked with small flames. It may also leave the target with a burn."
+    },
+    {
+      "level": "—",
+      "name": "Magnitude",
+      "type": "ground",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user looses a ground-shaking quake affecting everyone around the user. Its power varies."
+    },
+    {
+      "level": "5",
+      "name": "Ember",
+      "type": "fire",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is attacked with small flames. It may also leave the target with a burn."
+    },
+    {
+      "level": "8",
+      "name": "Magnitude",
+      "type": "ground",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user looses a ground-shaking quake affecting everyone around the user. Its power varies."
+    },
+    {
+      "level": "12",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "15",
+      "name": "Flame Burst",
+      "type": "fire",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well."
+    },
+    {
+      "level": "19",
+      "name": "Amnesia",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat."
+    },
+    {
+      "level": "22",
+      "name": "Lava Plume",
+      "type": "fire",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "An inferno of scarlet flames torches everything around the user. It may leave targets with a burn."
+    },
+    {
+      "level": "26",
+      "name": "Earth Power",
+      "type": "ground",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user makes the ground under the target erupt with power. It may also lower the target's Sp. Def."
+    },
+    {
+      "level": "29",
+      "name": "Curse",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A move that works differently for the Ghost type than for all other types."
+    },
+    {
+      "level": "31",
+      "name": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A reckless, full-body charge attack for slamming into the target. It also damages the user a little."
+    },
+    {
+      "level": "33",
+      "name": "Rock Slide",
+      "type": "rock",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "Large boulders are hurled at the opposing team to inflict damage. It may also make the targets flinch."
+    },
+    {
+      "level": "39",
+      "name": "Yawn",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+    },
+    {
+      "level": "46",
+      "name": "Earthquake",
+      "type": "ground",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user sets off an earthquake that strikes those around it."
+    },
+    {
+      "level": "52",
+      "name": "Eruption",
+      "type": "fire",
+      "category": "special",
+      "attack": "150",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user attacks the opposing team with explosive fury. The lower the user's HP, the less powerful this attack becomes."
+    },
+    {
+      "level": "59",
+      "name": "Fissure",
+      "type": "ground",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user opens up a fissure in the ground and drops the target in. The target instantly faints if it hits."
+    }
+  ]
+}

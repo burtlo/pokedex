@@ -1,0 +1,191 @@
+{
+  "index": 709,
+  "name": "Trevenant",
+  "image_url": "http://serebii.net/xy/pokemon/709.png",
+  "types": [
+    "ghost",
+    "grass"
+  ],
+  "evolves_to": [
+    708,
+    709
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Horn Leech",
+      "type": "grass",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user drains the target's energy with its horns. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "5",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "8",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "13",
+      "name": "Ingrain",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays roots that restore its HP on every turn. Because it is rooted, it can't switch out."
+    },
+    {
+      "level": "19",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "23",
+      "name": "Leech Seed",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A seed is planted on the target. It steals some HP from the target every turn."
+    },
+    {
+      "level": "28",
+      "name": "Curse",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A move that works differently for the Ghost type than for all other types."
+    },
+    {
+      "level": "31",
+      "name": "Will-O-Wisp",
+      "type": "fire",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user shoots a sinister, bluish-white flame at the target to inflict a burn."
+    },
+    {
+      "level": "35",
+      "name": "Forest's Curse",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user puts a forest curse on the target. Afflicted targets are now Grass type as well."
+    },
+    {
+      "level": "39",
+      "name": "Destiny Bond",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints."
+    },
+    {
+      "level": "45",
+      "name": "Phantom Force",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself."
+    },
+    {
+      "level": "49",
+      "name": "Wood Hammer",
+      "type": "grass",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slams its rugged body into the target to attack. The user also sustains serious damage."
+    },
+    {
+      "level": "55",
+      "name": "Shadow Claw",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slashes with a sharp claw made from shadows. Critical hits land more easily."
+    },
+    {
+      "level": "62",
+      "name": "Horn Leech",
+      "type": "grass",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user drains the target's energy with its horns. The user's HP is restored by half the damage taken by the target."
+    }
+  ]
+}

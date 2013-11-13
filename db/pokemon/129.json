@@ -1,0 +1,48 @@
+{
+  "index": 129,
+  "name": "Magikarp",
+  "image_url": "http://serebii.net/xy/pokemon/129.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    129,
+    130,
+    130
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Splash",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user just flops and splashes around to no effect at all..."
+    },
+    {
+      "level": "15",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "30",
+      "name": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has."
+    }
+  ]
+}

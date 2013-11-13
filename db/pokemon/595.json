@@ -1,0 +1,16 @@
+{
+  "index": 595,
+  "name": "Joltik",
+  "image_url": "http://serebii.net/xy/pokemon/595.png",
+  "types": [
+    "bug",
+    "electric"
+  ],
+  "evolves_to": [
+    595,
+    596
+  ],
+  "moves": [
+
+  ]
+}

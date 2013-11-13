@@ -1,0 +1,224 @@
+{
+  "index": 675,
+  "name": "Pangoro",
+  "image_url": "http://serebii.net/xy/pokemon/675.png",
+  "types": [
+    "fighting",
+    "dark"
+  ],
+  "evolves_to": [
+    674,
+    675
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Entrainment",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's."
+    },
+    {
+      "level": "—",
+      "name": "Hammer Arm",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "7",
+      "name": "Arm Thrust",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user looses a flurry of open-palmed arm thrusts that hit two to five times in a row."
+    },
+    {
+      "level": "10",
+      "name": "Work Up",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user is roused, and its Attack and Sp. Atk stats increase."
+    },
+    {
+      "level": "12",
+      "name": "Karate Chop",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is attacked with a sharp chop. Critical hits land more easily."
+    },
+    {
+      "level": "15",
+      "name": "Comet Punch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "18",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The target is hit with a flurry of punches that strike two to five times in a row."
+    },
+    {
+      "level": "20",
+      "name": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is attacked with a slash of claws or blades. Critical hits land more easily."
+    },
+    {
+      "level": "25",
+      "name": "Circle Throw",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user throws the target and drags out another Pokémon in its party. In the wild, the battle ends."
+    },
+    {
+      "level": "27",
+      "name": "Vital Throw",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks last. In return, this throw move is guaranteed not to miss."
+    },
+    {
+      "level": "35",
+      "name": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user drops onto the target with its full body weight. It may also leave the target with paralysis."
+    },
+    {
+      "level": "42",
+      "name": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user crunches up the target with sharp fangs. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "45",
+      "name": "Entrainment",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's."
+    },
+    {
+      "level": "48",
+      "name": "Parting Shot",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches with a party Pokémon."
+    },
+    {
+      "level": "52",
+      "name": "Sky Uppercut",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with an uppercut thrown skyward with force."
+    },
+    {
+      "level": "57",
+      "name": "Hammer Arm",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however."
+    },
+    {
+      "level": "65",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "70",
+      "name": "Low Sweep",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user attacks the target's legs swiftly, reducing the target's Speed stat."
+    }
+  ]
+}

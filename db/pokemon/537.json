@@ -1,0 +1,17 @@
+{
+  "index": 537,
+  "name": "Seismitoad",
+  "image_url": "http://serebii.net/xy/pokemon/537.png",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "evolves_to": [
+    535,
+    536,
+    537
+  ],
+  "moves": [
+
+  ]
+}

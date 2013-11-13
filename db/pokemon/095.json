@@ -1,0 +1,247 @@
+{
+  "index": 95,
+  "name": "Onix",
+  "image_url": "http://serebii.net/xy/pokemon/095.png",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "evolves_to": [
+    95,
+    0,
+    208
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Mud Sport",
+      "type": "ground",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user covers itself with mud. It weakens Electric-type moves while the user is in the battle."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Bind",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns."
+    },
+    {
+      "level": "4",
+      "name": "Curse",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A move that works differently for the Ghost type than for all other types."
+    },
+    {
+      "level": "7",
+      "name": "Rock Throw",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user picks up and throws a small rock at the target to attack."
+    },
+    {
+      "level": "10",
+      "name": "Rage",
+      "type": "normal",
+      "category": "physical",
+      "attack": "20",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle."
+    },
+    {
+      "level": "13",
+      "name": "Rock Tomb",
+      "type": "rock",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "Boulders are hurled at the target. It also lowers the target's Speed by preventing its movement."
+    },
+    {
+      "level": "16",
+      "name": "Stealth Rock",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user lays a trap of levitating stones around the opponent's team. The trap hurts opponents that switch into battle."
+    },
+    {
+      "level": "19",
+      "name": "Rock Polish",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user polishes its body to reduce drag. It can sharply raise the Speed stat."
+    },
+    {
+      "level": "22",
+      "name": "Smack Down",
+      "type": "rock",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when hit."
+    },
+    {
+      "level": "25",
+      "name": "Dragon Breath",
+      "type": "dragon",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user exhales a mighty gust that inflicts damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "28",
+      "name": "Slam",
+      "type": "normal",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "75",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slammed with a long tail, vines, etc., to inflict damage."
+    },
+    {
+      "level": "31",
+      "name": "Screech",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "85",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "An earsplitting screech harshly reduces the target's Defense stat."
+    },
+    {
+      "level": "34",
+      "name": "Rock Slide",
+      "type": "rock",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "Large boulders are hurled at the opposing team to inflict damage. It may also make the targets flinch."
+    },
+    {
+      "level": "37",
+      "name": "Sand Tomb",
+      "type": "ground",
+      "category": "physical",
+      "attack": "35",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user traps the target inside a harshly raging sandstorm for four to five turns."
+    },
+    {
+      "level": "40",
+      "name": "Iron Tail",
+      "type": "steel",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "75",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The target is slammed with a steel-hard tail. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "43",
+      "name": "Dig",
+      "type": "ground",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons."
+    },
+    {
+      "level": "46",
+      "name": "Stone Edge",
+      "type": "rock",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio."
+    },
+    {
+      "level": "49",
+      "name": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
+    },
+    {
+      "level": "52",
+      "name": "Sandstorm",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types."
+    }
+  ]
+}

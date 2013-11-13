@@ -1,0 +1,223 @@
+{
+  "index": 441,
+  "name": "Chatot",
+  "image_url": "http://serebii.net/xy/pokemon/441.png",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "evolves_to": [
+    441
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Hyper Voice",
+      "type": "normal",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a horribly echoing shout with the power to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Chatter",
+      "type": "flying",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user attacks using a sound wave based on words it has learned. It may also confuse the target."
+    },
+    {
+      "level": "—",
+      "name": "Confide",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk stat."
+    },
+    {
+      "level": "—",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "—",
+      "name": "Peck",
+      "type": "flying",
+      "category": "physical",
+      "attack": "35",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is jabbed with a sharply pointed beak or horn."
+    },
+    {
+      "level": "5",
+      "name": "Growl",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user growls in an endearing way, making the opposing team less wary. The foes' Attack stats are lowered."
+    },
+    {
+      "level": "9",
+      "name": "Mirror Move",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user counters the target by mimicking the target's last move."
+    },
+    {
+      "level": "13",
+      "name": "Sing",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A soothing lullaby is sung in a calming voice that puts the target into a deep slumber."
+    },
+    {
+      "level": "17",
+      "name": "Fury Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is jabbed repeatedly with a horn or beak two to five times in a row."
+    },
+    {
+      "level": "21",
+      "name": "Chatter",
+      "type": "flying",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user attacks using a sound wave based on words it has learned. It may also confuse the target."
+    },
+    {
+      "level": "25",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "29",
+      "name": "Round",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a song. Others can join in the Round and make the attack do greater damage."
+    },
+    {
+      "level": "33",
+      "name": "Mimic",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user copies the target's last move. The move can be used during battle until the Pokémon is switched out."
+    },
+    {
+      "level": "37",
+      "name": "Echoed Voice",
+      "type": "normal",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage."
+    },
+    {
+      "level": "41",
+      "name": "Roost",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lands and rests its body. It restores the user's HP by up to half of its max HP."
+    },
+    {
+      "level": "45",
+      "name": "Uproar",
+      "type": "normal",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks in an uproar for three turns. Over that time, no one can fall asleep."
+    },
+    {
+      "level": "49",
+      "name": "Synchronoise",
+      "type": "psychic",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it."
+    },
+    {
+      "level": "50",
+      "name": "Feather Dance",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user covers the target's body with a mass of down that harshly lowers its Attack stat."
+    },
+    {
+      "level": "57",
+      "name": "Hyper Voice",
+      "type": "normal",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lets loose a horribly echoing shout with the power to inflict damage."
+    }
+  ]
+}

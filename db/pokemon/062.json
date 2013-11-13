@@ -1,0 +1,107 @@
+{
+  "index": 62,
+  "name": "Poliwrath",
+  "image_url": "http://serebii.net/xy/pokemon/062.png",
+  "types": [
+    "water",
+    "fighting"
+  ],
+  "evolves_to": [
+    60,
+    61,
+    0,
+    62,
+    0,
+    186
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Circle Throw",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user throws the target and drags out another Pokémon in its party. In the wild, the battle ends."
+    },
+    {
+      "level": "—",
+      "name": "Bubble Beam",
+      "type": "water",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats."
+    },
+    {
+      "level": "—",
+      "name": "Hypnosis",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "60",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user employs hypnotic suggestion to make the target fall into a deep sleep."
+    },
+    {
+      "level": "—",
+      "name": "Double Slap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is slapped repeatedly, back and forth, two to five times in a row."
+    },
+    {
+      "level": "—",
+      "name": "Submission",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "80",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user grabs the target and recklessly dives for the ground. It also hurts the user slightly."
+    },
+    {
+      "level": "32",
+      "name": "Dynamic Punch",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "50",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user punches the target with full, concentrated power. It confuses the target if it hits."
+    },
+    {
+      "level": "43",
+      "name": "Mind Reader",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user senses the target's movements with its mind to ensure its next attack does not miss the target."
+    },
+    {
+      "level": "53",
+      "name": "Circle Throw",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user throws the target and drags out another Pokémon in its party. In the wild, the battle ends."
+    }
+  ]
+}

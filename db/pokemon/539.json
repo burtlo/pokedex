@@ -1,0 +1,178 @@
+{
+  "index": 539,
+  "name": "Sawk",
+  "image_url": "http://serebii.net/xy/pokemon/539.png",
+  "types": [
+    "fighting"
+  ],
+  "evolves_to": [
+    539
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Rock Smash",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "50",
+      "description": "The user attacks with a punch that can shatter a rock. It may also lower the target's Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "5",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "9",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "13",
+      "name": "Double Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The target is quickly kicked twice in succession using both feet."
+    },
+    {
+      "level": "17",
+      "name": "Low Sweep",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user attacks the target's legs swiftly, reducing the target's Speed stat."
+    },
+    {
+      "level": "21",
+      "name": "Counter",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A retaliation move that counters any physical attack, inflicting double the damage taken."
+    },
+    {
+      "level": "25",
+      "name": "Karate Chop",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is attacked with a sharp chop. Critical hits land more easily."
+    },
+    {
+      "level": "29",
+      "name": "Brick Break",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks with a swift chop. It can also break any barrier such as Light Screen and Reflect."
+    },
+    {
+      "level": "33",
+      "name": "Bulk Up",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats."
+    },
+    {
+      "level": "37",
+      "name": "Retaliate",
+      "type": "normal",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this attack's damage increases."
+    },
+    {
+      "level": "41",
+      "name": "Endure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "45",
+      "name": "Quick Guard",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises."
+    },
+    {
+      "level": "48",
+      "name": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def."
+    },
+    {
+      "level": "50",
+      "name": "Reversal",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "An all-out attack that becomes more powerful the less HP the user has."
+    }
+  ]
+}

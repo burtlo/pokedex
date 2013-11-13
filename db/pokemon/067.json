@@ -1,0 +1,191 @@
+{
+  "index": 67,
+  "name": "Machoke",
+  "image_url": "http://serebii.net/xy/pokemon/067.png",
+  "types": [
+    "fighting"
+  ],
+  "evolves_to": [
+    66,
+    67,
+    68
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Low Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A powerful low kick that makes the target fall over. It inflicts greater damage on heavier targets."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "—",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "—",
+      "name": "Karate Chop",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is attacked with a sharp chop. Critical hits land more easily."
+    },
+    {
+      "level": "7",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "10",
+      "name": "Karate Chop",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is attacked with a sharp chop. Critical hits land more easily."
+    },
+    {
+      "level": "13",
+      "name": "Low Sweep",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "100",
+      "description": "The user attacks the target's legs swiftly, reducing the target's Speed stat."
+    },
+    {
+      "level": "19",
+      "name": "Foresight",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "22",
+      "name": "Seismic Toss",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is thrown using the power of gravity. It inflicts damage equal to the user's level."
+    },
+    {
+      "level": "25",
+      "name": "Revenge",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn."
+    },
+    {
+      "level": "32",
+      "name": "Vital Throw",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks last. In return, this throw move is guaranteed not to miss."
+    },
+    {
+      "level": "36",
+      "name": "Submission",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "80",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user grabs the target and recklessly dives for the ground. It also hurts the user slightly."
+    },
+    {
+      "level": "40",
+      "name": "Wake-Up Slap",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This attack inflicts big damage on a sleeping target. It also wakes the target up, however."
+    },
+    {
+      "level": "44",
+      "name": "Cross Chop",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "80",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user delivers a double chop with its forearms crossed. Critical hits land more easily."
+    },
+    {
+      "level": "51",
+      "name": "Scary Face",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user frightens the target with a scary face to harshly reduce its Speed stat."
+    },
+    {
+      "level": "55",
+      "name": "Dynamic Punch",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "50",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user punches the target with full, concentrated power. It confuses the target if it hits."
+    }
+  ]
+}

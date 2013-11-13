@@ -1,0 +1,246 @@
+{
+  "index": 584,
+  "name": "Vanilluxe",
+  "image_url": "http://serebii.net/xy/pokemon/584.png",
+  "types": [
+    "ice"
+  ],
+  "evolves_to": [
+    582,
+    583,
+    584
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Sheer Cold",
+      "type": "ice",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a blast of absolute-zero cold. The target instantly faints if it hits."
+    },
+    {
+      "level": "—",
+      "name": "Freeze-Dry",
+      "type": "ice",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types."
+    },
+    {
+      "level": "—",
+      "name": "Weather Ball",
+      "type": "normal",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack move that varies in power and type depending on the weather."
+    },
+    {
+      "level": "—",
+      "name": "Icicle Spear",
+      "type": "ice",
+      "category": "physical",
+      "attack": "25",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user launches sharp icicles at the target. It strikes two to five times in a row."
+    },
+    {
+      "level": "—",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "—",
+      "name": "Uproar",
+      "type": "normal",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks in an uproar for three turns. Over that time, no one can fall asleep."
+    },
+    {
+      "level": "4",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "7",
+      "name": "Astonish",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user attacks the target while shouting in a startling fashion. It may also make the target flinch."
+    },
+    {
+      "level": "10",
+      "name": "Uproar",
+      "type": "normal",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user attacks in an uproar for three turns. Over that time, no one can fall asleep."
+    },
+    {
+      "level": "13",
+      "name": "Icy Wind",
+      "type": "ice",
+      "category": "special",
+      "attack": "55",
+      "accuracy": "95",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The user attacks with a gust of chilled air. It also reduces the targets' Speed stat."
+    },
+    {
+      "level": "16",
+      "name": "Mist",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns."
+    },
+    {
+      "level": "19",
+      "name": "Avalanche",
+      "type": "ice",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double the damage if the user has been hurt by the target in the same turn."
+    },
+    {
+      "level": "22",
+      "name": "Taunt",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+    },
+    {
+      "level": "26",
+      "name": "Mirror Shot",
+      "type": "steel",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The user looses a flash of energy at the target from its polished body. It may also lower the target's accuracy."
+    },
+    {
+      "level": "31",
+      "name": "Acid Armor",
+      "type": "poison",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat."
+    },
+    {
+      "level": "36",
+      "name": "Ice Beam",
+      "type": "ice",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
+    },
+    {
+      "level": "42",
+      "name": "Hail",
+      "type": "ice",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type."
+    },
+    {
+      "level": "50",
+      "name": "Mirror Coat",
+      "type": "psychic",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A retaliation move that counters any special attack, inflicting double the damage taken."
+    },
+    {
+      "level": "59",
+      "name": "Blizzard",
+      "type": "ice",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "70",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "A howling blizzard is summoned to strike the opposing team. It may also freeze them solid."
+    },
+    {
+      "level": "67",
+      "name": "Sheer Cold",
+      "type": "ice",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "30",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked with a blast of absolute-zero cold. The target instantly faints if it hits."
+    }
+  ]
+}

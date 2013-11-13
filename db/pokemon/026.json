@@ -1,0 +1,60 @@
+{
+  "index": 26,
+  "name": "Raichu",
+  "image_url": "http://serebii.net/xy/pokemon/026.png",
+  "types": [
+    "electric"
+  ],
+  "evolves_to": [
+    172,
+    25,
+    0,
+    26
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Thunder Shock",
+      "type": "electric",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "10",
+      "description": "A jolt of electricity is hurled at the target to inflict damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "—",
+      "name": "Tail Whip",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+    },
+    {
+      "level": "—",
+      "name": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+    },
+    {
+      "level": "—",
+      "name": "Thunderbolt",
+      "type": "electric",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "A strong electric blast is loosed at the target. It may also leave the target with paralysis."
+    }
+  ]
+}

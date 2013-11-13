@@ -1,0 +1,15 @@
+{
+  "index": 529,
+  "name": "Drilbur",
+  "image_url": "http://serebii.net/xy/pokemon/529.png",
+  "types": [
+    "ground"
+  ],
+  "evolves_to": [
+    529,
+    530
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "index": 14,
+  "name": "Kakuna",
+  "image_url": "http://serebii.net/xy/pokemon/014.png",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "evolves_to": [
+    13,
+    14,
+    15
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "7",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    }
+  ]
+}

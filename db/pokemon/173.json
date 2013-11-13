@@ -1,0 +1,93 @@
+{
+  "index": 173,
+  "name": "Cleffa",
+  "image_url": "http://serebii.net/xy/pokemon/173.png",
+  "types": [
+    "fairy"
+  ],
+  "evolves_to": [
+    173,
+    35,
+    0,
+    36
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "—",
+      "name": "Charm",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user gazes at the target rather charmingly, making it less wary. The target's Attack is harshly lowered."
+    },
+    {
+      "level": "4",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "7",
+      "name": "Sing",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "55",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A soothing lullaby is sung in a calming voice that puts the target into a deep slumber."
+    },
+    {
+      "level": "10",
+      "name": "Sweet Kiss",
+      "type": "fairy",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user kisses the target with a sweet, angelic cuteness that causes confusion."
+    },
+    {
+      "level": "13",
+      "name": "Copycat",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user mimics the move used immediately before it. The move fails if no other move has been used yet."
+    },
+    {
+      "level": "16",
+      "name": "Magical Leaf",
+      "type": "grass",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user scatters curious leaves that chase the target. This attack will not miss."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "index": 421,
+  "name": "Cherrim",
+  "image_url": "http://serebii.net/xy/pokemon/421.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    420,
+    421
+  ],
+  "moves": [
+
+  ]
+}

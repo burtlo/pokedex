@@ -1,0 +1,15 @@
+{
+  "index": 110,
+  "name": "Weezing",
+  "image_url": "http://serebii.net/xy/pokemon/110.png",
+  "types": [
+    "poison"
+  ],
+  "evolves_to": [
+    109,
+    110
+  ],
+  "moves": [
+
+  ]
+}

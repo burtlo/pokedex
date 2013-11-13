@@ -1,0 +1,17 @@
+{
+  "index": 541,
+  "name": "Swadloon",
+  "image_url": "http://serebii.net/xy/pokemon/541.png",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "evolves_to": [
+    540,
+    541,
+    542
+  ],
+  "moves": [
+
+  ]
+}

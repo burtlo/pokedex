@@ -1,0 +1,16 @@
+{
+  "index": 630,
+  "name": "Mandibuzz",
+  "image_url": "http://serebii.net/xy/pokemon/630.png",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "evolves_to": [
+    629,
+    630
+  ],
+  "moves": [
+
+  ]
+}

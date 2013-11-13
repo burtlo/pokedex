@@ -1,0 +1,201 @@
+{
+  "index": 561,
+  "name": "Sigilyph",
+  "image_url": "http://serebii.net/xy/pokemon/561.png",
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "evolves_to": [
+    561
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Gust",
+      "type": "flying",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A gust of wind is whipped up by wings and launched at the target to inflict damage."
+    },
+    {
+      "level": "—",
+      "name": "Miracle Eye",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Dark-type target to be hit by Psychic-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "4",
+      "name": "Hypnosis",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "60",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user employs hypnotic suggestion to make the target fall into a deep sleep."
+    },
+    {
+      "level": "8",
+      "name": "Psywave",
+      "type": "psychic",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "80",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The target is attacked with an odd  psychic wave. The attack varies in intensity."
+    },
+    {
+      "level": "11",
+      "name": "Tailwind",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns."
+    },
+    {
+      "level": "14",
+      "name": "Whirlwind",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends."
+    },
+    {
+      "level": "18",
+      "name": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "10",
+      "description": "The target is attacked with a peculiar ray. It may also cause confusion."
+    },
+    {
+      "level": "21",
+      "name": "Air Cutter",
+      "type": "flying",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "95",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The user launches razor-like wind to slash the opposing team. Critical hits land more easily."
+    },
+    {
+      "level": "24",
+      "name": "Light Screen",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+    },
+    {
+      "level": "28",
+      "name": "Reflect",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A wondrous wall of light is put up to suppress damage from physical attacks for five turns."
+    },
+    {
+      "level": "31",
+      "name": "Synchronoise",
+      "type": "psychic",
+      "category": "special",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it."
+    },
+    {
+      "level": "34",
+      "name": "Mirror Move",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user counters the target by mimicking the target's last move."
+    },
+    {
+      "level": "38",
+      "name": "Gravity",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "Gravity is intensified for five turns, making moves involving flying unusable and negating Levitate."
+    },
+    {
+      "level": "41",
+      "name": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "attack": "75",
+      "accuracy": "95",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch."
+    },
+    {
+      "level": "44",
+      "name": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat."
+    },
+    {
+      "level": "48",
+      "name": "Cosmic Power",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user absorbs a mystical power from space to raise its Defense and Sp. Def stats."
+    },
+    {
+      "level": "50",
+      "name": "Sky Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "A second-turn attack move where critical hits land more easily. It may also make the target flinch."
+    }
+  ]
+}

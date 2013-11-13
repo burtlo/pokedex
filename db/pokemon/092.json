@@ -1,0 +1,182 @@
+{
+  "index": 92,
+  "name": "Gastly",
+  "image_url": "http://serebii.net/xy/pokemon/092.png",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "evolves_to": [
+    92,
+    93,
+    94,
+    94
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Hypnosis",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "60",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user employs hypnotic suggestion to make the target fall into a deep sleep."
+    },
+    {
+      "level": "—",
+      "name": "Lick",
+      "type": "ghost",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "30",
+      "description": "The target is licked with a long tongue, causing damage. It may also leave the target with paralysis."
+    },
+    {
+      "level": "5",
+      "name": "Spite",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user unleashes its grudge on the move last used by the target by cutting 4 PP from it."
+    },
+    {
+      "level": "8",
+      "name": "Mean Look",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user pins the target with a dark, arresting look. The target becomes unable to flee."
+    },
+    {
+      "level": "12",
+      "name": "Curse",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A move that works differently for the Ghost type than for all other types."
+    },
+    {
+      "level": "15",
+      "name": "Night Shade",
+      "type": "ghost",
+      "category": "special",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user makes the target see a frightening mirage. It inflicts damage matching the user's level."
+    },
+    {
+      "level": "19",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "22",
+      "name": "Sucker Punch",
+      "type": "dark",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "This move enables the user to attack first. It fails if the target is not readying an attack, however."
+    },
+    {
+      "level": "26",
+      "name": "Payback",
+      "type": "dark",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "If the user moves after the target, this attack's power will be doubled."
+    },
+    {
+      "level": "29",
+      "name": "Shadow Ball",
+      "type": "ghost",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat."
+    },
+    {
+      "level": "33",
+      "name": "Dream Eater",
+      "type": "psychic",
+      "category": "special",
+      "attack": "100",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user's HP."
+    },
+    {
+      "level": "36",
+      "name": "Dark Pulse",
+      "type": "dark",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "20",
+      "description": "The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch."
+    },
+    {
+      "level": "40",
+      "name": "Destiny Bond",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints."
+    },
+    {
+      "level": "43",
+      "name": "Hex",
+      "type": "ghost",
+      "category": "special",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "This relentless attack does massive damage to a target affected by status problems."
+    },
+    {
+      "level": "47",
+      "name": "Nightmare",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "A sleeping target sees a nightmare that inflicts some damage every turn."
+    }
+  ]
+}

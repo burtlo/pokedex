@@ -1,0 +1,93 @@
+{
+  "index": 273,
+  "name": "Seedot",
+  "image_url": "http://serebii.net/xy/pokemon/273.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    273,
+    274,
+    0,
+    275
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken."
+    },
+    {
+      "level": "3",
+      "name": "Harden",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user stiffens all the muscles in its body to raise its Defense stat."
+    },
+    {
+      "level": "7",
+      "name": "Growth",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user's body grows all at once, raising the Attack and Sp. Atk stats."
+    },
+    {
+      "level": "13",
+      "name": "Nature Power",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack that makes use of nature's power. Its effects vary depending on the user's environment."
+    },
+    {
+      "level": "21",
+      "name": "Synthesis",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+    },
+    {
+      "level": "31",
+      "name": "Sunny Day",
+      "type": "fire",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user intensifies the sun for five turns, powering up Fire-type moves."
+    },
+    {
+      "level": "43",
+      "name": "Explosion",
+      "type": "normal",
+      "category": "physical",
+      "attack": "250",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user explodes to inflict damage on those around it. The user faints upon using this move."
+    }
+  ]
+}

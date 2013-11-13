@@ -1,0 +1,17 @@
+{
+  "index": 349,
+  "name": "Feebas",
+  "image_url": "http://serebii.net/xy/pokemon/349.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    349,
+    0,
+    350,
+    0
+  ],
+  "moves": [
+
+  ]
+}

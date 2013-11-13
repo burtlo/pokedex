@@ -1,0 +1,15 @@
+{
+  "index": 53,
+  "name": "Persian",
+  "image_url": "http://serebii.net/xy/pokemon/053.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    52,
+    53
+  ],
+  "moves": [
+
+  ]
+}

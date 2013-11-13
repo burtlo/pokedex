@@ -1,0 +1,16 @@
+{
+  "index": 601,
+  "name": "Klinklang",
+  "image_url": "http://serebii.net/xy/pokemon/601.png",
+  "types": [
+    "steel"
+  ],
+  "evolves_to": [
+    599,
+    600,
+    601
+  ],
+  "moves": [
+
+  ]
+}

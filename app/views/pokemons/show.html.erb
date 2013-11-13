@@ -1,0 +1,20 @@
+<div class="offset1 span9">
+  <p id="notice"><%= notice %></p>
+
+  <h1><%= @pokemon.name %> (<%= @pokemon.index %>)</h1>
+  <div>
+    <%= image_tag @pokemon.image_name %>
+  </div>
+
+  <div class="type-effects">
+    <%= render partial: "type_effect", collection: @pokemon.effective_types_against %>
+  </div>
+
+  <div class="pokemon-type">
+    <%= render partial: "type", collection: @pokemon.types %>
+  </div>
+
+  <div class="pokemon-moves">
+    <%= render partial: "move", collection: @pokemon.moves %>
+  </div>
+</div>

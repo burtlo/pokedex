@@ -1,0 +1,57 @@
+{
+  "index": 236,
+  "name": "Tyrogue",
+  "image_url": "http://serebii.net/xy/pokemon/236.png",
+  "types": [
+    "fighting"
+  ],
+  "evolves_to": [
+    236
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Helping Hand",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user assists an ally by boosting the power of its attack."
+    },
+    {
+      "level": "—",
+      "name": "Fake Out",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle."
+    },
+    {
+      "level": "—",
+      "name": "Foresight",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    }
+  ]
+}

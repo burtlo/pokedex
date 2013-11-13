@@ -1,0 +1,16 @@
+{
+  "index": 160,
+  "name": "Feraligatr",
+  "image_url": "http://serebii.net/xy/pokemon/160.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    158,
+    159,
+    160
+  ],
+  "moves": [
+
+  ]
+}

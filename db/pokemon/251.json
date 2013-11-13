@@ -1,0 +1,15 @@
+{
+  "index": 251,
+  "name": "Celebi",
+  "image_url": "http://serebii.net/xy/pokemon/251.png",
+  "types": [
+    "psychic",
+    "grass"
+  ],
+  "evolves_to": [
+    251
+  ],
+  "moves": [
+
+  ]
+}

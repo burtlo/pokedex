@@ -1,0 +1,16 @@
+{
+  "index": 502,
+  "name": "Dewott",
+  "image_url": "http://serebii.net/xy/pokemon/502.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    501,
+    502,
+    503
+  ],
+  "moves": [
+
+  ]
+}

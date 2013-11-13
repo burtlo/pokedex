@@ -1,0 +1,16 @@
+{
+  "index": 636,
+  "name": "Larvesta",
+  "image_url": "http://serebii.net/xy/pokemon/636.png",
+  "types": [
+    "bug",
+    "fire"
+  ],
+  "evolves_to": [
+    636,
+    637
+  ],
+  "moves": [
+
+  ]
+}

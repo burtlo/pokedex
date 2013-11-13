@@ -1,0 +1,123 @@
+{
+  "index": 235,
+  "name": "Smeargle",
+  "image_url": "http://serebii.net/xy/pokemon/235.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    235
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Sketch",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "1",
+      "effect_percent": "--",
+      "description": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    },
+    {
+      "level": "11",
+      "name": "Sketch",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "1",
+      "effect_percent": "--",
+      "description": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    },
+    {
+      "level": "21",
+      "name": "Sketch",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "1",
+      "effect_percent": "--",
+      "description": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    },
+    {
+      "level": "31",
+      "name": "Sketch",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "1",
+      "effect_percent": "--",
+      "description": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    },
+    {
+      "level": "41",
+      "name": "Sketch",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "1",
+      "effect_percent": "--",
+      "description": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    },
+    {
+      "level": "51",
+      "name": "Sketch",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "1",
+      "effect_percent": "--",
+      "description": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    },
+    {
+      "level": "61",
+      "name": "Sketch",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "1",
+      "effect_percent": "--",
+      "description": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    },
+    {
+      "level": "71",
+      "name": "Sketch",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "1",
+      "effect_percent": "--",
+      "description": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    },
+    {
+      "level": "81",
+      "name": "Sketch",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "1",
+      "effect_percent": "--",
+      "description": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    },
+    {
+      "level": "91",
+      "name": "Sketch",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "1",
+      "effect_percent": "--",
+      "description": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    }
+  ]
+}

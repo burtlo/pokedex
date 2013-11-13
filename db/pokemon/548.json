@@ -1,0 +1,16 @@
+{
+  "index": 548,
+  "name": "Petilil",
+  "image_url": "http://serebii.net/xy/pokemon/548.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    548,
+    0,
+    549
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "index": 619,
+  "name": "Mienfoo",
+  "image_url": "http://serebii.net/xy/pokemon/619.png",
+  "types": [
+    "fighting"
+  ],
+  "evolves_to": [
+    619,
+    620
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is physically pounded with a long tail or a foreleg, etc."
+    },
+    {
+      "level": "5",
+      "name": "Meditate",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user meditates to awaken the power deep within its body and raise its Attack stat."
+    },
+    {
+      "level": "9",
+      "name": "Detect",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "13",
+      "name": "Fake Out",
+      "type": "normal",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "100",
+      "description": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle."
+    },
+    {
+      "level": "17",
+      "name": "Double Slap",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is slapped repeatedly, back and forth, two to five times in a row."
+    },
+    {
+      "level": "21",
+      "name": "Swift",
+      "type": "normal",
+      "category": "special",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Star-shaped rays are shot at the opposing team. This attack never misses."
+    },
+    {
+      "level": "25",
+      "name": "Calm Mind",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats."
+    },
+    {
+      "level": "29",
+      "name": "Force Palm",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "30",
+      "description": "The target is attacked with a shock wave. It may also leave the target with paralysis."
+    },
+    {
+      "level": "33",
+      "name": "Drain Punch",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An energy-draining punch. The user's HP is restored by half the damage taken by the target."
+    },
+    {
+      "level": "37",
+      "name": "Jump Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "95",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself."
+    },
+    {
+      "level": "41",
+      "name": "U-turn",
+      "type": "bug",
+      "category": "physical",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+    },
+    {
+      "level": "45",
+      "name": "Quick Guard",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises."
+    },
+    {
+      "level": "49",
+      "name": "Bounce",
+      "type": "flying",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "85",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "The user bounces up high, then drops on the target on the second turn. It may also leave the target with paralysis."
+    },
+    {
+      "level": "50",
+      "name": "High Jump Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "130",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead."
+    },
+    {
+      "level": "57",
+      "name": "Reversal",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "An all-out attack that becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "61",
+      "name": "Aura Sphere",
+      "type": "fighting",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user looses a blast of aura power from deep within its body at the target. This move is certain to hit."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "index": 477,
+  "name": "Dusknoir",
+  "image_url": "http://serebii.net/xy/pokemon/477.png",
+  "types": [
+    "ghost"
+  ],
+  "evolves_to": [
+    355,
+    356,
+    0,
+    477
+  ],
+  "moves": [
+
+  ]
+}

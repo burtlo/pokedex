@@ -1,0 +1,25 @@
+{
+  "index": 225,
+  "name": "Delibird",
+  "image_url": "http://serebii.net/xy/pokemon/225.png",
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "evolves_to": [
+    225
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Present",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however."
+    }
+  ]
+}

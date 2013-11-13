@@ -1,0 +1,16 @@
+{
+  "index": 390,
+  "name": "Chimchar",
+  "image_url": "http://serebii.net/xy/pokemon/390.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    390,
+    391,
+    392
+  ],
+  "moves": [
+
+  ]
+}

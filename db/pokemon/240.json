@@ -1,0 +1,170 @@
+{
+  "index": 240,
+  "name": "Magby",
+  "image_url": "http://serebii.net/xy/pokemon/240.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    240,
+    126,
+    0,
+    467
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Smog",
+      "type": "poison",
+      "category": "special",
+      "attack": "30",
+      "accuracy": "70",
+      "pp": "20",
+      "effect_percent": "40",
+      "description": "The target is attacked with a discharge of filthy gases. It may also poison the target."
+    },
+    {
+      "level": "—",
+      "name": "Leer",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "100",
+      "description": "The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced."
+    },
+    {
+      "level": "5",
+      "name": "Ember",
+      "type": "fire",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is attacked with small flames. It may also leave the target with a burn."
+    },
+    {
+      "level": "8",
+      "name": "Smokescreen",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user releases an obscuring cloud of smoke or ink. It reduces the target's accuracy."
+    },
+    {
+      "level": "12",
+      "name": "Feint Attack",
+      "type": "dark",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user approaches the target disarmingly, then throws a sucker punch. It hits without fail."
+    },
+    {
+      "level": "15",
+      "name": "Fire Spin",
+      "type": "fire",
+      "category": "special",
+      "attack": "35",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "100",
+      "description": "The target becomes trapped within a fierce vortex of fire that rages for four to five turns."
+    },
+    {
+      "level": "19",
+      "name": "Clear Smog",
+      "type": "poison",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks by throwing a clump of special mud. All status changes are returned to normal."
+    },
+    {
+      "level": "22",
+      "name": "Flame Burst",
+      "type": "fire",
+      "category": "special",
+      "attack": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well."
+    },
+    {
+      "level": "26",
+      "name": "Confuse Ray",
+      "type": "ghost",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is exposed to a sinister ray that triggers confusion."
+    },
+    {
+      "level": "29",
+      "name": "Fire Punch",
+      "type": "fire",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is punched with a fiery fist. It may also leave the target with a burn."
+    },
+    {
+      "level": "33",
+      "name": "Lava Plume",
+      "type": "fire",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "An inferno of scarlet flames torches everything around the user. It may leave targets with a burn."
+    },
+    {
+      "level": "36",
+      "name": "Sunny Day",
+      "type": "fire",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user intensifies the sun for five turns, powering up Fire-type moves."
+    },
+    {
+      "level": "40",
+      "name": "Flamethrower",
+      "type": "fire",
+      "category": "special",
+      "attack": "90",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is scorched with an intense blast of fire. It may also leave the target with a burn."
+    },
+    {
+      "level": "43",
+      "name": "Fire Blast",
+      "type": "fire",
+      "category": "special",
+      "attack": "110",
+      "accuracy": "85",
+      "pp": "5",
+      "effect_percent": "10",
+      "description": "The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn."
+    }
+  ]
+}

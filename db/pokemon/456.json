@@ -1,0 +1,15 @@
+{
+  "index": 456,
+  "name": "Finneon",
+  "image_url": "http://serebii.net/xy/pokemon/456.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    456,
+    457
+  ],
+  "moves": [
+
+  ]
+}

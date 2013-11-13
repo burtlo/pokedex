@@ -1,0 +1,16 @@
+{
+  "index": 388,
+  "name": "Grotle",
+  "image_url": "http://serebii.net/xy/pokemon/388.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    387,
+    388,
+    389
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "index": 503,
+  "name": "Samurott",
+  "image_url": "http://serebii.net/xy/pokemon/503.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    501,
+    502,
+    503
+  ],
+  "moves": [
+
+  ]
+}

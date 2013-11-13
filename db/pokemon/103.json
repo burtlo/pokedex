@@ -1,0 +1,115 @@
+{
+  "index": 103,
+  "name": "Exeggutor",
+  "image_url": "http://serebii.net/xy/pokemon/103.png",
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "evolves_to": [
+    102,
+    0,
+    103
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Seed Bomb",
+      "type": "grass",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slams a barrage of hard-shelled seeds down on the target from above."
+    },
+    {
+      "level": "—",
+      "name": "Barrage",
+      "type": "normal",
+      "category": "physical",
+      "attack": "15",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "Round objects are hurled at the target to strike two to five times in a row."
+    },
+    {
+      "level": "—",
+      "name": "Hypnosis",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "60",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user employs hypnotic suggestion to make the target fall into a deep sleep."
+    },
+    {
+      "level": "—",
+      "name": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "10",
+      "description": "The target is hit by a weak telekinetic force. It may also leave the target confused."
+    },
+    {
+      "level": "—",
+      "name": "Stomp",
+      "type": "normal",
+      "category": "physical",
+      "attack": "65",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "30",
+      "description": "The target is stomped with a big foot. It may also make the target flinch."
+    },
+    {
+      "level": "17",
+      "name": "Psyshock",
+      "type": "psychic",
+      "category": "special",
+      "attack": "80",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user materializes an odd psychic wave to attack the target. This attack does physical damage."
+    },
+    {
+      "level": "27",
+      "name": "Egg Bomb",
+      "type": "normal",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "75",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "A large egg is hurled at the target with maximum force to inflict damage."
+    },
+    {
+      "level": "37",
+      "name": "Wood Hammer",
+      "type": "grass",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user slams its rugged body into the target to attack. The user also sustains serious damage."
+    },
+    {
+      "level": "47",
+      "name": "Leaf Storm",
+      "type": "grass",
+      "category": "special",
+      "attack": "130",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user whips up a storm of leaves around the target. The attack's recoil harshly reduces the user's Sp. Atk stat."
+    }
+  ]
+}

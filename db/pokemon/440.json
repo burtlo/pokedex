@@ -1,0 +1,17 @@
+{
+  "index": 440,
+  "name": "Happiny",
+  "image_url": "http://serebii.net/xy/pokemon/440.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    440,
+    0,
+    113,
+    242
+  ],
+  "moves": [
+
+  ]
+}

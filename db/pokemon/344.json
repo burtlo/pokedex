@@ -1,0 +1,16 @@
+{
+  "index": 344,
+  "name": "Claydol",
+  "image_url": "http://serebii.net/xy/pokemon/344.png",
+  "types": [
+    "ground",
+    "psychic"
+  ],
+  "evolves_to": [
+    343,
+    344
+  ],
+  "moves": [
+
+  ]
+}

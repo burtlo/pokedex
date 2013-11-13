@@ -1,0 +1,16 @@
+{
+  "index": 158,
+  "name": "Totodile",
+  "image_url": "http://serebii.net/xy/pokemon/158.png",
+  "types": [
+    "water"
+  ],
+  "evolves_to": [
+    158,
+    159,
+    160
+  ],
+  "moves": [
+
+  ]
+}

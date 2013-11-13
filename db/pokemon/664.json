@@ -1,0 +1,59 @@
+{
+  "index": 664,
+  "name": "Scatterbug",
+  "image_url": "http://serebii.net/xy/pokemon/664.png",
+  "types": [
+    "bug"
+  ],
+  "evolves_to": [
+    664,
+    665,
+    666
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "String Shot",
+      "type": "bug",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "95",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The targets are bound with silk blown from the user's mouth. This silk reduces the targets' Speed stat."
+    },
+    {
+      "level": "6",
+      "name": "Stun Spore",
+      "type": "grass",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "75",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user scatters a cloud of paralyzing powder. It may leave the target with paralysis."
+    },
+    {
+      "level": "15",
+      "name": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+    }
+  ]
+}

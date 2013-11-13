@@ -1,0 +1,16 @@
+{
+  "index": 599,
+  "name": "Klink",
+  "image_url": "http://serebii.net/xy/pokemon/599.png",
+  "types": [
+    "steel"
+  ],
+  "evolves_to": [
+    599,
+    600,
+    601
+  ],
+  "moves": [
+
+  ]
+}

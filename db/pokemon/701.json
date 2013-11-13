@@ -1,0 +1,201 @@
+{
+  "index": 701,
+  "name": "Hawlucha",
+  "image_url": "http://serebii.net/xy/pokemon/701.png",
+  "types": [
+    "fighting",
+    "flying"
+  ],
+  "evolves_to": [
+    701
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Detect",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "—",
+      "name": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "A physical attack in which the user charges and slams into the target with its whole body."
+    },
+    {
+      "level": "—",
+      "name": "Hone Claws",
+      "type": "dark",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user sharpens its claws to boost its Attack stat and accuracy."
+    },
+    {
+      "level": "4",
+      "name": "Karate Chop",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "50",
+      "accuracy": "100",
+      "pp": "25",
+      "effect_percent": "--",
+      "description": "The target is attacked with a sharp chop. Critical hits land more easily."
+    },
+    {
+      "level": "8",
+      "name": "Wing Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "35",
+      "effect_percent": "--",
+      "description": "The target is struck with large, imposing wings spread wide to inflict damage."
+    },
+    {
+      "level": "12",
+      "name": "Roost",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user lands and rests its body. It restores the user's HP by up to half of its max HP."
+    },
+    {
+      "level": "16",
+      "name": "Aerial Ace",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user confounds the target with speed, then slashes. The attack lands without fail."
+    },
+    {
+      "level": "20",
+      "name": "Encore",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user compels the target to keep using only the move it last used for three turns."
+    },
+    {
+      "level": "24",
+      "name": "Fling",
+      "type": "dark",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user flings its held item at the target to attack. Its power and effects depend on the item."
+    },
+    {
+      "level": "28",
+      "name": "Flying Press",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "95",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously."
+    },
+    {
+      "level": "32",
+      "name": "Bounce",
+      "type": "flying",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "85",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "The user bounces up high, then drops on the target on the second turn. It may also leave the target with paralysis."
+    },
+    {
+      "level": "36",
+      "name": "Endeavor",
+      "type": "normal",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "An attack move that cuts down the target's HP to equal the user's HP."
+    },
+    {
+      "level": "40",
+      "name": "Feather Dance",
+      "type": "flying",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user covers the target's body with a mass of down that harshly lowers its Attack stat."
+    },
+    {
+      "level": "44",
+      "name": "High Jump Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "130",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead."
+    },
+    {
+      "level": "48",
+      "name": "Sky Attack",
+      "type": "flying",
+      "category": "physical",
+      "attack": "140",
+      "accuracy": "90",
+      "pp": "5",
+      "effect_percent": "30",
+      "description": "A second-turn attack move where critical hits land more easily. It may also make the target flinch."
+    },
+    {
+      "level": "55",
+      "name": "Sky Drop",
+      "type": "flying",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky."
+    },
+    {
+      "level": "60",
+      "name": "Swords Dance",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "index": 154,
+  "name": "Meganium",
+  "image_url": "http://serebii.net/xy/pokemon/154.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    152,
+    153,
+    154
+  ],
+  "moves": [
+
+  ]
+}

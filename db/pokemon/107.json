@@ -1,0 +1,244 @@
+{
+  "index": 107,
+  "name": "Hitmonchan",
+  "image_url": "http://serebii.net/xy/pokemon/107.png",
+  "types": [
+    "fighting"
+  ],
+  "evolves_to": [
+    236
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def."
+    },
+    {
+      "level": "—",
+      "name": "Counter",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A retaliation move that counters any physical attack, inflicting double the damage taken."
+    },
+    {
+      "level": "—",
+      "name": "Focus Punch",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used."
+    },
+    {
+      "level": "—",
+      "name": "Revenge",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn."
+    },
+    {
+      "level": "—",
+      "name": "Comet Punch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "18",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The target is hit with a flurry of punches that strike two to five times in a row."
+    },
+    {
+      "level": "6",
+      "name": "Agility",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat."
+    },
+    {
+      "level": "11",
+      "name": "Pursuit",
+      "type": "dark",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double damage if used on a target that is switching out of battle."
+    },
+    {
+      "level": "16",
+      "name": "Mach Punch",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user throws a punch at blinding speed. It is certain to strike first."
+    },
+    {
+      "level": "16",
+      "name": "Bullet Punch",
+      "type": "steel",
+      "category": "physical",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user strikes the target with tough punches as fast as bullets. This move always goes first."
+    },
+    {
+      "level": "21",
+      "name": "Feint",
+      "type": "normal",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack that hits a target using Protect or Detect. It also lifts the effects of those moves."
+    },
+    {
+      "level": "26",
+      "name": "Vacuum Wave",
+      "type": "fighting",
+      "category": "special",
+      "attack": "40",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first."
+    },
+    {
+      "level": "31",
+      "name": "Quick Guard",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises."
+    },
+    {
+      "level": "36",
+      "name": "Thunder Punch",
+      "type": "electric",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is punched with an electrified fist. It may also leave the target with paralysis."
+    },
+    {
+      "level": "36",
+      "name": "Ice Punch",
+      "type": "ice",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is punched with an icy fist. It may also leave the target frozen."
+    },
+    {
+      "level": "36",
+      "name": "Fire Punch",
+      "type": "fire",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "10",
+      "description": "The target is punched with a fiery fist. It may also leave the target with a burn."
+    },
+    {
+      "level": "41",
+      "name": "Sky Uppercut",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "90",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks the target with an uppercut thrown skyward with force."
+    },
+    {
+      "level": "46",
+      "name": "Mega Punch",
+      "type": "normal",
+      "category": "physical",
+      "attack": "80",
+      "accuracy": "85",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The target is slugged by a punch thrown with muscle-packed power."
+    },
+    {
+      "level": "50",
+      "name": "Detect",
+      "type": "fighting",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "56",
+      "name": "Focus Punch",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "150",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used."
+    },
+    {
+      "level": "61",
+      "name": "Counter",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "20",
+      "effect_percent": "--",
+      "description": "A retaliation move that counters any physical attack, inflicting double the damage taken."
+    },
+    {
+      "level": "66",
+      "name": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def."
+    }
+  ]
+}

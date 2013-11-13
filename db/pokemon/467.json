@@ -1,0 +1,17 @@
+{
+  "index": 467,
+  "name": "Magmortar",
+  "image_url": "http://serebii.net/xy/pokemon/467.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    240,
+    126,
+    0,
+    467
+  ],
+  "moves": [
+
+  ]
+}

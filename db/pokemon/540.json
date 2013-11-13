@@ -1,0 +1,17 @@
+{
+  "index": 540,
+  "name": "Sewaddle",
+  "image_url": "http://serebii.net/xy/pokemon/540.png",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "evolves_to": [
+    540,
+    541,
+    542
+  ],
+  "moves": [
+
+  ]
+}

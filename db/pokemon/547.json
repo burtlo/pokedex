@@ -1,0 +1,17 @@
+{
+  "index": 547,
+  "name": "Whimsicott",
+  "image_url": "http://serebii.net/xy/pokemon/547.png",
+  "types": [
+    "grass",
+    "fairy"
+  ],
+  "evolves_to": [
+    546,
+    0,
+    547
+  ],
+  "moves": [
+
+  ]
+}

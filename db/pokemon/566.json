@@ -1,0 +1,16 @@
+{
+  "index": 566,
+  "name": "Archen",
+  "image_url": "http://serebii.net/xy/pokemon/566.png",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "evolves_to": [
+    566,
+    567
+  ],
+  "moves": [
+
+  ]
+}

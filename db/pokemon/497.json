@@ -1,0 +1,16 @@
+{
+  "index": 497,
+  "name": "Serperior",
+  "image_url": "http://serebii.net/xy/pokemon/497.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    495,
+    496,
+    497
+  ],
+  "moves": [
+
+  ]
+}

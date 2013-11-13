@@ -1,0 +1,16 @@
+{
+  "index": 387,
+  "name": "Turtwig",
+  "image_url": "http://serebii.net/xy/pokemon/387.png",
+  "types": [
+    "grass"
+  ],
+  "evolves_to": [
+    387,
+    388,
+    389
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "index": 629,
+  "name": "Vullaby",
+  "image_url": "http://serebii.net/xy/pokemon/629.png",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "evolves_to": [
+    629,
+    630
+  ],
+  "moves": [
+
+  ]
+}

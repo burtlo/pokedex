@@ -1,0 +1,233 @@
+{
+  "index": 106,
+  "name": "Hitmonlee",
+  "image_url": "http://serebii.net/xy/pokemon/106.png",
+  "types": [
+    "fighting"
+  ],
+  "evolves_to": [
+    236
+  ],
+  "moves": [
+    {
+      "level": "—",
+      "name": "Reversal",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "An all-out attack that becomes more powerful the less HP the user has."
+    },
+    {
+      "level": "—",
+      "name": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def."
+    },
+    {
+      "level": "—",
+      "name": "Mega Kick",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "75",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked by a kick launched with muscle-packed power."
+    },
+    {
+      "level": "—",
+      "name": "Revenge",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn."
+    },
+    {
+      "level": "—",
+      "name": "Double Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The target is quickly kicked twice in succession using both feet."
+    },
+    {
+      "level": "5",
+      "name": "Meditate",
+      "type": "psychic",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "The user meditates to awaken the power deep within its body and raise its Attack stat."
+    },
+    {
+      "level": "9",
+      "name": "Rolling Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "60",
+      "accuracy": "85",
+      "pp": "15",
+      "effect_percent": "30",
+      "description": "The user lashes out with a quick, spinning kick. It may also make the target flinch."
+    },
+    {
+      "level": "13",
+      "name": "Jump Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "100",
+      "accuracy": "95",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself."
+    },
+    {
+      "level": "17",
+      "name": "Brick Break",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "The user attacks with a swift chop. It can also break any barrier such as Light Screen and Reflect."
+    },
+    {
+      "level": "21",
+      "name": "Focus Energy",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "30",
+      "effect_percent": "--",
+      "description": "The user takes a deep breath and focuses so that critical hits land more easily."
+    },
+    {
+      "level": "25",
+      "name": "Feint",
+      "type": "normal",
+      "category": "physical",
+      "attack": "30",
+      "accuracy": "100",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "An attack that hits a target using Protect or Detect. It also lifts the effects of those moves."
+    },
+    {
+      "level": "29",
+      "name": "High Jump Kick",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "130",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead."
+    },
+    {
+      "level": "33",
+      "name": "Mind Reader",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The user senses the target's movements with its mind to ensure its next attack does not miss the target."
+    },
+    {
+      "level": "37",
+      "name": "Foresight",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "40",
+      "effect_percent": "--",
+      "description": "Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. It also enables an evasive target to be hit."
+    },
+    {
+      "level": "41",
+      "name": "Wide Guard",
+      "type": "rock",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chance of failing rises."
+    },
+    {
+      "level": "45",
+      "name": "Blaze Kick",
+      "type": "fire",
+      "category": "physical",
+      "attack": "85",
+      "accuracy": "90",
+      "pp": "10",
+      "effect_percent": "10",
+      "description": "The user launches a kick that lands a critical hit more easily. It may also leave the target with a burn."
+    },
+    {
+      "level": "49",
+      "name": "Endure",
+      "type": "normal",
+      "category": "other",
+      "attack": "--",
+      "accuracy": "--",
+      "pp": "10",
+      "effect_percent": "--",
+      "description": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession."
+    },
+    {
+      "level": "53",
+      "name": "Mega Kick",
+      "type": "normal",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "75",
+      "pp": "5",
+      "effect_percent": "--",
+      "description": "The target is attacked by a kick launched with muscle-packed power."
+    },
+    {
+      "level": "57",
+      "name": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "120",
+      "accuracy": "100",
+      "pp": "5",
+      "effect_percent": "100",
+      "description": "The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def."
+    },
+    {
+      "level": "61",
+      "name": "Reversal",
+      "type": "fighting",
+      "category": "physical",
+      "attack": "??",
+      "accuracy": "100",
+      "pp": "15",
+      "effect_percent": "--",
+      "description": "An all-out attack that becomes more powerful the less HP the user has."
+    }
+  ]
+}

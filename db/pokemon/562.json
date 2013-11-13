@@ -1,0 +1,15 @@
+{
+  "index": 562,
+  "name": "Yamask",
+  "image_url": "http://serebii.net/xy/pokemon/562.png",
+  "types": [
+    "ghost"
+  ],
+  "evolves_to": [
+    562,
+    563
+  ],
+  "moves": [
+
+  ]
+}

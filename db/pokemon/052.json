@@ -1,0 +1,15 @@
+{
+  "index": 52,
+  "name": "Meowth",
+  "image_url": "http://serebii.net/xy/pokemon/052.png",
+  "types": [
+    "normal"
+  ],
+  "evolves_to": [
+    52,
+    53
+  ],
+  "moves": [
+
+  ]
+}

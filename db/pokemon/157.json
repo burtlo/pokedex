@@ -1,0 +1,16 @@
+{
+  "index": 157,
+  "name": "Typhlosion",
+  "image_url": "http://serebii.net/xy/pokemon/157.png",
+  "types": [
+    "fire"
+  ],
+  "evolves_to": [
+    155,
+    156,
+    157
+  ],
+  "moves": [
+
+  ]
+}

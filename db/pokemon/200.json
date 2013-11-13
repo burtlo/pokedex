@@ -1,0 +1,16 @@
+{
+  "index": 200,
+  "name": "Misdreavus",
+  "image_url": "http://serebii.net/xy/pokemon/200.png",
+  "types": [
+    "ghost"
+  ],
+  "evolves_to": [
+    200,
+    0,
+    429
+  ],
+  "moves": [
+
+  ]
+}
