@@ -1,0 +1,27 @@
+<script id="pokemon-index-template" type="text/x-handlebars-template">
+  <div class="pokemon-entry span13">
+    <div class="description span3">
+      <h4>{{name}}</h4>
+
+      <img src="{{image}}" />
+    </div>
+    <div class="span4 effective-attack">
+    <h5>Attack With</h5>
+    {{#effectiveAttacks}}
+      <div class="attack {{name}}">
+      {{name}}
+      <div class="multiplier">(x{{multiplier}})</div>
+    </div>
+    {{/effectiveAttacks}}
+    </div>
+    <div class="span4 ineffective-attack">
+    <h5>Avoid Using</h5>
+    {{#ineffectiveAttacks}}
+      <div class="attack {{name}}">
+        {{name}}
+        <span class="multiplier">(x{{multiplier}})</span>
+      </div>
+    {{/ineffectiveAttacks}}
+    </div>
+  </div>
+</script>
