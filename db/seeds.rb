@@ -11,7 +11,7 @@ Dir["#{Rails.root}/db/pokemon/*.json"].each do |json_file|
   pokemon_json = File.read(json_file)
   data = JSON.parse(pokemon_json)
 
-  name = data["name"]
+  name = data["name"].encode('utf-8', 'iso-8859-1')
   index = data["index"]
 
   pokemon = Pokemon.find_by_index(index)
