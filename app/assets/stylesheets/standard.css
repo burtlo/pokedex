@@ -3,6 +3,10 @@ body {
   /*color: #fff;*/
 }
 
+h1 {
+  margin: 20px;
+}
+
 .pokemon-entry {
   margin-top: 10px;
   margin-bottom: 10px;
