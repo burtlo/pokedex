@@ -13,7 +13,8 @@ class PokemonsController < ApplicationController
   end
 
   def search
-    @pokemons = Pokemon.where("name LIKE ?","%#{params[:query]}%")
+    query = params[:query].gsub(/[^a-zA-Z0-9]*/,'')
+    @pokemons = Pokemon.where("LOWER(name) LIKE LOWER(?)","%#{query}%").order(:name)
     @pokemons = @pokemons.map {|p| hash_representation(p) }
     render json: { pokemon: @pokemons, query: params[:query] }
   end
