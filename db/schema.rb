@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131112061046) do
+ActiveRecord::Schema.define(version: 20131117060850) do
 
   create_table "moves", force: true do |t|
     t.integer  "level"
@@ -64,6 +64,13 @@ ActiveRecord::Schema.define(version: 20131112061046) do
     t.datetime "updated_at"
   end
 
+  create_table "type_damage_multipliers", force: true do |t|
+    t.string   "type_name"
+    t.string   "multipliers"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "type_effects", force: true do |t|
     t.integer  "type_id"
     t.integer  "other_type_id"
@@ -78,6 +85,7 @@ ActiveRecord::Schema.define(version: 20131112061046) do
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "color"
   end
 
 end

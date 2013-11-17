@@ -1,25 +1,33 @@
-<div class="offset1 span9">
-  <form class="form-search">
-    <input id="pokemon-search" type="text" class="input-medium search-query" style="width: 100%;">
-  </form>
+<div class="search span12">
+  <div class="offset2 span9">
+    <form class="form-search">
+      <input id="pokemon-search" type="text" class="input-medium search-query" style="width: 100%;">
+    </form>
+  </div>
 </div>
-
 <script id="pokemon-index-template" type="text/x-handlebars-template">
   <div class="pokemon-entry span12">
-    <h4><a href="{{url}}">{{name}}</a> ({{types}})</h4>
     <div class="span3">
-      <a href="{{url}}"><img src="{{image}}" /></a>
+      <h4>{{name}}</h4>
+
+      <img src="{{image}}" />
     </div>
-    <div class="span4">
+    <div class="span4 effective-attack">
     <h5>Attack With</h5>
     {{#effectiveAttacks}}
-      <div>{{name}} (x{{multiplier}})</div>
+      <div class="attack {{name}}">
+      {{name}}
+      <span class="multiplier">(x{{multiplier}})</span>
+    </div>
     {{/effectiveAttacks}}
     </div>
-    <div class="span4">
+    <div class="span4 ineffective-attack">
     <h5>Avoid Using</h5>
     {{#ineffectiveAttacks}}
-      <div>{{name}} (x{{multiplier}})</div>
+      <div class="attack {{name}}">
+        {{name}}
+        <span class="multiplier">(x{{multiplier}})</span>
+      </div>
     {{/ineffectiveAttacks}}
     </div>
   </div>

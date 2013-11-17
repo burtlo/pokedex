@@ -1,0 +1,31 @@
+body {
+  /*background-color: #cc0e2a;*/
+  /*color: #fff;*/
+}
+
+.pokemon-entry {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.pokemon-entry h4 {
+  font-size: 24px;
+}
+
+.pokemon-entry h5 {
+  color: #555;
+}
+
+.row-fluid [class*="span"]:first-child {
+  margin-left: 14.203px;
+}
+
+.attack {
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 3px;
+  margin: 2px;
+}
+
+.search { }

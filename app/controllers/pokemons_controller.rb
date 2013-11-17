@@ -35,8 +35,8 @@ class PokemonsController < ApplicationController
         types: p.types.map { |t| t.name }.join(","),
         image: "assets/#{p.image_name}",
         url: pokemon_url(p),
-        effectiveAttacks: p.effective_types_against.map { |atk| { name: atk.name, multiplier: atk.multiplier } },
-        ineffectiveAttacks: p.ineffective_types_against.map { |atk| { name: atk.name, multiplier: atk.multiplier } }
+        effectiveAttacks: p.effective_types_against.map { |atk| { name: atk.name, color: Type.find_by_name(atk.name).color, multiplier: atk.multiplier } },
+        ineffectiveAttacks: p.ineffective_types_against.map { |atk| { name: atk.name, color: Type.find_by_name(atk.name).color, multiplier: atk.multiplier } }
       }
     end
 end

@@ -30,6 +30,7 @@ group :doc do
 end
 
 group :test, :development do
+  gem 'quiet_assets'
   gem 'rspec-rails'
   gem 'pry'
 end
