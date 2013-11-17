@@ -5,6 +5,7 @@
     </form>
   </div>
 </div>
+
 <script id="pokemon-index-template" type="text/x-handlebars-template">
   <div class="pokemon-entry span12">
     <div class="span3">
@@ -38,11 +39,19 @@
 
 <script>
   $(function() {
+
+    $("#pokemon-search").keypress(function(e) {
+      if(e.which == 13) {
+        e.preventDefault();
+      }
+    });
+
     $("#pokemon-search").on("keyup",function(eventObj) {
 
       var searchText = $(this).val();
       console.log("searching for " + searchText);
 
+      if (eventObj.which == 13) { return; }
       if (searchText.length < 2) {
         return;
       }
