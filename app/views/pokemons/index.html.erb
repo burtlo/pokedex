@@ -14,6 +14,8 @@
 <script>
   $(function() {
 
+    lastSearchText = "";
+
     $("#pokemon-search").keypress(function(e) {
       if(e.which == 13) {
         e.preventDefault();
@@ -23,10 +25,18 @@
     $("#pokemon-search").on("keyup",function(eventObj) {
 
       var searchText = $(this).val();
+
       console.log("searching for " + searchText);
 
       if (eventObj.which == 13) { return; }
+
+      if (searchText === lastSearchText) { return; }
+
+      lastSearchText = searchText;
+
       if (searchText.length < 2) {
+        var resultsHtml = $("#pokemon-results");
+        resultsHtml.html("");
         return;
       }
 
