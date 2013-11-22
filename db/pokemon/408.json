@@ -5,9 +5,11 @@
   "types": [
     "rock"
   ],
-  "evolves_to": [
-    408,
-    409
+  "evolutions": [
+    {
+      "pokemon": 409,
+      "event": "level-30"
+    }
   ],
   "moves": [
 

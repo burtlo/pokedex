@@ -6,9 +6,8 @@
     "grass",
     "poison"
   ],
-  "evolves_to": [
-    590,
-    591
+  "evolutions": [
+
   ],
   "moves": [
     {

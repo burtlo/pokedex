@@ -6,9 +6,11 @@
     "grass",
     "steel"
   ],
-  "evolves_to": [
-    597,
-    598
+  "evolutions": [
+    {
+      "pokemon": 598,
+      "event": "level-40"
+    }
   ],
   "moves": [
     {

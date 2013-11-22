@@ -6,9 +6,11 @@
     "dark",
     "flying"
   ],
-  "evolves_to": [
-    629,
-    630
+  "evolutions": [
+    {
+      "pokemon": 630,
+      "event": "level-54"
+    }
   ],
   "moves": [
 

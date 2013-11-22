@@ -5,9 +5,8 @@
   "types": [
     "grass"
   ],
-  "evolves_to": [
-    672,
-    673
+  "evolutions": [
+
   ],
   "moves": [
     {

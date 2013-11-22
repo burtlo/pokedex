@@ -6,9 +6,8 @@
     "rock",
     "grass"
   ],
-  "evolves_to": [
-    345,
-    346
+  "evolutions": [
+
   ],
   "moves": [
     {

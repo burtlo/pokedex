@@ -6,11 +6,11 @@
     "rock",
     "ground"
   ],
-  "evolves_to": [
-    246,
-    247,
-    248,
-    248
+  "evolutions": [
+    {
+      "pokemon": 248,
+      "event": "level-55"
+    }
   ],
   "moves": [
     {

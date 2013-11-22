@@ -5,10 +5,11 @@
   "types": [
     "steel"
   ],
-  "evolves_to": [
-    599,
-    600,
-    601
+  "evolutions": [
+    {
+      "pokemon": 601,
+      "event": "level-49"
+    }
   ],
   "moves": [
 

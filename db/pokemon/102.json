@@ -6,10 +6,11 @@
     "grass",
     "psychic"
   ],
-  "evolves_to": [
-    102,
-    0,
-    103
+  "evolutions": [
+    {
+      "pokemon": 103,
+      "event": "leafstone"
+    }
   ],
   "moves": [
     {

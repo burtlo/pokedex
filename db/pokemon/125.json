@@ -5,11 +5,11 @@
   "types": [
     "electric"
   ],
-  "evolves_to": [
-    239,
-    125,
-    0,
-    466
+  "evolutions": [
+    {
+      "pokemon": 466,
+      "event": "trade-with-electirizer"
+    }
   ],
   "moves": [
     {

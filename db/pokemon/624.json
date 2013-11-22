@@ -6,9 +6,11 @@
     "dark",
     "steel"
   ],
-  "evolves_to": [
-    624,
-    625
+  "evolutions": [
+    {
+      "pokemon": 625,
+      "event": "level-52"
+    }
   ],
   "moves": [
     {

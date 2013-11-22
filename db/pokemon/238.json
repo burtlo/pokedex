@@ -6,9 +6,9 @@
     "ice",
     "psychic"
   ],
-  "evolves_to": [
-    238,
-    124
+  "evolutions": [
+    { "pokemon": 124,
+    "event": "level-30" }
   ],
   "moves": [
     {

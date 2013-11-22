@@ -6,10 +6,11 @@
     "fighting",
     "psychic"
   ],
-  "evolves_to": [
-    307,
-    308,
-    308
+  "evolutions": [
+    {
+      "pokemon": 308,
+      "event": "level-37"
+    }
   ],
   "moves": [
     {

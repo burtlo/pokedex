@@ -5,13 +5,15 @@
   "types": [
     "water"
   ],
-  "evolves_to": [
-    60,
-    61,
-    0,
-    62,
-    0,
-    186
+  "evolutions": [
+    {
+      "pokemon": 62,
+      "event": "waterstone"
+    },
+    {
+      "pokemon": 186,
+      "event": "trade-with-kingsrock"
+    }
   ],
   "moves": [
     {

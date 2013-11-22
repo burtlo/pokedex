@@ -5,10 +5,11 @@
   "types": [
     "fighting"
   ],
-  "evolves_to": [
-    447,
-    448,
-    448
+  "evolutions": [
+    {
+      "pokemon": 448,
+      "event": "happiness-in-day"
+    }
   ],
   "moves": [
     {

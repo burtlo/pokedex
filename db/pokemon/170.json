@@ -6,9 +6,11 @@
     "water",
     "electric"
   ],
-  "evolves_to": [
-    170,
-    171
+  "evolutions": [
+    {
+      "pokemon": 171,
+      "event": "level-27"
+    }
   ],
   "moves": [
     {

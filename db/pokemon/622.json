@@ -6,9 +6,11 @@
     "ground",
     "ghost"
   ],
-  "evolves_to": [
-    622,
-    623
+  "evolutions": [
+    {
+      "pokemon": 623,
+      "event": "level-43"
+    }
   ],
   "moves": [
     {

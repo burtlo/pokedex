@@ -6,9 +6,11 @@
     "rock",
     "water"
   ],
-  "evolves_to": [
-    138,
-    139
+  "evolutions": [
+    {
+      "pokemon": 139,
+      "event": "level-40"
+    }
   ],
   "moves": [
     {

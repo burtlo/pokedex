@@ -5,10 +5,8 @@
   "types": [
     "electric"
   ],
-  "evolves_to": [
-    309,
-    310,
-    310
+  "evolutions": [
+
   ],
   "moves": [
     {

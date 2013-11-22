@@ -6,9 +6,11 @@
     "water",
     "ghost"
   ],
-  "evolves_to": [
-    592,
-    593
+  "evolutions": [
+    {
+      "pokemon": 593,
+      "event": "level-40"
+    }
   ],
   "moves": [
 

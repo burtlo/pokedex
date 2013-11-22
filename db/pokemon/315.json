@@ -6,11 +6,11 @@
     "grass",
     "poison"
   ],
-  "evolves_to": [
-    406,
-    315,
-    0,
-    407
+  "evolutions": [
+    {
+      "pokemon": 407,
+      "event": "shinystone"
+    }
   ],
   "moves": [
     {

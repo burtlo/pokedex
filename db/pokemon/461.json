@@ -6,10 +6,8 @@
     "dark",
     "ice"
   ],
-  "evolves_to": [
-    215,
-    0,
-    461
+  "evolutions": [
+
   ],
   "moves": [
     {

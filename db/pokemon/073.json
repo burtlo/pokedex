@@ -6,9 +6,8 @@
     "water",
     "poison"
   ],
-  "evolves_to": [
-    72,
-    73
+  "evolutions": [
+
   ],
   "moves": [
     {

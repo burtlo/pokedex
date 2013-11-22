@@ -6,10 +6,11 @@
     "ground",
     "flying"
   ],
-  "evolves_to": [
-    207,
-    0,
-    472
+  "evolutions": [
+    {
+      "pokemon": 472,
+      "event": "level-nighttime-holding-razorfang"
+    }
   ],
   "moves": [
     {

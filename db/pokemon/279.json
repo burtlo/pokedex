@@ -6,9 +6,8 @@
     "water",
     "flying"
   ],
-  "evolves_to": [
-    278,
-    279
+  "evolutions": [
+
   ],
   "moves": [
     {

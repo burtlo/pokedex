@@ -6,10 +6,8 @@
     "water",
     "ground"
   ],
-  "evolves_to": [
-    535,
-    536,
-    537
+  "evolutions": [
+
   ],
   "moves": [
 

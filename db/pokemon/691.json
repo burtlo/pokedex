@@ -6,9 +6,8 @@
     "poison",
     "dragon"
   ],
-  "evolves_to": [
-    690,
-    691
+  "evolutions": [
+
   ],
   "moves": [
     {

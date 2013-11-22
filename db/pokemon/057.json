@@ -5,9 +5,8 @@
   "types": [
     "fighting"
   ],
-  "evolves_to": [
-    56,
-    57
+  "evolutions": [
+
   ],
   "moves": [
     {

@@ -6,11 +6,11 @@
     "grass",
     "dark"
   ],
-  "evolves_to": [
-    273,
-    274,
-    0,
-    275
+  "evolutions": [
+    {
+      "pokemon": 275,
+      "event": "leafstone"
+    }
   ],
   "moves": [
     {

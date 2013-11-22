@@ -5,9 +5,9 @@
   "types": [
     "rock"
   ],
-  "evolves_to": [
-    438,
-    185
+  "evolutions": [
+    { "pokemon": 185,
+      "event": "level-with-mimic" }
   ],
   "moves": [
     {

@@ -6,16 +6,7 @@
     "poison",
     "ground"
   ],
-  "evolves_to": [
-    0,
-    29,
-    30,
-    0,
-    31,
-    32,
-    33,
-    0,
-    34
+  "evolutions": [
   ],
   "moves": [
     {

@@ -5,10 +5,11 @@
   "types": [
     "dragon"
   ],
-  "evolves_to": [
-    147,
-    148,
-    149
+  "evolutions": [
+    {
+      "pokemon": 149,
+      "event": "level-55"
+    }
   ],
   "moves": [
     {

@@ -5,10 +5,11 @@
   "types": [
     "ghost"
   ],
-  "evolves_to": [
-    200,
-    0,
-    429
+  "evolutions": [
+    {
+      "pokemon": 429,
+      "event": "duskstone"
+    }
   ],
   "moves": [
 

@@ -5,10 +5,8 @@
   "types": [
     "fire"
   ],
-  "evolves_to": [
-    155,
-    156,
-    157
+  "evolutions": [
+
   ],
   "moves": [
 

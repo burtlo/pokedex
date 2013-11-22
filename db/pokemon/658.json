@@ -6,10 +6,8 @@
     "water",
     "dark"
   ],
-  "evolves_to": [
-    656,
-    657,
-    658
+  "evolutions": [
+
   ],
   "moves": [
     {

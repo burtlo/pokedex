@@ -6,9 +6,11 @@
     "bug",
     "flying"
   ],
-  "evolves_to": [
-    165,
-    166
+  "evolutions": [
+    {
+      "pokemon": 166,
+      "event": "level-18"
+    }
   ],
   "moves": [
     {

@@ -6,11 +6,11 @@
     "dragon",
     "ground"
   ],
-  "evolves_to": [
-    443,
-    444,
-    445,
-    445
+  "evolutions": [
+    {
+      "pokemon": 445,
+      "event": "level-48"
+    }
   ],
   "moves": [
     {

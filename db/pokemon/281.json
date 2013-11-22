@@ -6,13 +6,15 @@
     "psychic",
     "fairy"
   ],
-  "evolves_to": [
-    280,
-    281,
-    282,
-    282,
-    0,
-    475
+  "evolutions": [
+    {
+      "pokemon": 282,
+      "event": "level-30"
+    },
+    {
+      "pokemon": 475,
+      "event": "male-with-dawnstone"
+    }
   ],
   "moves": [
     {

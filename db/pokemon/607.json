@@ -6,11 +6,11 @@
     "ghost",
     "fire"
   ],
-  "evolves_to": [
-    607,
-    608,
-    0,
-    609
+  "evolutions": [
+    {
+      "pokemon": 608,
+      "event": "level-41"
+    }
   ],
   "moves": [
     {

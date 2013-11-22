@@ -5,10 +5,8 @@
   "types": [
     "normal"
   ],
-  "evolves_to": [
-    293,
-    294,
-    295
+  "evolutions": [
+
   ],
   "moves": [
     {

@@ -6,10 +6,8 @@
     "ice",
     "water"
   ],
-  "evolves_to": [
-    363,
-    364,
-    365
+  "evolutions": [
+
   ],
   "moves": [
     {

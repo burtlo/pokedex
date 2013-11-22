@@ -6,10 +6,8 @@
     "steel",
     "ground"
   ],
-  "evolves_to": [
-    95,
-    0,
-    208
+  "evolutions": [
+
   ],
   "moves": [
     {

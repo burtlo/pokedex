@@ -6,9 +6,11 @@
     "psychic",
     "flying"
   ],
-  "evolves_to": [
-    527,
-    528
+  "evolutions": [
+    {
+      "pokemon": 528,
+      "event": "happiness"
+    }
   ],
   "moves": [
     {

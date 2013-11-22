@@ -5,9 +5,11 @@
   "types": [
     "fire"
   ],
-  "evolves_to": [
-    77,
-    78
+  "evolutions": [
+    {
+      "pokemon": 78,
+      "event": "level-40"
+    }
   ],
   "moves": [
     {

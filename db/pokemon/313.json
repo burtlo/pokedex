@@ -5,10 +5,7 @@
   "types": [
     "bug"
   ],
-  "evolves_to": [
-    0,
-    313,
-    314
+  "evolutions": [
   ],
   "moves": [
     {

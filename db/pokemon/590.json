@@ -6,9 +6,11 @@
     "grass",
     "poison"
   ],
-  "evolves_to": [
-    590,
-    591
+  "evolutions": [
+    {
+      "pokemon": 591,
+      "event": "level-39"
+    }
   ],
   "moves": [
     {

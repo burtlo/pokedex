@@ -5,10 +5,11 @@
   "types": [
     "psychic"
   ],
-  "evolves_to": [
-    574,
-    575,
-    576
+  "evolutions": [
+    {
+      "pokemon": 575,
+      "event": "level-32"
+    }
   ],
   "moves": [
     {

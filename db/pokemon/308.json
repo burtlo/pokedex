@@ -6,10 +6,8 @@
     "fighting",
     "psychic"
   ],
-  "evolves_to": [
-    307,
-    308,
-    308
+  "evolutions": [
+
   ],
   "moves": [
     {

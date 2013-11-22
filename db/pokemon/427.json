@@ -5,9 +5,11 @@
   "types": [
     "normal"
   ],
-  "evolves_to": [
-    427,
-    428
+  "evolutions": [
+    {
+      "pokemon": 428,
+      "event": "happiness"
+    }
   ],
   "moves": [
 

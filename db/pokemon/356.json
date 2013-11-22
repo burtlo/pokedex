@@ -5,11 +5,11 @@
   "types": [
     "ghost"
   ],
-  "evolves_to": [
-    355,
-    356,
-    0,
-    477
+  "evolutions": [
+    {
+      "pokemon": 477,
+      "event": "trade-with-reapercloth"
+    }
   ],
   "moves": [
     {

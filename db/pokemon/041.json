@@ -6,10 +6,11 @@
     "poison",
     "flying"
   ],
-  "evolves_to": [
-    41,
-    42,
-    169
+  "evolutions": [
+    {
+      "pokemon": 42,
+      "event": "level-22"
+    }
   ],
   "moves": [
     {

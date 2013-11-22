@@ -5,13 +5,39 @@
   "types": [
     "normal"
   ],
-  "evolves_to": [
-    133,
-    0,
-    0,
-    0,
-    0,
-    0
+  "evolutions": [
+    {
+      "pokemon": 470,
+      "event": "level-near-mossrock"
+    },
+    {
+      "pokemon": 471,
+      "event": "level-near-icyrock"
+    },
+    {
+      "pokemon": 135,
+      "event": "thunderstone"
+    },
+    {
+      "pokemon": 134,
+      "event": "waterstone"
+    },
+    {
+      "pokemon": 136,
+      "event": "firestone"
+    },
+    {
+      "pokemon": 196,
+      "event": "level-with-happiness-during-day"
+    },
+    {
+      "pokemon": 197,
+      "event": "level-with-happiness-during-night"
+    },
+    {
+      "pokemon": 700,
+      "event": "level-with-happiness-and-fairy-move"
+    }
   ],
   "moves": [
     {

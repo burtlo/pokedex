@@ -5,10 +5,11 @@
   "types": [
     "grass"
   ],
-  "evolves_to": [
-    511,
-    0,
-    512
+  "evolutions": [
+    {
+      "pokemon": 512,
+      "event": "leafstone"
+    }
   ],
   "moves": [
     {

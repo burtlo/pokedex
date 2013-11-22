@@ -6,10 +6,8 @@
     "grass",
     "flying"
   ],
-  "evolves_to": [
-    187,
-    188,
-    189
+  "evolutions": [
+
   ],
   "moves": [
     {

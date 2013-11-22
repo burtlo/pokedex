@@ -5,9 +5,8 @@
   "types": [
     "dark"
   ],
-  "evolves_to": [
-    261,
-    262
+  "evolutions": [
+
   ],
   "moves": [
     {

@@ -5,10 +5,7 @@
   "types": [
 
   ],
-  "evolves_to": [
-    412,
-    413,
-    414
+  "evolutions": [
   ],
   "moves": [
     {

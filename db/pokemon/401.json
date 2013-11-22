@@ -5,9 +5,11 @@
   "types": [
     "bug"
   ],
-  "evolves_to": [
-    401,
-    402
+  "evolutions": [
+    {
+      "pokemon": 402,
+      "event": "level-10"
+    }
   ],
   "moves": [
 

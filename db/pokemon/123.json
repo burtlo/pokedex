@@ -6,11 +6,11 @@
     "bug",
     "flying"
   ],
-  "evolves_to": [
-    123,
-    0,
-    212,
-    212
+  "evolutions": [
+    {
+      "pokemon": 212,
+      "event": "trade-with-metalcoat"
+    }
   ],
   "moves": [
     {

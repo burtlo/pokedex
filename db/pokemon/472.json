@@ -6,10 +6,8 @@
     "ground",
     "flying"
   ],
-  "evolves_to": [
-    207,
-    0,
-    472
+  "evolutions": [
+
   ],
   "moves": [
     {

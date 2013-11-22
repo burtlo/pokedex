@@ -6,10 +6,8 @@
     "bug",
     "flying"
   ],
-  "evolves_to": [
-    664,
-    665,
-    666
+  "evolutions": [
+
   ],
   "moves": [
     {

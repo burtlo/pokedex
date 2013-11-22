@@ -6,9 +6,8 @@
     "bug",
     "rock"
   ],
-  "evolves_to": [
-    557,
-    558
+  "evolutions": [
+
   ],
   "moves": [
     {

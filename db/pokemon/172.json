@@ -5,11 +5,10 @@
   "types": [
     "electric"
   ],
-  "evolves_to": [
-    172,
-    25,
-    0,
-    26
+  "evolutions": [
+    { "pokemon": 25,
+      "event": "happiness"
+    }
   ],
   "moves": [
     {

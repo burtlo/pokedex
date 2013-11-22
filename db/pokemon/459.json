@@ -6,10 +6,11 @@
     "grass",
     "ice"
   ],
-  "evolves_to": [
-    459,
-    460,
-    460
+  "evolutions": [
+    {
+      "pokemon": 460,
+      "event": "level-40"
+    }
   ],
   "moves": [
     {

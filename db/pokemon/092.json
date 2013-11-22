@@ -6,11 +6,11 @@
     "ghost",
     "poison"
   ],
-  "evolves_to": [
-    92,
-    93,
-    94,
-    94
+  "evolutions": [
+    {
+      "pokemon": 93,
+      "event": "level-25"
+    }
   ],
   "moves": [
     {

@@ -5,10 +5,7 @@
   "types": [
     "grass"
   ],
-  "evolves_to": [
-    152,
-    153,
-    154
+  "evolutions": [
   ],
   "moves": [
 

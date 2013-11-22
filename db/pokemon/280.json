@@ -6,13 +6,11 @@
     "psychic",
     "fairy"
   ],
-  "evolves_to": [
-    280,
-    281,
-    282,
-    282,
-    0,
-    475
+  "evolutions": [
+    {
+      "pokemon": 281,
+      "event": "level-20"
+    }
   ],
   "moves": [
     {

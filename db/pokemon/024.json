@@ -5,9 +5,8 @@
   "types": [
     "poison"
   ],
-  "evolves_to": [
-    23,
-    24
+  "evolutions": [
+
   ],
   "moves": [
     {

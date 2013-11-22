@@ -6,9 +6,11 @@
     "fire",
     "normal"
   ],
-  "evolves_to": [
-    667,
-    668
+  "evolutions": [
+    {
+      "pokemon": 668,
+      "event": "level-35"
+    }
   ],
   "moves": [
     {

@@ -6,9 +6,11 @@
     "water",
     "flying"
   ],
-  "evolves_to": [
-    278,
-    279
+  "evolutions": [
+    {
+      "pokemon": 279,
+      "event": "level-25"
+    }
   ],
   "moves": [
     {

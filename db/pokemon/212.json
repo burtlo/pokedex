@@ -6,11 +6,8 @@
     "bug",
     "steel"
   ],
-  "evolves_to": [
-    123,
-    0,
-    212,
-    212
+  "evolutions": [
+
   ],
   "moves": [
     {

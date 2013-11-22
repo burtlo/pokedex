@@ -5,9 +5,11 @@
   "types": [
     "fairy"
   ],
-  "evolves_to": [
-    209,
-    210
+  "evolutions": [
+    {
+      "pokemon": 210,
+      "event": "level-23"
+    }
   ],
   "moves": [
     {

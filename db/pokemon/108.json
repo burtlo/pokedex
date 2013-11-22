@@ -5,9 +5,11 @@
   "types": [
     "normal"
   ],
-  "evolves_to": [
-    108,
-    463
+  "evolutions": [
+    {
+      "pokemon": 463,
+      "event": "level-with-rollout"
+    }
   ],
   "moves": [
     {

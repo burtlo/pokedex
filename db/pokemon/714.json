@@ -6,9 +6,11 @@
     "flying",
     "dragon"
   ],
-  "evolves_to": [
-    714,
-    715
+  "evolutions": [
+    {
+      "pokemon": 715,
+      "event": "level-48"
+    }
   ],
   "moves": [
     {

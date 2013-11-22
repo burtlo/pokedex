@@ -6,9 +6,11 @@
     "ghost",
     "grass"
   ],
-  "evolves_to": [
-    708,
-    709
+  "evolutions": [
+    {
+      "pokemon": 709,
+      "event": "trade"
+    }
   ],
   "moves": [
     {

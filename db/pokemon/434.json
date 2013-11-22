@@ -6,9 +6,11 @@
     "poison",
     "dark"
   ],
-  "evolves_to": [
-    434,
-    435
+  "evolutions": [
+    {
+      "pokemon": 435,
+      "event": "level-34"
+    }
   ],
   "moves": [
     {

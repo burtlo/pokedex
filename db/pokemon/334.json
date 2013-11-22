@@ -6,9 +6,8 @@
     "dragon",
     "flying"
   ],
-  "evolves_to": [
-    333,
-    334
+  "evolutions": [
+
   ],
   "moves": [
     {

@@ -14,6 +14,7 @@
     </div>
     {{/effectiveAttacks}}
     </div>
+
     <div class="span4 ineffective-attack">
     <h5>Avoid Using</h5>
     {{#ineffectiveAttacks}}
@@ -23,5 +24,17 @@
       </div>
     {{/ineffectiveAttacks}}
     </div>
+
+    <div class="span10 ineffective-attack">
+    <h5>Evolutions</h5>
+    {{#evolutions}}
+      <div class="attack poison">
+        <h4>{{name}}</h4>
+        <img src="{{image}}" />
+        <span class="multiplier">({{event}})</span>
+      </div>
+    {{/evolutions}}
+    </div>
+
   </div>
 </script>

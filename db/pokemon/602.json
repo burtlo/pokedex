@@ -5,11 +5,11 @@
   "types": [
     "electric"
   ],
-  "evolves_to": [
-    602,
-    603,
-    0,
-    604
+  "evolutions": [
+    {
+      "pokemon": 603,
+      "event": "level-39"
+    }
   ],
   "moves": [
 

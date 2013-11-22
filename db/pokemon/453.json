@@ -6,9 +6,11 @@
     "poison",
     "fighting"
   ],
-  "evolves_to": [
-    453,
-    454
+  "evolutions": [
+    {
+      "pokemon": 454,
+      "event": "level-37"
+    }
   ],
   "moves": [
     {

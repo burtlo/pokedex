@@ -5,11 +5,11 @@
   "types": [
     "water"
   ],
-  "evolves_to": [
-    116,
-    117,
-    0,
-    230
+  "evolutions": [
+    {
+      "pokemon": 230,
+      "event": "trade-with-dragonscale"
+    }
   ],
   "moves": [
     {

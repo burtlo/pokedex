@@ -6,9 +6,11 @@
     "bug",
     "flying"
   ],
-  "evolves_to": [
-    415,
-    416
+  "evolutions": [
+    {
+      "pokemon": 416,
+      "event": "l21-female"
+    }
   ],
   "moves": [
     {

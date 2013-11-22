@@ -6,11 +6,11 @@
     "steel",
     "rock"
   ],
-  "evolves_to": [
-    304,
-    305,
-    306,
-    306
+  "evolutions": [
+    {
+      "pokemon": 305,
+      "event": "level-32"
+    }
   ],
   "moves": [
     {

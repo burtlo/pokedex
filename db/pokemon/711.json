@@ -6,9 +6,8 @@
     "ghost",
     "grass"
   ],
-  "evolves_to": [
-    710,
-    711
+  "evolutions": [
+
   ],
   "moves": [
     {

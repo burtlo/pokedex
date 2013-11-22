@@ -6,9 +6,11 @@
     "steel",
     "psychic"
   ],
-  "evolves_to": [
-    436,
-    437
+  "evolutions": [
+    {
+      "pokemon": 437,
+      "event": "level-33"
+    }
   ],
   "moves": [
 

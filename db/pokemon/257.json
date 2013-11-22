@@ -6,11 +6,8 @@
     "fire",
     "fighting"
   ],
-  "evolves_to": [
-    255,
-    256,
-    257,
-    257
+  "evolutions": [
+
   ],
   "moves": [
     {

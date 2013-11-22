@@ -6,9 +6,11 @@
     "water",
     "poison"
   ],
-  "evolves_to": [
-    72,
-    73
+  "evolutions": [
+    {
+      "pokemon": 73,
+      "event": "level-30"
+    }
   ],
   "moves": [
     {

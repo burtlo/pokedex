@@ -6,10 +6,8 @@
     "rock",
     "ground"
   ],
-  "evolves_to": [
-    74,
-    75,
-    76
+  "evolutions": [
+
   ],
   "moves": [
     {

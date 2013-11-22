@@ -5,9 +5,11 @@
   "types": [
     "grass"
   ],
-  "evolves_to": [
-    114,
-    465
+  "evolutions": [
+    {
+      "pokemon": 465,
+      "event": "level-with-ancientpower"
+    }
   ],
   "moves": [
     {

@@ -6,10 +6,8 @@
     "water",
     "psychic"
   ],
-  "evolves_to": [
-    120,
-    0,
-    121
+  "evolutions": [
+
   ],
   "moves": [
     {

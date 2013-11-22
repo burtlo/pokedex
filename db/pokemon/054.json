@@ -5,9 +5,11 @@
   "types": [
     "water"
   ],
-  "evolves_to": [
-    54,
-    55
+  "evolutions": [
+    {
+      "pokemon": 55,
+      "event": "level-33"
+    }
   ],
   "moves": [
     {

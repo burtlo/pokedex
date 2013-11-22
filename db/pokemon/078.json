@@ -5,9 +5,8 @@
   "types": [
     "fire"
   ],
-  "evolves_to": [
-    77,
-    78
+  "evolutions": [
+
   ],
   "moves": [
     {

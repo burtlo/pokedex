@@ -5,11 +5,15 @@
   "types": [
     "ice"
   ],
-  "evolves_to": [
-    361,
-    362,
-    0,
-    478
+  "evolutions": [
+    {
+      "pokemon": 362,
+      "event": "level-42"
+    },
+    {
+      "pokemon": 478,
+      "event": "female-with-dawnstone"
+    }
   ],
   "moves": [
     {

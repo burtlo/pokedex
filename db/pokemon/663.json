@@ -6,10 +6,8 @@
     "fire",
     "flying"
   ],
-  "evolves_to": [
-    661,
-    662,
-    663
+  "evolutions": [
+
   ],
   "moves": [
     {

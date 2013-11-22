@@ -5,8 +5,13 @@
   "types": [
     "fighting"
   ],
-  "evolves_to": [
-    236
+  "evolutions": [
+    { "pokemon": 106,
+      "event":  "attack > defense"},
+    { "pokemon": 107,
+      "event":  "attack < defense"},
+    { "pokemon": 237,
+      "event":  "attack = defense"}
   ],
   "moves": [
     {

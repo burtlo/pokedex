@@ -5,9 +5,11 @@
   "types": [
     "ice"
   ],
-  "evolves_to": [
-    613,
-    614
+  "evolutions": [
+    {
+      "pokemon": 614,
+      "event": "level-37"
+    }
   ],
   "moves": [
     {

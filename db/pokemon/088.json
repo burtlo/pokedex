@@ -5,9 +5,11 @@
   "types": [
     "poison"
   ],
-  "evolves_to": [
-    88,
-    89
+  "evolutions": [
+    {
+      "pokemon": 89,
+      "event": "level-38"
+    }
   ],
   "moves": [
     {

@@ -1,57 +1,6 @@
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rake db:seed (or created alongside the db with db:setup).
 #
-# Examples:
-#
-#   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
-#   Mayor.create(name: 'Emanuel', city: cities.first)
-#
-
-Dir["#{Rails.root}/db/pokemon/*.json"].each do |json_file|
-  pokemon_json = File.read(json_file)
-  data = JSON.parse(pokemon_json)
-
-  name = data["name"].encode('utf-8', 'iso-8859-1')
-  index = data["index"]
-
-  pokemon = Pokemon.find_by_index(index)
-
-  if pokemon.nil?
-    puts "Creating:#{name}"
-    pokemon = Pokemon.new(name: name,index: index)
-  end
-
-  # generate types if types are not present
-  types = data["types"].map do |type_name|
-    Type.find_by_name(type_name) || Type.create(name: type_name)
-  end
-
-  pokemon.types = types
-
-  moves = data["moves"].map do |move_data|
-    type_name = move_data["type"]
-    type = Type.find_by_name(type_name) || Type.create(name: type_name)
-
-    Move.find_by_name(move_data["name"]) || begin
-      puts "Creating Move: #{move_data["name"]}"
-      Move.create(
-        level: move_data["level"].to_i,
-        name: move_data["name"],
-        type_id: type.id,
-        category: move_data["category"],
-        attack: move_data["attack"].to_i,
-        accuracy: move_data["accuracy"].to_i,
-        points: move_data["pp"].to_i,
-        effect_percent: move_data["effect_percent"].to_i,
-        description: move_data["description"])
-    end
-  end
-
-  pokemon.moves = moves
-
-  pokemon.save
-
-end
 
 def type_names
   %w[ normal fighting flying poison ground
@@ -220,29 +169,93 @@ set_type_effect_to("fairy","dragon",2.0)
 set_type_effect_to("fairy","dark",2.0)
 
 
-types_to_colors = { normal: "a8a878",
-  fighting: "c03028",
-  flying: "a890f0",
-  poison: "a040a0",
-  ground: "e0c068",
-  rock: "b8a038",
-  bug: "a8b820",
-  ghost: "705898",
-  steel: "b8b8d0",
-  fire: "f08030",
-  water: "6890f0",
-  grass: "78c850",
-  electric: "f8d030",
-  psychic: "f85888",
-  ice: "98d8d8",
-  dragon: "7038f8",
-  dark: "705848",
-  fairy: "ee99ac"
-   }
+# types_to_colors = { normal: "a8a878",
+#   fighting: "c03028",
+#   flying: "a890f0",
+#   poison: "a040a0",
+#   ground: "e0c068",
+#   rock: "b8a038",
+#   bug: "a8b820",
+#   ghost: "705898",
+#   steel: "b8b8d0",
+#   fire: "f08030",
+#   water: "6890f0",
+#   grass: "78c850",
+#   electric: "f8d030",
+#   psychic: "f85888",
+#   ice: "98d8d8",
+#   dragon: "7038f8",
+#   dark: "705848",
+#   fairy: "ee99ac"
+#    }
 
-types_to_colors.each do |type_name,color|
-  puts "Setting type color: #{type_name} to #{color}"
-  type = Type.find_by_name(type_name)
-  type.color = color
-  type.save
+# types_to_colors.each do |type_name,color|
+#   puts "Setting type color: #{type_name} to #{color}"
+#   type = Type.find_by_name(type_name)
+#   type.color = color
+#   type.save
+# end
+
+pokemon_filepath = "#{Rails.root}/db/pokemon/*.json"
+
+Dir[pokemon_filepath].each do |json_file|
+
+  pokemon_json = File.read(json_file)
+  data = JSON.parse(pokemon_json)
+
+  name = data["name"].encode('utf-8', 'iso-8859-1')
+  index = data["index"]
+
+  puts "Building Pokemon: #{name} (#{index})"
+
+  pokemon = Pokemon.find_by_index(index)
+
+  if pokemon.nil?
+    puts "Creating:#{name}"
+    pokemon = Pokemon.new(name: name,index: index)
+  end
+
+  # generate types if types are not present
+
+  types = data["types"].map do |type_name|
+    Type.find_by_name(type_name) || Type.create(name: type_name)
+  end
+
+  pokemon.types = types
+
+  moves = data["moves"].map do |move_data|
+    type_name = move_data["type"]
+    type = Type.find_by_name(type_name) || Type.create(name: type_name)
+
+    Move.find_by_name(move_data["name"]) || begin
+      puts "Creating Move: #{move_data["name"]}"
+      Move.create(
+        level: move_data["level"].to_i,
+        name: move_data["name"],
+        type_id: type.id,
+        category: move_data["category"],
+        attack: move_data["attack"].to_i,
+        accuracy: move_data["accuracy"].to_i,
+        points: move_data["pp"].to_i,
+        effect_percent: move_data["effect_percent"].to_i,
+        description: move_data["description"])
+    end
+  end
+
+  pokemon.moves = moves
+
+  #
+  # Evolutions
+  #
+
+  data["evolutions"].each do |evolution|
+
+    pokemon.pokemon_evolutions.create evolves_to: evolution["pokemon"],
+      event: evolution["event"]
+
+  end
+
+
+  pokemon.save
+
 end

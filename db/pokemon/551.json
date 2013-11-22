@@ -6,10 +6,11 @@
     "ground",
     "dark"
   ],
-  "evolves_to": [
-    551,
-    552,
-    553
+  "evolutions": [
+    {
+      "pokemon": 552,
+      "event": "level-29"
+    }
   ],
   "moves": [
     {

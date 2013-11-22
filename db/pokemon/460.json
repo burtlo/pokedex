@@ -6,10 +6,8 @@
     "grass",
     "ice"
   ],
-  "evolves_to": [
-    459,
-    460,
-    460
+  "evolutions": [
+
   ],
   "moves": [
     {

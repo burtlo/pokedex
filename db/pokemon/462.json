@@ -6,10 +6,8 @@
     "electric",
     "steel"
   ],
-  "evolves_to": [
-    81,
-    82,
-    462
+  "evolutions": [
+
   ],
   "moves": [
     {

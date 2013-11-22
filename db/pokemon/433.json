@@ -5,9 +5,10 @@
   "types": [
     "psychic"
   ],
-  "evolves_to": [
-    433,
-    358
+  "evolutions": [
+    { "pokemon": 433,
+      "event": "level-happiness-at-night"
+    }
   ],
   "moves": [
     {

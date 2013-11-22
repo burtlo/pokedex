@@ -6,9 +6,8 @@
     "water",
     "electric"
   ],
-  "evolves_to": [
-    170,
-    171
+  "evolutions": [
+
   ],
   "moves": [
     {

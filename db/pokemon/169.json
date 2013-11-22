@@ -6,10 +6,8 @@
     "poison",
     "flying"
   ],
-  "evolves_to": [
-    41,
-    42,
-    169
+  "evolutions": [
+
   ],
   "moves": [
     {

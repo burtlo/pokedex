@@ -6,11 +6,8 @@
     "water",
     "grass"
   ],
-  "evolves_to": [
-    270,
-    271,
-    0,
-    272
+  "evolutions": [
+
   ],
   "moves": [
     {

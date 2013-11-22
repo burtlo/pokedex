@@ -6,9 +6,8 @@
     "rock",
     "ice"
   ],
-  "evolves_to": [
-    698,
-    699
+  "evolutions": [
+
   ],
   "moves": [
     {

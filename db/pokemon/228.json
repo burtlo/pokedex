@@ -6,10 +6,11 @@
     "dark",
     "fire"
   ],
-  "evolves_to": [
-    228,
-    229,
-    229
+  "evolutions": [
+    {
+      "pokemon": 229,
+      "event": "level-24"
+    }
   ],
   "moves": [
     {

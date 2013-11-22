@@ -5,9 +5,11 @@
   "types": [
     "fighting"
   ],
-  "evolves_to": [
-    56,
-    57
+  "evolutions": [
+    {
+      "pokemon": 57,
+      "event": "level-28"
+    }
   ],
   "moves": [
     {

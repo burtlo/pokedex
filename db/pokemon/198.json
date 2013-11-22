@@ -6,10 +6,11 @@
     "dark",
     "flying"
   ],
-  "evolves_to": [
-    198,
-    0,
-    430
+  "evolutions": [
+    {
+      "pokemon": 430,
+      "event": "duskstone"
+    }
   ],
   "moves": [
     {

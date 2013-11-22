@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131117065648) do
+ActiveRecord::Schema.define(version: 20131122041229) do
 
   create_table "moves", force: true do |t|
     t.integer  "level"
@@ -33,6 +33,8 @@ ActiveRecord::Schema.define(version: 20131117065648) do
     t.integer  "pokemon_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "evolves_to"
+    t.text     "event"
   end
 
   add_index "pokemon_evolutions", ["pokemon_id"], name: "index_pokemon_evolutions_on_pokemon_id"

@@ -6,9 +6,8 @@
     "grass",
     "fighting"
   ],
-  "evolves_to": [
-    285,
-    286
+  "evolutions": [
+
   ],
   "moves": [
     {

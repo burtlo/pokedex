@@ -5,10 +5,8 @@
   "types": [
     "rock"
   ],
-  "evolves_to": [
-    524,
-    525,
-    526
+  "evolutions": [
+
   ],
   "moves": [
     {

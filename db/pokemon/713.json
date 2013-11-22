@@ -5,9 +5,8 @@
   "types": [
     "ice"
   ],
-  "evolves_to": [
-    712,
-    713
+  "evolutions": [
+
   ],
   "moves": [
     {

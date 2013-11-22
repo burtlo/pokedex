@@ -6,10 +6,8 @@
     "normal",
     "flying"
   ],
-  "evolves_to": [
-    16,
-    17,
-    18
+  "evolutions": [
+
   ],
   "moves": [
     {

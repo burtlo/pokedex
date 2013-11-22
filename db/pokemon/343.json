@@ -6,9 +6,11 @@
     "ground",
     "psychic"
   ],
-  "evolves_to": [
-    343,
-    344
+  "evolutions": [
+    {
+      "pokemon": 344,
+      "event": "level-36"
+    }
   ],
   "moves": [
 

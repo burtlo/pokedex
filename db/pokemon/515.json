@@ -5,10 +5,11 @@
   "types": [
     "water"
   ],
-  "evolves_to": [
-    515,
-    0,
-    516
+  "evolutions": [
+    {
+      "pokemon": 516,
+      "event": "waterstone"
+    }
   ],
   "moves": [
     {

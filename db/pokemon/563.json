@@ -5,9 +5,8 @@
   "types": [
     "ghost"
   ],
-  "evolves_to": [
-    562,
-    563
+  "evolutions": [
+
   ],
   "moves": [
 

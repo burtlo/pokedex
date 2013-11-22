@@ -5,9 +5,11 @@
   "types": [
     "fighting"
   ],
-  "evolves_to": [
-    674,
-    675
+  "evolutions": [
+    {
+      "pokemon": 675,
+      "event": "l32-with-dark-pokemon-in-team"
+    }
   ],
   "moves": [
     {

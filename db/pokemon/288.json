@@ -5,10 +5,11 @@
   "types": [
     "normal"
   ],
-  "evolves_to": [
-    287,
-    288,
-    289
+  "evolutions": [
+    {
+      "pokemon": 289,
+      "event": "level-36"
+    }
   ],
   "moves": [
 

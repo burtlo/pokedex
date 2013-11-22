@@ -6,10 +6,11 @@
     "electric",
     "steel"
   ],
-  "evolves_to": [
-    81,
-    82,
-    462
+  "evolutions": [
+    {
+      "pokemon": 462,
+      "event": "level-near-electric-rock"
+    }
   ],
   "moves": [
     {

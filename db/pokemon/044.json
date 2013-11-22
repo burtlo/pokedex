@@ -6,13 +6,15 @@
     "grass",
     "poison"
   ],
-  "evolves_to": [
-    43,
-    44,
-    0,
-    45,
-    0,
-    182
+  "evolutions": [
+    {
+      "pokemon": 45,
+      "event": "leafstone"
+    },
+    {
+      "pokemon": 182,
+      "event" : "sunstone"
+    }
   ],
   "moves": [
     {

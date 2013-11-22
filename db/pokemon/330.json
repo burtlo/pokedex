@@ -6,10 +6,8 @@
     "ground",
     "dragon"
   ],
-  "evolves_to": [
-    328,
-    329,
-    330
+  "evolutions": [
+
   ],
   "moves": [
     {

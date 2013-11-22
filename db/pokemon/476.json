@@ -6,9 +6,8 @@
     "rock",
     "steel"
   ],
-  "evolves_to": [
-    299,
-    476
+  "evolutions": [
+
   ],
   "moves": [
     {

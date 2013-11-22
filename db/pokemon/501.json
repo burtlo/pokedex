@@ -5,10 +5,11 @@
   "types": [
     "water"
   ],
-  "evolves_to": [
-    501,
-    502,
-    503
+  "evolutions": [
+    {
+      "pokemon": 502,
+      "event": "level-17"
+    }
   ],
   "moves": [
 

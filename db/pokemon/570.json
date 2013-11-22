@@ -5,9 +5,11 @@
   "types": [
     "dark"
   ],
-  "evolves_to": [
-    570,
-    571
+  "evolutions": [
+    {
+      "pokemon": 571,
+      "event": "level-30"
+    }
   ],
   "moves": [
     {

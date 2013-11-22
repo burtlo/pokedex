@@ -6,9 +6,8 @@
     "rock",
     "dragon"
   ],
-  "evolves_to": [
-    696,
-    697
+  "evolutions": [
+
   ],
   "moves": [
     {

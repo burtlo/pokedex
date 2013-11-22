@@ -5,10 +5,11 @@
   "types": [
     "grass"
   ],
-  "evolves_to": [
-    252,
-    253,
-    254
+  "evolutions": [
+    {
+      "pokemon": 253,
+      "event": "level-16"
+    }
   ],
   "moves": [
 

@@ -6,9 +6,8 @@
     "normal",
     "water"
   ],
-  "evolves_to": [
-    399,
-    400
+  "evolutions": [
+
   ],
   "moves": [
     {

@@ -6,9 +6,8 @@
     "water",
     "ice"
   ],
-  "evolves_to": [
-    86,
-    87
+  "evolutions": [
+
   ],
   "moves": [
     {

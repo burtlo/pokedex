@@ -6,9 +6,11 @@
     "rock",
     "grass"
   ],
-  "evolves_to": [
-    345,
-    346
+  "evolutions": [
+    {
+      "pokemon": 346,
+      "event": "level-40"
+    }
   ],
   "moves": [
     {

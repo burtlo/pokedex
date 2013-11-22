@@ -6,11 +6,8 @@
     "ghost",
     "poison"
   ],
-  "evolves_to": [
-    92,
-    93,
-    94,
-    94
+  "evolutions": [
+
   ],
   "moves": [
     {

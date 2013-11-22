@@ -6,9 +6,8 @@
     "rock",
     "water"
   ],
-  "evolves_to": [
-    140,
-    141
+  "evolutions": [
+
   ],
   "moves": [
     {

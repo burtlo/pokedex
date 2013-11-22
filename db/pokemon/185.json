@@ -5,9 +5,7 @@
   "types": [
     "rock"
   ],
-  "evolves_to": [
-    438,
-    185
+  "evolutions": [
   ],
   "moves": [
     {

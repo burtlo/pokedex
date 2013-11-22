@@ -6,9 +6,11 @@
     "bug",
     "fire"
   ],
-  "evolves_to": [
-    636,
-    637
+  "evolutions": [
+    {
+      "pokemon": 637,
+      "event": "level-59"
+    }
   ],
   "moves": [
 

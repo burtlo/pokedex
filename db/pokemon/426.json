@@ -6,9 +6,8 @@
     "ghost",
     "flying"
   ],
-  "evolves_to": [
-    425,
-    426
+  "evolutions": [
+
   ],
   "moves": [
     {

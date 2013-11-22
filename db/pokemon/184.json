@@ -6,10 +6,7 @@
     "water",
     "fairy"
   ],
-  "evolves_to": [
-    298,
-    183,
-    184
+  "evolutions": [
   ],
   "moves": [
     {

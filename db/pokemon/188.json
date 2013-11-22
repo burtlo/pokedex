@@ -6,10 +6,11 @@
     "grass",
     "flying"
   ],
-  "evolves_to": [
-    187,
-    188,
-    189
+  "evolutions": [
+    {
+      "pokemon": 189,
+      "event": "level-27"
+    }
   ],
   "moves": [
     {

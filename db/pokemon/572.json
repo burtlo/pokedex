@@ -5,10 +5,11 @@
   "types": [
     "normal"
   ],
-  "evolves_to": [
-    572,
-    0,
-    573
+  "evolutions": [
+    {
+      "pokemon": 573,
+      "event": "shinystone"
+    }
   ],
   "moves": [
 

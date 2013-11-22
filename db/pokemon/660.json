@@ -6,9 +6,8 @@
     "normal",
     "ground"
   ],
-  "evolves_to": [
-    659,
-    660
+  "evolutions": [
+
   ],
   "moves": [
     {

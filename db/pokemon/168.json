@@ -6,9 +6,8 @@
     "bug",
     "poison"
   ],
-  "evolves_to": [
-    167,
-    168
+  "evolutions": [
+
   ],
   "moves": [
     {

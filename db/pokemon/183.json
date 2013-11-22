@@ -6,10 +6,11 @@
     "water",
     "fairy"
   ],
-  "evolves_to": [
-    298,
-    183,
-    184
+  "evolutions": [
+    {
+      "pokemon": 184,
+      "event": "level-18"
+    }
   ],
   "moves": [
     {

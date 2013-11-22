@@ -6,9 +6,11 @@
     "bug",
     "grass"
   ],
-  "evolves_to": [
-    46,
-    47
+  "evolutions": [
+    {
+      "pokemon": 47,
+      "event": "level-24"
+    }
   ],
   "moves": [
     {

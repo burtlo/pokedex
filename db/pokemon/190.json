@@ -5,9 +5,11 @@
   "types": [
     "normal"
   ],
-  "evolves_to": [
-    190,
-    424
+  "evolutions": [
+    {
+      "pokemon": 424,
+      "event": "level-with-doublehit"
+    }
   ],
   "moves": [
     {

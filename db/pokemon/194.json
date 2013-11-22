@@ -6,9 +6,11 @@
     "water",
     "ground"
   ],
-  "evolves_to": [
-    194,
-    195
+  "evolutions": [
+    {
+      "pokemon": 195,
+      "event": "level-20"
+    }
   ],
   "moves": [
     {

@@ -6,9 +6,8 @@
     "rock",
     "flying"
   ],
-  "evolves_to": [
-    142,
-    142
+  "evolutions": [
+
   ],
   "moves": [
     {

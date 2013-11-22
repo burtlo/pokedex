@@ -5,9 +5,8 @@
   "types": [
     "ground"
   ],
-  "evolves_to": [
-    449,
-    450
+  "evolutions": [
+
   ],
   "moves": [
     {

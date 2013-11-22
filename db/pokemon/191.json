@@ -5,10 +5,11 @@
   "types": [
     "grass"
   ],
-  "evolves_to": [
-    191,
-    0,
-    192
+  "evolutions": [
+    {
+      "pokemon": 192,
+      "event": "sunstone"
+    }
   ],
   "moves": [
     {

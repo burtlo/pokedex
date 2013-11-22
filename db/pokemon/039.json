@@ -6,11 +6,11 @@
     "normal",
     "fairy"
   ],
-  "evolves_to": [
-    174,
-    39,
-    0,
-    40
+  "evolutions": [
+    {
+      "pokemon": 40,
+      "event": "moonstone"
+    }
   ],
   "moves": [
     {

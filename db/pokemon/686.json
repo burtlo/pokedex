@@ -6,9 +6,11 @@
     "dark",
     "psychic"
   ],
-  "evolves_to": [
-    686,
-    687
+  "evolutions": [
+    {
+      "pokemon": 687,
+      "event": "l30-with-3ds-upside-down"
+    }
   ],
   "moves": [
     {

@@ -5,10 +5,8 @@
   "types": [
     "dragon"
   ],
-  "evolves_to": [
-    610,
-    611,
-    612
+  "evolutions": [
+
   ],
   "moves": [
     {

@@ -5,11 +5,11 @@
   "types": [
     "psychic"
   ],
-  "evolves_to": [
-    63,
-    64,
-    65,
-    65
+  "evolutions": [
+    {
+      "pokemon": 65,
+      "event": "trade"
+    }
   ],
   "moves": [
     {

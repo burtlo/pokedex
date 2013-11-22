@@ -5,11 +5,11 @@
   "types": [
     "fairy"
   ],
-  "evolves_to": [
-    175,
-    176,
-    0,
-    468
+  "evolutions": [
+    {
+      "pokemon": 176,
+      "event": "happiness"
+    }
   ],
   "moves": [
     {

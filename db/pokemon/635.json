@@ -6,10 +6,8 @@
     "dark",
     "dragon"
   ],
-  "evolves_to": [
-    633,
-    634,
-    635
+  "evolutions": [
+
   ],
   "moves": [
     {

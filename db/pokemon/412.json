@@ -5,10 +5,15 @@
   "types": [
     "bug"
   ],
-  "evolves_to": [
-    412,
-    413,
-    414
+  "evolutions": [
+    {
+      "pokemon": 413,
+      "event": "l20-female"
+    },
+    {
+      "pokemon": 414,
+      "event": "l20-male"
+    }
   ],
   "moves": [
     {

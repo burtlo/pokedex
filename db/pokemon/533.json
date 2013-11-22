@@ -5,10 +5,11 @@
   "types": [
     "fighting"
   ],
-  "evolves_to": [
-    532,
-    533,
-    534
+  "evolutions": [
+    {
+      "pokemon": 534,
+      "event": "trade"
+    }
   ],
   "moves": [
     {

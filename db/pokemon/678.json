@@ -5,9 +5,8 @@
   "types": [
     "psychic"
   ],
-  "evolves_to": [
-    677,
-    678
+  "evolutions": [
+
   ],
   "moves": [
     {

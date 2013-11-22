@@ -5,11 +5,15 @@
   "types": [
     "water"
   ],
-  "evolves_to": [
-    349,
-    0,
-    350,
-    0
+  "evolutions": [
+    {
+      "pokemon": 350,
+      "event": "level-with-max-beauty"
+    },
+    {
+      "pokemon": 350,
+      "event": "trade-with-prism-scale"
+    }
   ],
   "moves": [
 

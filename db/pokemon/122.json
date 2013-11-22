@@ -6,9 +6,11 @@
     "psychic",
     "fairy"
   ],
-  "evolves_to": [
-    439,
-    122
+  "evolutions": [
+    {
+      "pokemon": 439,
+      "event": "level-with-mimic"
+    }
   ],
   "moves": [
     {

@@ -6,10 +6,8 @@
     "electric",
     "normal"
   ],
-  "evolves_to": [
-    694,
-    0,
-    695
+  "evolutions": [
+
   ],
   "moves": [
     {

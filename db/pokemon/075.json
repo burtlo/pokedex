@@ -6,10 +6,11 @@
     "rock",
     "ground"
   ],
-  "evolves_to": [
-    74,
-    75,
-    76
+  "evolutions": [
+    {
+      "pokemon": 76,
+      "event": "trade"
+    }
   ],
   "moves": [
     {

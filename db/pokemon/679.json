@@ -6,11 +6,11 @@
     "steel",
     "ghost"
   ],
-  "evolves_to": [
-    679,
-    680,
-    0,
-    681
+  "evolutions": [
+    {
+      "pokemon": 680,
+      "event": "level-35"
+    }
   ],
   "moves": [
     {

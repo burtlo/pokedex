@@ -5,12 +5,11 @@
   "types": [
     "normal"
   ],
-  "evolves_to": [
-    137,
-    0,
-    233,
-    0,
-    474
+  "evolutions": [
+    {
+      "pokemon": 233,
+      "event": "trade-with-upgrade"
+    }
   ],
   "moves": [
 

@@ -6,11 +6,8 @@
     "water",
     "dragon"
   ],
-  "evolves_to": [
-    116,
-    117,
-    0,
-    230
+  "evolutions": [
+
   ],
   "moves": [
     {

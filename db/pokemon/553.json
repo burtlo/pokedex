@@ -6,10 +6,8 @@
     "ground",
     "dark"
   ],
-  "evolves_to": [
-    551,
-    552,
-    553
+  "evolutions": [
+
   ],
   "moves": [
     {

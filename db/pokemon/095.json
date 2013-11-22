@@ -6,10 +6,11 @@
     "rock",
     "ground"
   ],
-  "evolves_to": [
-    95,
-    0,
-    208
+  "evolutions": [
+    {
+      "pokemon": 208,
+      "event": "trade-with-metalcoat"
+    }
   ],
   "moves": [
     {

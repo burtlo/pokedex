@@ -5,12 +5,15 @@
   "types": [
     "water"
   ],
-  "evolves_to": [
-    366,
-    0,
-    367,
-    0,
-    368
+  "evolutions": [
+    {
+      "pokemon": 367,
+      "event": "trade-with-deepseatooth"
+    },
+    {
+      "pokemon": 368,
+      "event": "trade-with-deepseascale"
+    }
   ],
   "moves": [
     {

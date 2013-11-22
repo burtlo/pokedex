@@ -6,9 +6,11 @@
     "rock",
     "flying"
   ],
-  "evolves_to": [
-    566,
-    567
+  "evolutions": [
+    {
+      "pokemon": 567,
+      "event": "level-37"
+    }
   ],
   "moves": [
 

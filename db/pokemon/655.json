@@ -6,10 +6,8 @@
     "fire",
     "psychic"
   ],
-  "evolves_to": [
-    653,
-    654,
-    655
+  "evolutions": [
+
   ],
   "moves": [
     {

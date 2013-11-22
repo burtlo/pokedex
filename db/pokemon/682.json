@@ -5,10 +5,11 @@
   "types": [
     "fairy"
   ],
-  "evolves_to": [
-    682,
-    0,
-    683
+  "evolutions": [
+    {
+      "pokemon": 683,
+      "event": "trade-with-sachet"
+    }
   ],
   "moves": [
     {

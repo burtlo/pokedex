@@ -6,9 +6,11 @@
     "bug",
     "rock"
   ],
-  "evolves_to": [
-    557,
-    558
+  "evolutions": [
+    {
+      "pokemon": 558,
+      "event": "level-34"
+    }
   ],
   "moves": [
     {

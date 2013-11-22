@@ -5,9 +5,11 @@
   "types": [
     "bug"
   ],
-  "evolves_to": [
-    616,
-    617
+  "evolutions": [
+    {
+      "pokemon": 617,
+      "event": "trade-with-Karrablast"
+    }
   ],
   "moves": [
     {

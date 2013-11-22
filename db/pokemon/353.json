@@ -5,10 +5,11 @@
   "types": [
     "ghost"
   ],
-  "evolves_to": [
-    353,
-    354,
-    354
+  "evolutions": [
+    {
+      "pokemon": 354,
+      "event": "level-37"
+    }
   ],
   "moves": [
     {

@@ -5,6 +5,12 @@ class Pokemon < ActiveRecord::Base
   has_many :pokemon_moves
   has_many :moves, through: :pokemon_moves
 
+  has_many :pokemon_evolutions
+
+  def evolutions
+    pokemon_evolutions.map {|evolution| evolution.evolves_to }
+  end
+
   def effective_types_against
     type_damage_multipliers.find_all { |effect| effect.multiplier > 1.0 }
   end

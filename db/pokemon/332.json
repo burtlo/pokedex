@@ -6,9 +6,8 @@
     "grass",
     "dark"
   ],
-  "evolves_to": [
-    331,
-    332
+  "evolutions": [
+
   ],
   "moves": [
     {

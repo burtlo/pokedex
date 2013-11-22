@@ -6,11 +6,15 @@
     "water",
     "psychic"
   ],
-  "evolves_to": [
-    79,
-    80,
-    0,
-    199
+  "evolutions": [
+    {
+      "pokemon": 80,
+      "event": "level-37"
+    },
+    {
+      "pokemon": 199,
+      "event": "trade-with-kingsrock"
+    }
   ],
   "moves": [
     {

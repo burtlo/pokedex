@@ -6,9 +6,8 @@
     "grass",
     "steel"
   ],
-  "evolves_to": [
-    597,
-    598
+  "evolutions": [
+
   ],
   "moves": [
     {

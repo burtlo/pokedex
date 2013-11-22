@@ -6,9 +6,11 @@
     "bug",
     "electric"
   ],
-  "evolves_to": [
-    595,
-    596
+  "evolutions": [
+    {
+      "pokemon": 596,
+      "event": "level-36"
+    }
   ],
   "moves": [
 

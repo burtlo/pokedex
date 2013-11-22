@@ -6,9 +6,11 @@
     "water",
     "flying"
   ],
-  "evolves_to": [
-    458,
-    226
+  "evolutions": [
+    {
+      "pokemon": 226,
+      "event": "level-with-remoraid-in-party"
+    }
   ],
   "moves": [
     {

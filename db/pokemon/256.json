@@ -6,11 +6,11 @@
     "fire",
     "fighting"
   ],
-  "evolves_to": [
-    255,
-    256,
-    257,
-    257
+  "evolutions": [
+    {
+      "pokemon": 257,
+      "event": "level-36"
+    }
   ],
   "moves": [
     {

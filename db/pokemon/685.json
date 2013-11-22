@@ -5,10 +5,8 @@
   "types": [
     "fairy"
   ],
-  "evolves_to": [
-    684,
-    0,
-    685
+  "evolutions": [
+
   ],
   "moves": [
     {

@@ -5,11 +5,11 @@
   "types": [
     "fire"
   ],
-  "evolves_to": [
-    255,
-    256,
-    257,
-    257
+  "evolutions": [
+    {
+      "pokemon": 256,
+      "event": "level-16"
+    }
   ],
   "moves": [
     {

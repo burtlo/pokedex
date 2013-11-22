@@ -5,9 +5,11 @@
   "types": [
     "rock"
   ],
-  "evolves_to": [
-    299,
-    476
+  "evolutions": [
+    {
+      "pokemon": 476,
+      "event": "level-at-electric-rock"
+    }
   ],
   "moves": [
     {

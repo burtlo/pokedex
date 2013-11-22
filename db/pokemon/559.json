@@ -6,9 +6,11 @@
     "dark",
     "fighting"
   ],
-  "evolves_to": [
-    559,
-    560
+  "evolutions": [
+    {
+      "pokemon": 560,
+      "event": "level-39"
+    }
   ],
   "moves": [
     {

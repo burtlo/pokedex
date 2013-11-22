@@ -6,10 +6,8 @@
     "steel",
     "psychic"
   ],
-  "evolves_to": [
-    374,
-    375,
-    376
+  "evolutions": [
+
   ],
   "moves": [
     {

@@ -6,10 +6,11 @@
     "dark",
     "dragon"
   ],
-  "evolves_to": [
-    633,
-    634,
-    635
+  "evolutions": [
+    {
+      "pokemon": 634,
+      "event": "level-50"
+    }
   ],
   "moves": [
     {

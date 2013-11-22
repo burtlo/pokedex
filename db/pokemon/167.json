@@ -6,9 +6,11 @@
     "bug",
     "poison"
   ],
-  "evolves_to": [
-    167,
-    168
+  "evolutions": [
+    {
+      "pokemon": 168,
+      "event": "level-22"
+    }
   ],
   "moves": [
     {

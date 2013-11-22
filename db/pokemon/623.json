@@ -6,9 +6,8 @@
     "ground",
     "ghost"
   ],
-  "evolves_to": [
-    622,
-    623
+  "evolutions": [
+
   ],
   "moves": [
     {

@@ -5,11 +5,11 @@
   "types": [
     "electric"
   ],
-  "evolves_to": [
-    172,
-    25,
-    0,
-    26
+  "evolutions": [
+    {
+      "pokemon": 26,
+      "event": "thunderstone"
+    }
   ],
   "moves": [
     {

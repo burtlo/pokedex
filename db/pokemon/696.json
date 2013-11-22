@@ -6,9 +6,11 @@
     "rock",
     "dragon"
   ],
-  "evolves_to": [
-    696,
-    697
+  "evolutions": [
+    {
+      "pokemon": 697,
+      "event": "l39-day"
+    }
   ],
   "moves": [
     {

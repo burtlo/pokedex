@@ -5,10 +5,11 @@
   "types": [
     "fire"
   ],
-  "evolves_to": [
-    58,
-    0,
-    59
+  "evolutions": [
+    {
+      "pokemon": 59,
+      "event": "firestone"
+    }
   ],
   "moves": [
     {

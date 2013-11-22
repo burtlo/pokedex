@@ -6,11 +6,10 @@
     "normal",
     "fairy"
   ],
-  "evolves_to": [
-    174,
-    39,
-    0,
-    40
+  "evolutions": [
+    { "pokemon": 39,
+      "event": "happiness"
+    }
   ],
   "moves": [
     {

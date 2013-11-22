@@ -5,10 +5,11 @@
   "types": [
     "psychic"
   ],
-  "evolves_to": [
-    517,
-    0,
-    518
+  "evolutions": [
+    {
+      "pokemon": 518,
+      "event": "moonstone"
+    }
   ],
   "moves": [
 

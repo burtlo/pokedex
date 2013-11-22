@@ -10,12 +10,22 @@
 </head>
 <body>
 <div class="row-fluid">
-  <div class="span12">
+  <div class="container span12">
+
+    <div class="navbar">
+      <div class="navbar-inner">
+        <a class="brand" href="#">Dex</a>
+        <ul class="nav">
+          <li class="active"><a href="#">Battle</a></li>
+          <li><a href="#">Evolve</a></li>
+        </ul>
+      </div>
+    </div>
+
     <div><h1>Pokedex</h1></div>
     <%= yield %>
   </div>
 </div>
-
 
 </body>
 </html>

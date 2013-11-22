@@ -21,6 +21,8 @@ gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 
+gem "active_model_serializers"
+
 group :production do
   gem 'rails_12factor'
   gem 'pg'
@@ -36,4 +38,6 @@ group :test, :development do
   gem 'rspec-rails'
   gem 'pry'
   gem 'sqlite3'
+  gem "better_errors"
+  gem "binding_of_caller"
 end

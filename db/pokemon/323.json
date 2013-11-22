@@ -6,9 +6,8 @@
     "fire",
     "ground"
   ],
-  "evolves_to": [
-    322,
-    323
+  "evolutions": [
+
   ],
   "moves": [
     {

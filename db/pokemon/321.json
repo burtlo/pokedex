@@ -5,9 +5,8 @@
   "types": [
     "water"
   ],
-  "evolves_to": [
-    320,
-    321
+  "evolutions": [
+
   ],
   "moves": [
     {

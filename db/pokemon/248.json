@@ -6,11 +6,8 @@
     "rock",
     "dark"
   ],
-  "evolves_to": [
-    246,
-    247,
-    248,
-    248
+  "evolutions": [
+
   ],
   "moves": [
     {

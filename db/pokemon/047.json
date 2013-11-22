@@ -6,9 +6,8 @@
     "bug",
     "grass"
   ],
-  "evolves_to": [
-    46,
-    47
+  "evolutions": [
+
   ],
   "moves": [
     {

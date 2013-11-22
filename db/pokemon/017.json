@@ -6,10 +6,11 @@
     "normal",
     "flying"
   ],
-  "evolves_to": [
-    16,
-    17,
-    18
+  "evolutions": [
+    {
+      "pokemon": 18,
+      "event": "level-36"
+    }
   ],
   "moves": [
     {
