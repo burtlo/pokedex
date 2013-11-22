@@ -20,9 +20,6 @@ class PokemonsController < ApplicationController
   def search
     query = params[:query].gsub(/[^a-zA-Z0-9]*/,'')
     @pokemons = Pokemon.where("LOWER(name) LIKE LOWER(?)","%#{query}%").order(:name)
-    # @pokemons = @pokemons.map {|p| hash_representation(p) }
-
-    cookies[:last_search] = query
 
     respond_to do |format|
       format.json do
