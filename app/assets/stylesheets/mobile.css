@@ -4,7 +4,7 @@ and (max-device-width : 568px)
 and (orientation : portrait) {
 
   .row-fluid [class*="span"]:first-child {
-    margin-left: 14.203px;
+    margin-left: 2.564102564102564%;
   }
 
   div.pokemon-entry div.description {

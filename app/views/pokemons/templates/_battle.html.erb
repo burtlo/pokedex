@@ -1,4 +1,4 @@
-<script id="pokemon-index-template" type="text/x-handlebars-template">
+<script id="pokemon-battle-template" type="text/x-handlebars-template">
   <div class="pokemon-entry span13">
     <div class="description span3">
       <h4>{{name}}</h4>
@@ -23,17 +23,6 @@
         <span class="multiplier">(x{{multiplier}})</span>
       </div>
     {{/ineffectiveAttacks}}
-    </div>
-
-    <div class="span10 ineffective-attack">
-    <h5>Evolutions</h5>
-    {{#evolutions}}
-      <div class="attack poison">
-        <h4>{{name}}</h4>
-        <img src="{{image}}" />
-        <span class="multiplier">({{event}})</span>
-      </div>
-    {{/evolutions}}
     </div>
 
   </div>

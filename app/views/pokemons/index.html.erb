@@ -6,30 +6,7 @@
   </div>
 </div>
 
-<%= render partial: "pokemon_clientside" %>
+<%= render partial: "pokemons/templates/battle" %>
+<%= render partial: "pokemons/templates/evolve" %>
 
-<div class="span11" id="pokemon-results">
-</div>
-
-<script>
-  $(function() {
-
-    $("#pokemon-search").keypress(function(e) {
-      if(e.which == 13) {
-        e.preventDefault();
-      }
-    });
-
-    $("#pokemon-search").on("keyup",function(eventObj) {
-      if (eventObj.which == 13) { return; }
-      var searchText = $(this).val();
-      pokemonSearchFor(searchText);
-    });
-
-    var searchText = $("#pokemon-search").val();
-
-    pokemonSearchFor(searchText);
-
-  });
-
-</script>
+<div class="span11" id="pokemon-results"></div>

@@ -1,6 +1,7 @@
 class PokemonSerializer < ActiveModel::Serializer
   attributes :name, :index, :types, :image, :url,
-    :effectiveAttacks, :ineffectiveAttacks, :evolutions
+    :effectiveAttacks, :ineffectiveAttacks,
+    :evolutions, :firstEvolution, :otherEvolutions
 
   def types
     object.types.map { |t| t.name }.join(",")
@@ -30,7 +31,8 @@ class PokemonSerializer < ActiveModel::Serializer
     object.pokemon_evolutions.map do |evolution|
       pokemon = evolution.evolves_to
 
-      { event: evolution.event,
+      {
+        event: evolution.event.to_s.titleize,
         index: pokemon.index,
         name: pokemon.name,
         url: pokemon_url(pokemon),
@@ -39,6 +41,13 @@ class PokemonSerializer < ActiveModel::Serializer
     end
   end
 
+  def firstEvolution
+    evolutions.first
+  end
+
+  def otherEvolutions
+    evolutions[1..-1]
+  end
 
   def image_path(image_name)
     ActionController::Base.helpers.image_path(image_name)

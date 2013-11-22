@@ -1,0 +1,23 @@
+
+.evolves-to {
+  width: 0;
+  height: 0;
+  margin-top: 40px;
+  border-top: 60px solid transparent;
+  border-bottom: 60px solid transparent;
+
+  /*border-left: 60px solid #98d8d8;*/
+  border-left: 60px solid #e0c068;
+}
+
+.evolution {
+}
+
+.evolution-event {
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 3px;
+  margin: 2px;
+  background-color: #e0c068;
+}
+

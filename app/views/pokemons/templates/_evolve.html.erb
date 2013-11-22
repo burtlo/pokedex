@@ -1,0 +1,41 @@
+<script id="pokemon-evolve-template" type="text/x-handlebars-template">
+  <div class="pokemon-entry span13">
+    <div class="description span2">
+      <h4>{{name}}</h4>
+      <img src="{{image}}" />
+    </div>
+
+    {{#if firstEvolution}}
+      <div class="span8">
+        <div class="evolves-to span1">
+        </div>
+        <div class="evolution span10">
+          <div>
+            <h4>{{firstEvolution.name}}</h4>
+            <img src="{{firstEvolution.image}}" />
+            <div class="evolution-event">
+              {{firstEvolution.event}}
+            </div>
+          </div>
+        </div>
+      </div>
+    {{/if}}
+
+    {{#otherEvolutions}}
+      <div class="span8 offset2">
+        <div class="evolves-to span1">
+        </div>
+        <div class="evolution span10">
+          <div>
+            <h4>{{name}}</h4>
+            <img src="{{image}}" />
+            <div class="evolution-event">
+              {{event}}
+            </div>
+          </div>
+        </div>
+      </div>
+    {{/otherEvolutions}}
+
+  </div>
+</script>
