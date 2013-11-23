@@ -1,8 +1,18 @@
 $(function() {
+  $(".brand").on("click",function(eventObj) {
+    eventObj.preventDefault();
+    var filter = $(this).data("template");
+    Pokemon.setTemplate(filter);
+    Pokemon.render();
+  });
 
-  var lastSearchText = $.cookie("last-search") || "";
+  $("ul.nav li").on("click",function(eventObj) {
+    var filter = $(this).data("template");
+    Pokemon.setTemplate(filter);
+    Pokemon.render();
+  });
 
-  $("#pokemon-search").val(lastSearchText);
+  $("#pokemon-search").val(Pokemon.filter());
 
   $("#pokemon-search").keypress(function(e) {
     if(e.which == 13) {
@@ -13,53 +23,65 @@ $(function() {
   $("#pokemon-search").on("keyup",function(eventObj) {
     if (eventObj.which == 13) { return; }
     var searchText = $(this).val();
-    pokemonSearchFor(searchText);
+    Pokemon.search(searchText);
   });
 
-  var searchText = $("#pokemon-search").val();
-  pokemonSearchFor(searchText,{ force: true });
-
+  Pokemon.fetch();
 });
 
-function pokemonSearchFor(searchText,options) {
-  console.log("searching for " + searchText);
-
-  var lastSearchText = $.cookie("last-search");
-
-  if (searchText === lastSearchText && !options.force) { return; }
-
-  $.cookie("last-search",searchText);
-
-  if (searchText.length < 2) {
-    Pokemon.setPokemon({});
-    Pokemon.render();
-    return;
-  }
-
-  $.ajax("/pokemons/search", { type: "POST",
-    data: { query: searchText },
-    success: function(data,textStatus,jqXHR) {
-      console.log("Search Complete");
-      console.log(data);
-      Pokemon.setPokemon(data.pokemons);
-      Pokemon.render();
-    },
-    error: function() {
-      // console.log("failure");
-    }
-  });
-}
-
 Pokemon = {
-  setPokemon: function(pokemon) { this.pokemon = pokemon; },
+  fetch: function() {
+
+    jQuery.retrieveJSON("/pokemons",function(json) {
+      Pokemon.setPokemon(json.pokemons);
+      Pokemon.render();
+    });
+
+  },
+  search: function(searchText) {
+    if (searchText === this.filter()) { return; }
+    this.setFilter(searchText);
+    this.render();
+  },
+  setFilter: function(filter) {
+    $.cookie("pokemon-filter",filter);
+  },
+  filter: function() {
+    return $.cookie("pokemon-filter") || "";
+  },
+  pokemon: function() {
+    var filteredPokemon = [];
+
+    var filterBy = this.filter();
+
+    if (filterBy === "") {
+      return this.pokemonData;
+    }
+
+    console.log("Pokemon filtered: " + filterBy);
+
+    var filterRegex = new RegExp(filterBy,"i");
+
+    $.each(this.pokemonData,function(index,obj) {
+      if ( obj.name.match(filterRegex) ) {
+        filteredPokemon.push(obj);
+      }
+    });
+
+    return filteredPokemon;
+  },
+  setPokemon: function(pokemon) {
+    this.pokemonData = pokemon;
+  },
   render: function() {
+    console.log("Rendering");
     this.clearView();
 
     var template = this.template();
     var resultsHtml = $("#pokemon-results");
 
-    $.each(this.pokemon,function(index,elem) {
-      var pokemonHtml = template(elem);
+    $.each(this.pokemon(),function(index,obj) {
+      var pokemonHtml = template(obj);
       resultsHtml.append(pokemonHtml);
     });
 

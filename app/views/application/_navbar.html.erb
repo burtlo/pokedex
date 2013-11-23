@@ -1,37 +1,9 @@
 <div class="navbar">
   <div class="navbar-inner">
-    <a class="brand" href="#">Dex</a>
+    <a class="brand" data-template="index" href="#">Dex</a>
     <ul class="nav">
-      <li data-filter="battle"><a href="#battle">Battle</a></li>
-      <li data-filter="evolve"><a href="#evolve">Evolve</a></li>
+      <li data-template="battle"><a href="#battle">Battle</a></li>
+      <li data-template="evolve"><a href="#evolve">Evolve</a></li>
     </ul>
   </div>
 </div>
-
-
-<script>
-
-// when I click on battle
-// from the saved local list of pokemon
-// re-render the pokemon with the battle template
-
-  $(function() {
-
-    $("ul.nav li").on("click",function(eventObj) {
-
-      var filter = $(this).data("filter");
-      console.log(filter);
-
-      // switch to the selected template
-      Pokemon.setTemplate(filter);
-
-      // re-render the pokemon
-      Pokemon.render();
-
-
-    });
-
-  });
-
-
-</script>

@@ -1,11 +1,12 @@
 <div class="search span12">
   <div class="offset2 span10">
     <form class="form-search">
-      <input id="pokemon-search" type="text" class="input-medium search-query" style="width: 100%;">
+      <input id="pokemon-search" type="text" class="input-medium search-query" autocomplete="off" style="width: 100%;">
     </form>
   </div>
 </div>
 
+<%= render partial: "pokemons/templates/index" %>
 <%= render partial: "pokemons/templates/battle" %>
 <%= render partial: "pokemons/templates/evolve" %>
 
