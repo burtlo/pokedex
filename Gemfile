@@ -27,7 +27,9 @@ gem "active_model_serializers"
 group :production do
   gem 'rails_12factor'
   gem 'pg'
+
   gem 'dalli'
+  gem 'memcachier'
 end
 
 group :doc do
