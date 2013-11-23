@@ -9,7 +9,7 @@
   "evolutions": [
     {
       "pokemon": 528,
-      "event": "happiness"
+      "event": "level-with-full-happiness"
     }
   ],
   "moves": [

@@ -7,7 +7,7 @@
   ],
   "evolutions": [
     { "pokemon": 25,
-      "event": "happiness"
+      "event": "level-with-full-happiness"
     }
   ],
   "moves": [

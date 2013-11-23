@@ -9,7 +9,7 @@
   "evolutions": [
     {
       "pokemon": 315,
-      "event": "level-with-happiness-during-daytime"
+      "event": "level-with-full-happiness-during-day"
     }
   ],
   "moves": [

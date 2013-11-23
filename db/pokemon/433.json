@@ -7,7 +7,7 @@
   ],
   "evolutions": [
     { "pokemon": 433,
-      "event": "level-happiness-at-night"
+      "event": "level-with-full-happiness-during-night"
     }
   ],
   "moves": [

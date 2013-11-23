@@ -28,15 +28,15 @@
     },
     {
       "pokemon": 196,
-      "event": "level-with-happiness-during-day"
+      "event": "level-with-full-happiness-during-day"
     },
     {
       "pokemon": 197,
-      "event": "level-with-happiness-during-night"
+      "event": "level-with-full-happiness-during-night"
     },
     {
       "pokemon": 700,
-      "event": "level-with-happiness-and-fairy-move"
+      "event": "level-with-full-happiness-and-fairy-move"
     }
   ],
   "moves": [
