@@ -17,13 +17,13 @@ class PokemonSerializer < ActiveModel::Serializer
 
   def effectiveAttacks
     object.effective_types_against.map do |atk|
-      { name: atk.name, color: Type.find_by_name(atk.name).color, multiplier: atk.multiplier }
+      { name: atk.name, multiplier: atk.multiplier }
     end
   end
 
   def ineffectiveAttacks
     object.ineffective_types_against.map do |atk|
-      { name: atk.name, color: Type.find_by_name(atk.name).color, multiplier: atk.multiplier }
+      { name: atk.name, multiplier: atk.multiplier }
     end
   end
 
