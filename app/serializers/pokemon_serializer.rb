@@ -1,4 +1,10 @@
 class PokemonSerializer < ActiveModel::Serializer
+  cached
+
+  def cache_key
+    [object, scope]
+  end
+
   attributes :name, :index, :types, :image, :url,
     :effectiveAttacks, :ineffectiveAttacks,
     :evolutions, :firstEvolution, :otherEvolutions
