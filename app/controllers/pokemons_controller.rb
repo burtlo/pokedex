@@ -4,7 +4,7 @@ class PokemonsController < ApplicationController
   # GET /pokemons
   # GET /pokemons.json
   def index
-    @pokemons = Pokemon.all
+    @pokemons = Pokemon.all.order(:index)
 
     respond_to do |format|
       format.html
