@@ -17,6 +17,8 @@ $(function() {
   $("#pokemon-search").keypress(function(e) {
     if(e.which == 13) {
       e.preventDefault();
+      $(this).blur();
+      console.log("enter was pressed");
     }
   });
 
