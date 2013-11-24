@@ -12,6 +12,7 @@ and (min-device-width : 569px) {
 
   .pokemon-entry h4 {
     font-size: 20px;
+    overflow: hidden;
   }
 
   .pokemon-entry h5 {

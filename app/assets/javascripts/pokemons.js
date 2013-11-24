@@ -34,11 +34,14 @@ $(function() {
 Pokemon = {
   fetch: function() {
 
-    jQuery.retrieveJSON("/pokemons",function(json) {
+    $.retrieveJSON("/pokemons",function(json) {
       Pokemon.setPokemon(json.pokemons);
       Pokemon.render();
     });
 
+  },
+  reset: function() {
+    $.clearJSON("/pokemons");
   },
   search: function(searchText) {
     if (searchText === this.filter()) { return; }
