@@ -1,0 +1,50 @@
+$types: normal #a8a878,
+  fighting #c03028,
+  flying #a890f0,
+  poison #a040a0,
+  ground #e0c068,
+  rock #b8a038,
+  bug #a8b820,
+  ghost #705898,
+  steel #b8b8d0,
+  fire #f08030,
+  water #6890f0,
+  grass #78c850,
+  electric #f8d030,
+  psychic #f85888,
+  ice #98d8d8,
+  dragon #7038f8,
+  dark #705848,
+  fairy #ee99ac;
+
+/* ... generate each attack color class ... */
+@each $type in $types {
+  .#{nth($type,1)} {
+    background-color: #{nth($type,2)};
+  }
+}
+
+/* ... generate each dual type gradient class ... */
+@each $primary in $types {
+  @each $secondary in $types {
+    .#{nth($primary,1)}-and-#{nth($secondary,1)} {
+      background: -webkit-gradient(linear, left top, left bottom,
+        color-stop(0%, nth($primary,2)),
+        color-stop(10%, rgba(nth($primary,2),0.8)),
+        color-stop(25%, rgba(nth($primary,2),0.7)),
+        color-stop(40%, rgba(nth($primary,2),0.2)),
+        color-stop(50%, rgba(nth($primary,2),0.0)),
+        color-stop(51%, rgba(nth($secondary,2),0.0)),
+        color-stop(60%, rgba(nth($secondary,2),0.2)),
+        color-stop(75%, rgba(nth($secondary,2),0.7)),
+        color-stop(90%, rgba(nth($secondary,2),0.8)),
+        color-stop(100%, nth($secondary,2)));
+    }
+
+  }
+}
+
+.effective-attack { }
+.ineffective-attack { }
+
+.multiplier { float: right; }

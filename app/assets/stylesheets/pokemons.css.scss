@@ -1,3 +1,36 @@
-// Place all the styles related to the Pokemons controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.description {
+  position: relative;
+}
+
+.pokemon-name {
+  margin-top: 8px;
+  font-size: 20px;
+  color: white;
+  width: 100%;
+  text-align: center;
+}
+
+.pokemon-type {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -2;
+  border-radius: 5px;
+}
+
+.pokemon-index {
+  position: absolute;
+  left: 6px;
+  bottom: 4px;
+  right: 0px;
+  z-index: 4;
+
+  overflow: hidden;
+
+  font-size: 20px;
+  color: white;
+
+  background: rgba(0,0,0,0.2);
+  border-radius: 5px;
+  padding: 4px;
+}

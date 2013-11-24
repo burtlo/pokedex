@@ -5,12 +5,26 @@ class PokemonSerializer < ActiveModel::Serializer
     [object, scope]
   end
 
-  attributes :name, :index, :types, :image, :url,
+  attributes :name, :index, :types, :typeSummary, :image, :url,
     :effectiveAttacks, :ineffectiveAttacks,
     :evolutions, :firstEvolution, :otherEvolutions
 
   def types
-    object.types.map { |t| t.name }.join(",")
+    object.types.map { |t| t.name }
+  end
+
+  def typeSummary
+    duplicate_type_if_only_one(types).join("-and-")
+  end
+
+  def duplicate_type_if_only_one(types)
+    pk_types = types
+
+    if pk_types.length == 1
+      pk_types = pk_types + pk_types
+    end
+
+    pk_types
   end
 
   def image
@@ -36,13 +50,14 @@ class PokemonSerializer < ActiveModel::Serializer
   def evolutions
     object.pokemon_evolutions.map do |evolution|
       pokemon = evolution.evolves_to
-
+      types = object.types.map { |t| t.name }
       {
         event: evolution.event.to_s.titleize,
         index: pokemon.index,
         name: pokemon.name,
         url: pokemon_url(pokemon),
-        image: image_path(pokemon.image_name)
+        image: image_path(pokemon.image_name),
+        typeSummary: duplicate_type_if_only_one(types).join("-and-")
       }
     end
   end
