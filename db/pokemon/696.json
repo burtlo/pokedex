@@ -9,7 +9,7 @@
   "evolutions": [
     {
       "pokemon": 697,
-      "event": "l39-day"
+      "event": "level-39-during-day"
     }
   ],
   "moves": [

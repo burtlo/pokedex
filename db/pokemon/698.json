@@ -9,7 +9,7 @@
   "evolutions": [
     {
       "pokemon": 699,
-      "event": "l39-night"
+      "event": "level-39-during-night"
     }
   ],
   "moves": [

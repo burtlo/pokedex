@@ -8,7 +8,7 @@
   "evolutions": [
     {
       "pokemon": 706,
-      "event": "l50-raining"
+      "event": "level-50-during-rain"
     }
   ],
   "moves": [

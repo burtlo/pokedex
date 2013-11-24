@@ -9,7 +9,7 @@
   "evolutions": [
     {
       "pokemon": 687,
-      "event": "l30-with-3ds-upside-down"
+      "event": "level-30-with-3ds-upside-down"
     }
   ],
   "moves": [

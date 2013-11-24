@@ -9,7 +9,7 @@
   "evolutions": [
     {
       "pokemon": 416,
-      "event": "l21-female"
+      "event": "level-21-with-female"
     }
   ],
   "moves": [
