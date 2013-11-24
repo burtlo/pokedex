@@ -1,35 +1,44 @@
 <script id="pokemon-evolve-template" type="text/x-handlebars-template">
-  <div class="pokemon-entry span13">
-    <div class="description span2">
-      <h4>{{name}}</h4>
-      <img src="{{image}}" />
+  <div class="pokemon-entry span11">
+
+    <div class="pokemon-entry span2">
+      <div class="description">
+        <div class="span2" style="width: 100%;">
+          <div class="pokemon-type {{typeSummary}}"></div>
+          <div class="pokemon-name">{{name}}</div>
+        </div>
+        <img src="{{image}}" />
+        <div class="pokemon-index">{{index}}</div>
+      </div>
     </div>
 
     {{#if firstEvolution}}
-      <div class="span9">
         <div class="evolves-to span1"></div>
-        <div class="evolution span10">
-          <div>
-            <h4>{{firstEvolution.name}}</h4>
+        <div class="pokemon-entry span2">
+          <div class="description">
+            <div class="span2" style="width: 100%;">
+              <div class="pokemon-type {{firstEvolution.typeSummary}}"></div>
+              <div class="pokemon-name">{{firstEvolution.name}}</div>
+            </div>
             <img src="{{firstEvolution.image}}" />
             <div class="evolution-event">
               {{firstEvolution.event}}
             </div>
           </div>
         </div>
-      </div>
     {{/if}}
 
     {{#otherEvolutions}}
-      <div class="span9 offset2">
-        <div class="evolves-to span1"></div>
-        <div class="evolution span10">
-          <div>
-            <h4>{{name}}</h4>
-            <img src="{{image}}" />
-            <div class="evolution-event">
-              {{event}}
-            </div>
+      <div class="evolves-to offset2 span1"></div>
+      <div class="pokemon-entry span2">
+        <div class="description">
+          <div class="span2" style="width: 100%;">
+            <div class="pokemon-type {{typeSummary}}"></div>
+            <div class="pokemon-name">{{name}}</div>
+          </div>
+          <img src="{{image}}" />
+          <div class="evolution-event">
+            {{event}}
           </div>
         </div>
       </div>

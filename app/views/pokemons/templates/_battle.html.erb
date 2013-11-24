@@ -1,10 +1,16 @@
 <script id="pokemon-battle-template" type="text/x-handlebars-template">
-  <div class="pokemon-entry span13">
-    <div class="description span3">
-      <h4>{{name}}</h4>
-
-      <img src="{{image}}" />
+  <div class="pokemon-entry span11">
+    <div class="pokemon-entry span2">
+      <div class="description">
+        <div class="span2" style="width: 100%;">
+          <div class="pokemon-type {{typeSummary}}"></div>
+          <div class="pokemon-name">{{name}}</div>
+        </div>
+        <img src="{{image}}" />
+        <div class="pokemon-index">{{index}}</div>
+      </div>
     </div>
+
     <div class="span4 effective-attack">
     <h5>Attack With</h5>
     {{#effectiveAttacks}}

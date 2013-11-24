@@ -50,13 +50,14 @@ class PokemonSerializer < ActiveModel::Serializer
   def evolutions
     object.pokemon_evolutions.map do |evolution|
       pokemon = evolution.evolves_to
-
+      types = object.types.map { |t| t.name }
       {
         event: evolution.event.to_s.titleize,
         index: pokemon.index,
         name: pokemon.name,
         url: pokemon_url(pokemon),
-        image: image_path(pokemon.image_name)
+        image: image_path(pokemon.image_name),
+        typeSummary: duplicate_type_if_only_one(types).join("-and-")
       }
     end
   end

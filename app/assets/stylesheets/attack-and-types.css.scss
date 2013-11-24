@@ -28,7 +28,6 @@ $types: normal #a8a878,
 @each $primary in $types {
   @each $secondary in $types {
     .#{nth($primary,1)}-and-#{nth($secondary,1)} {
-      /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,nth($primary,2)), color-stop(100%,nth($secondary,2))); /* Chrome,Safari4+ */
       background: -webkit-gradient(linear, left top, left bottom,
         color-stop(0%, nth($primary,2)),
         color-stop(10%, rgba(nth($primary,2),0.8)),

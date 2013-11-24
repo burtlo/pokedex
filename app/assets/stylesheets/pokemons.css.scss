@@ -1,13 +1,18 @@
 .description {
   position: relative;
 }
-.pokemon-name {
 
+.pokemon-name {
+  margin-top: 8px;
+  font-size: 20px;
+  color: white;
+  width: 100%;
+  text-align: center;
 }
+
 .pokemon-type {
   position: absolute;
   height: 100%;
-  /*width: 50%;*/
   width: 100%;
   z-index: -2;
   border-radius: 5px;
@@ -15,9 +20,17 @@
 
 .pokemon-index {
   position: absolute;
-  left: 5px;
-  bottom: 5px;/* right: 0;*/
-  z-index: -1;
+  left: 6px;
+  bottom: 4px;
+  right: 0px;
+  z-index: 4;
+
   overflow: hidden;
+
   font-size: 20px;
+  color: white;
+
+  background: rgba(0,0,0,0.2);
+  border-radius: 5px;
+  padding: 4px;
 }

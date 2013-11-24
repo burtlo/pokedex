@@ -1,23 +1,32 @@
 
 .evolves-to {
-  width: 0;
-  height: 0;
-  margin-top: 40px;
-  border-top: 60px solid transparent;
-  border-bottom: 60px solid transparent;
-
-  /*border-left: 60px solid #98d8d8;*/
-  border-left: 60px solid #e0c068;
+width: 0px;
+height: 0px;
+/*margin-top: 48px;*/
+margin-top: 4%;
+border-style: solid;
+border-width: 50px 0 50px 30px;
+border-color: transparent transparent transparent rgba(127,127,127,0.4);
 }
 
 .evolution {
 }
 
 .evolution-event {
-  font-weight: bold;
-  padding: 10px;
-  border-radius: 3px;
-  margin: 2px;
-  background-color: #e0c068;
+  position: absolute;
+  left: 6px;
+  bottom: 4px;
+  z-index: 4;
+  right: 0px;
+
+  overflow: hidden;
+
+  background: rgba(0,0,0,0.2);
+  border-radius: 5px;
+  padding: 4px;
+
+  /*font-weight: bold;*/
+  font-size: 16px;
+  color: white;
 }
 
