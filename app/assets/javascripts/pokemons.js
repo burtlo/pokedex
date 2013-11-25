@@ -34,9 +34,10 @@ $(function() {
 Pokemon = {
   fetch: function() {
 
-    $.retrieveJSON("/pokemons",function(json) {
+    $.retrieveJSON("/pokemons",function(json,status) {
       Pokemon.setPokemon(json.pokemons);
       Pokemon.render();
+      return false;
     });
 
   },
@@ -84,12 +85,13 @@ Pokemon = {
 
     var template = this.template();
     var resultsHtml = $("#pokemon-results");
+    var pokemonHtml = "";
 
     $.each(this.pokemon(),function(index,obj) {
-      var pokemonHtml = template(obj);
-      resultsHtml.append(pokemonHtml);
+       pokemonHtml += template(obj);
     });
 
+    resultsHtml.html(pokemonHtml);
   },
   clearView: function() {
     var resultsHtml = $("#pokemon-results");
